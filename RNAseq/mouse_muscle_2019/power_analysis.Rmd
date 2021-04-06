@@ -1,0 +1,170 @@
+---
+title: "Muscle RNAseq Power Analysis"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+bibliography: power_analysis.bib
+---
+
+```{r, loading, include=FALSE}
+# package loading
+library(RnaSeqSampleSize)
+library(dplyr)
+library(purrr)
+library(ggplot2)
+set.seed(538734517)
+```
+
+# Power analysis for Muscle RNAseq
+
+This notebook contains code for the power analysis for the RNAseq delta3 muscle experiment. Experiment design is two factor crossed, with Normal WT vs Crispr delta and Normal vs Deenervated. Number of expected samples per group is 5-6.
+
+## Data
+
+Data used is [GSE58669](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58669) which is from [@Macpherson2015]. This contains two WT Innervated Soleus muscle samples and two WT Deenervated Soleus muscle samples. (Also some KO samples which we did not use for the analysis) FASTQ files were run through [Bioflows](https://github.com/compbiocore/bioflows) and counts made with HTseq. Specific genes of interest for the analysis came from email exchange, and Ensembl gene IDs were pulled with Biomart.
+
+```{r, file_parsing, warning=FALSE, tidy=TRUE}
+# file parsing and cleaning
+file_names <- c("SRS643406_SRX612440.dup.srtd.bam_htseq_counts", "SRS643403_SRX612437.dup.srtd.bam_htseq_counts", "SRS643407_SRX612441.dup.srtd.bam_htseq_counts", "SRS643404_SRX612438.dup.srtd.bam_htseq_counts")
+types <- c("Innervated_WT_1", "Innervated_WT_2", "Denervated_WT_1", "Denervated_WT_2")
+counts <- lapply(1:4, function(i) read.delim(file.path(file_names[i]),header=FALSE,col.names=c("gene_id","gene_name",types[i]))) %>% reduce(full_join)
+dataMat <- counts[,3:6]
+rownames(dataMat) <- counts$gene_id
+head(dataMat)
+genelist <- read.csv("gene_list.txt")
+head(genelist)
+```
+
+## Power analysis
+
+RNAseqsamplesize [@Zhao2018] was used to do the analysis. With expected fold change between groups = 2, FDR set = 0.01 and number of samples = 5, power was computed to be 0.086 for the selected genes of interest which is very low. Some gene IDs pulled from Biomart are not in the dataset because they are alleles on alternative sequences (i.e. rapsn and Fbxo32) Dispersion was also computed as 0.04754.
+
+```{r, power, tidy=TRUE, warning=FALSE}
+# estimate gene read count and dispersion distribution
+distribution <- est_count_dispersion(dataMat,group=c(0,0,1,1))
+
+# power estimation
+# some gene IDs are not in dataset because they are alleles on alternative sequences (rapsn and Fbxo32)
+power <- est_power_distribution(n=5,f=0.01,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power$power) # 0.08607387
+
+power2 <- est_power_distribution(n=6,f=0.01,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power2$power)
+```
+
+From changing around FDR (`fdr` parameter in `est_power_curve()`) and coverage (`lambda0` parameter in `est_power_curve()`) as well as making an optimization plot, it appears that at least 10 samples are needed with an average coverage > 10 reads/gene depending on desired FDR in order to achieve >80% power. To be precise, 10 samples with 10 coverage and FDR=0.05 will give 82% power. To be safe, for the genes of interest we would need at least 13 samples to achieve 80% power.
+
+```{r, power_curve, tidy=TRUE, echo=FALSE, fig.cap="Red line is FDR=0.01, coverage=5. Blue line is FDR=0.05, coverage=5. Purple line is FDR=0.01, coverage=10. Green line is FDR=0.05, coverage=10. Yellow line is FDR=0.05, coverage=20."}
+# power vs sample size plot for different coverage / FDR
+coverage5_fdr1 <- est_power_curve(n=40,f=0.01,rho=2,lambda0=5,phi0=0.04754, m = 52000, m1=71)
+coverage10_fdr1 <- est_power_curve(n=40,f=0.01,rho=2,lambda0=10,phi0=0.04754)
+coverage5_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=5,phi=0.04754)
+coverage10_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=292,phi=0.04754, m = 52000, m1=71)
+coverage20_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=20,phi=0.04754)
+plot_power_curve(list(coverage5_fdr1,coverage5_fdr5,coverage10_fdr1,coverage10_fdr5,coverage20_fdr5))
+```
+
+```{r, optimize, tidy=TRUE, echo=FALSE, fig.cap="Blue to brown gradient shows power from 0 to 1. Here FDR=0.01."}
+# optimization plots
+result <- optimize_parameter(fun=est_power, opt1="n", opt2="lambda0", opt1Value=c(5,10,15,20),opt2Value = c(5,10,15,20), f=0.01, phi0=0.04754)
+```
+
+```{r, power15, tidy=TRUE, warnings=FALSE}
+est_power(n=8, lambda0=20, phi0=0.07154, f=0.05, m=52000,m1=71)
+power10 <- est_power_distribution(n=10,f=0.05,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power10$power)
+power13 <- est_power_distribution(n=13,f=0.05,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power13$power)
+power15 <- est_power_distribution(n=15,f=0.05,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power15$power)
+```
+
+```{r}
+gene_readcounts <- distribution$pseudo.counts.mean[which(names(distribution$pseudo.counts.mean) %in% genelist$Gene.stable.ID)]
+gene_dispersions <- distribution$tagwise.dispersion[which(names(distribution$pseudo.counts.mean) %in% genelist$Gene.stable.ID)]
+mean(gene_readcounts)
+mean(gene_dispersions)
+ggplot(data=data.frame(counts=as.numeric(gene_readcounts),name=as.character(counts$gene_name[counts$gene_id %in% names(gene_readcounts)]))) + geom_bar(aes(x=reorder(name,-counts),y=counts),stat="identity") + scale_y_log10() + coord_flip() + xlab("Gene name") + ylab("Mean count per gene across samples") + theme(axis.text.y = element_text(size=7)) + ggtitle("Mean count per gene across samples from experimental data") + labs(caption="Each sample has approximately 50 million reads. Experiment ID GSE58669")
+```
+
+```{r}
+ss<-sample_size_distribution(f=0.05,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+ss
+```
+
+```{r, ss_drop10}
+names <- as.character(counts$gene_name[counts$gene_id %in% names(gene_readcounts)])
+to_drop <- names[which(gene_readcounts < 10)]
+ss_drop10 <- sample_size_distribution(f=0.1,distributionObject=distribution,selectedGenes=names(which(gene_readcounts>=10)),storeProcess = TRUE)
+# 76.7% power with N=9, 83.1% power with N=10
+ss_drop10
+```
+
+```{r, ss_drop80}
+to_drop80 <- names[which(gene_readcounts < 80)]
+ss_drop80 <- sample_size_distribution(f=0.1,distributionObject=distribution,selectedGenes=names(which(gene_readcounts>=80)),storeProcess = TRUE)
+# basically when rho goes up and genes go down it works
+# so what exactly is rho?
+# basically effect size... so question: do we expect it to be bigger or smaller than in the 2 group situation?
+ss_drop80
+```
+
+```{r, ss_drop200}
+to_drop200 <- names[which(gene_readcounts < 200)]
+ss_drop200 <- sample_size_distribution(f=0.1,distributionObject=distribution,selectedGenes=names(which(gene_readcounts>=200)),storeProcess = TRUE)
+```
+
+```{r, fold_size_change}
+ss_drop80_fold2.5 <- sample_size_distribution(f=0.1,rho=2.5,distributionObject=distribution,selectedGenes=names(which(gene_readcounts>=80)),storeProcess = TRUE)
+ss_drop80_fold2.5
+```
+
+```{r, kept_genes}
+kept <- c(2:6,8:13,15:29,32,34:39,42:44, 46:57, 59:63, 66, 68:69, 71, 74, 77, 79)
+# genelist[kept,]$Gene.name[which(!genelist[kept,]$Gene.stable.ID %in% names(distribution$pseudo.counts.mean))]
+# Wnt3  Bmp10 Bmp8a Wnt1  Wnt7a Wnt3a Wnt8a Wnt8b
+kept_final <- kept[which(genelist[kept,]$Gene.stable.ID %in% names(distribution$pseudo.counts.mean))]
+power_kept <- est_power_distribution(n=6,f=0.1,m=52000,m1=4000,distributionObject=distribution,selectedGenes=genelist[kept_final,]$Gene.stable.ID,storeProcess = TRUE)
+mean(power_kept$power) #32% power with just kept genes and 6 samples each group
+ss_kept <- sample_size_distribution(f=0.1,rho=2,distributionObject=distribution,selectedGenes=genelist[kept,]$Gene.stable.ID,storeProcess=TRUE)
+```
+
+```{r, count_to_ss}
+found <- genelist[which(genelist$Gene.stable.ID %in% names(distribution$pseudo.counts.mean)),]
+n <- 1:15
+gene_powers <- lapply(n, function(x) est_power_distribution(n=x, f=0.1, rho=2, distributionObject=distribution, m=52000,m1=4000,selectedGenes=found$Gene.stable.ID,storeProcess=TRUE)$power)
+num_genes <- sapply(gene_powers,function(x) sum(x>0.8))
+gene_powers_keptfinal <- lapply(n, function(x) est_power_distribution(n=x, f=0.1, rho=2, distributionObject=distribution, m=52000,m1=4000,selectedGenes=genelist[kept_final,]$Gene.stable.ID,storeProcess=TRUE)$power)
+# Musk: ENSMUSG00000057280
+musk_id <- which(found$Gene.stable.ID=='ENSMUSG00000057280')
+musk_power <- sapply(gene_powers, function(x) x[musk_id])
+total_power <- sapply(gene_powers, function(x) mean(x))
+
+total_keptfinal <- sapply(gene_powers_keptfinal, function(x) mean(x))
+
+# Number of genes vs number of samples at power=0.8
+d <- data.frame(n,num_genes)
+ggplot(data=d,aes(x=n,y=num_genes,label=num_genes)) + geom_line() + geom_point() + theme_bw() + ylab("Number of genes with power > 0.8") + xlab("Number of samples in each group") + ggtitle("Number of genes of interest with sufficient power to detect\n as number of samples increases") + labs(caption="FDR=0.1,log fold change=2") + geom_text(data=subset(d, n>7),vjust=0,nudge_y=1) + scale_x_continuous(breaks=seq(1,15,2)) + scale_y_continuous(breaks=seq(0,70,10))
+
+# Gene powers random
+gene_powers_random <- sapply(n, function(x) est_power_distribution(n=x, f=0.1, rho=2, distributionObject=distribution, m=52000,m1=4000))
+
+# Power to detect musk and total power vs number of samples
+d2 <- data.frame(n,musk_power,total_power,gene_powers_random) %>% tidyr::gather("type","power",musk_power,total_power,gene_powers_random)
+ggplot(data=d2,aes(x=n)) + geom_line(aes(y=power,color=type)) + geom_point(aes(y=power,color=type)) + theme_bw() + ylab("Power") + xlab("Number of samples in each group") + ggtitle("Power for Musk gene and total power\n as number of samples increases") + labs(caption="FDR=0.1,log fold change=2,number of random genes=100") + geom_hline(yintercept=0.8,linetype='dashed') + scale_color_discrete(name="Power",breaks=c("musk_power","total_power","gene_powers_random"),labels=c("Musk","Total for interested genes","Random genes")) + scale_x_continuous(breaks=seq(1,15,2)) + scale_y_continuous(breaks=seq(0,1,0.2))
+```
+
+```{r, proper, eval=FALSE}
+avg_count <- transmute(dataMat,m1=(Innervated_WT_1+Innervated_WT_2)/2,m2=(Denervated_WT_1+Denervated_WT_2)/2)
+log2_fold <- log2(avg_count$m2/avg_count$m1)>2
+total_de<-sum(log2_fold[!is.na(log2_fold)]) # about 4000
+library(PROPER)
+ngenes = nrow(dataMat)
+simOptions = RNAseq.SimOptions.2grp(ngenes=ngenes,lBaselineExpr="bottomly",lOD="bottomly")
+simres = runSims(sim.opts=simOptions,nsims=20)
+powers = comparePower(simres, alpha.type='fdr', alpha.nominal=0.1, stratify.by='expr')
+```
+
+# References
