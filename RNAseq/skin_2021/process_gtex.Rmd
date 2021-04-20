@@ -3,7 +3,9 @@ title: "Processing GTex data"
 output: html_notebook
 ---
 
-Solution is from: https://stackoverflow.com/questions/59482431/how-to-filter-a-very-large-csv-in-r-prior-to-opening-it. Surprisingly this ran faster than the [bash solution I got](https://stackoverflow.com/questions/67182833/print-columns-based-on-column-name/67183120#67183120) from asking about it on stackoverflow, probably because it takes advantage of parallel processing. Wonders of R.
+Solution is from: https://stackoverflow.com/questions/59482431/how-to-filter-a-very-large-csv-in-r-prior-to-opening-it. Surprisingly this ran faster than the [bash solution I got](https://stackoverflow.com/questions/67182833/print-columns-based-on-column-name/67183120#67183120) from asking about it on stackoverflow, probably because it takes advantage of parallel processing. Wonders of R. Bash solution can be found in `filter.sh`.
+
+I would not run this notebook though, it will still take a while.
 
 ```
 > proc.time() - ptm
@@ -11,7 +13,16 @@ Solution is from: https://stackoverflow.com/questions/59482431/how-to-filter-a-v
  58.481  10.753 396.404 
 ```
 
+File origins:
+
+ * `heart_lung_skin_samples.txt` was generated with an awk command seen below
+ * [`GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt` download link.](https://storage.googleapis.com/gtex_analysis_v8/annotations/GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt)
+ * [`GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct` download link as gz file](https://storage.googleapis.com/gtex_analysis_v8/rna_seq_data/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz). Unzipped this file is 2.5GB.
+
 ```{r}
+# previous awk code to pull out heart lung skin
+# awk -F '\t' '($6 == "Heart" || $6 == "Lung" || $6 == "Skin") { print $1","$7 }' GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt > heart_lung_skin_samples.txt
+
 library(tidyverse)
 library(furrr)
 
