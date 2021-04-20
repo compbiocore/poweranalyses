@@ -1,0 +1,87 @@
+---
+title: "Processing GTex data"
+output: html_notebook
+---
+
+Solution is from: https://stackoverflow.com/questions/59482431/how-to-filter-a-very-large-csv-in-r-prior-to-opening-it. Surprisingly this ran faster than the [bash solution I got](https://stackoverflow.com/questions/67182833/print-columns-based-on-column-name/67183120#67183120) from asking about it on stackoverflow, probably because it takes advantage of parallel processing. Wonders of R.
+
+```
+> proc.time() - ptm
+   user  system elapsed 
+ 58.481  10.753 396.404 
+```
+
+```{r}
+library(tidyverse)
+library(furrr)
+
+PATH <- "/Users/aguang/CORE/poweranalyses/RNAseq/skin_2021"
+
+# Get metadata info
+samples <- read.csv(file.path(PATH,"heart_lung_skin_samples.txt"),col.names=c("Sample","Tissue"),header=FALSE)
+sample_names <- samples$Sample %>% as.character
+
+colnames <- read_file("colnames.txt") %>% strsplit("\t") %>% .[[1]]
+colind <- which(colnames %in% sample_names)
+colind <- c(1,2,colind)
+
+raw_data_path <- file.path(PATH,"GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct")
+
+# Get the row count of the raw data, incl. header row, without loading the
+# actual data
+raw_data_nrow <- length(count.fields(raw_data_path))
+
+# Hard-code the largest batch size you can, given your RAM in relation to the
+# data size per row
+batch_size    <- 1e3 
+
+# Set up parallel processing of multiple chunks at a time, leaving one virtual
+# core, as usual
+plan(multiprocess, workers = availableCores() - 1)
+
+# start the clock
+ptm <- proc.time()
+
+filtered_data <- 
+  # Define the sequence of start-point row numbers for each chunk (each number
+  # is actually the start point minus 1 since we're using the seq. no. as the
+  # no. of rows to skip)
+  seq(from = 2, 
+      # Add the batch size to ensure that the last chunk is large enough to grab
+      # all the remainder rows
+      #to = 10000,
+      to = raw_data_nrow,
+      by = batch_size) %>% 
+  future_map_dfr(
+    ~ read_tsv(
+      raw_data_path,
+      skip      = .x,
+      n_max     = batch_size, 
+      # Can't read in col. names in each chunk since they're only present in the
+      # 1st chunk
+      col_names = FALSE,
+      # This reads in each column as character, which is safest but slowest and
+      # most memory-intensive. If you're sure that each batch will contain
+      # enough values in each column so that the type detection in each batch
+      # will come to the same conclusions, then comment this out and leave just
+      # the guess_max
+      col_types = cols(.default = "c"),
+      guess_max = batch_size
+    ) %>% 
+      # This is where you'd insert your filter condition(s)
+      .[,colind],
+    # Progress bar! So you know how many chunks you have left to go
+    .progress = TRUE,
+    .options = furrr_options(seed=TRUE)
+  ) %>% 
+  # The first row will be the header values, so set the column names to equal
+  # that first row, and then drop it
+  set_names(slice(., 1)) %>% 
+  slice(-1)
+
+# time spent
+proc.time() - ptm
+
+saveRDS(filtered_data,file=file.path(PATH,"filtered_data.rds"))
+```
+
