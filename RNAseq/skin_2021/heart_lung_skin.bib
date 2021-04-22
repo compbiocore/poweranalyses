@@ -1,0 +1,41 @@
+@article{Liu2014,
+abstract = {Motivation: RNA-seq is replacing microarrays as the primary tool for gene expression studies. Many RNA-seq studies have used insufficient biological replicates, resulting in low statistical power and inefficient use of sequencing resources.Results: We show the explicit trade-off between more biological replicates and deeper sequencing in increasing power to detect differentially expressed (DE) genes. In the human cell line MCF7, adding more sequencing depth after 10 M reads gives diminishing returns on power to detect DE genes, whereas adding biological replicates improves power significantly regardless of sequencing depth. We also propose a cost-effectiveness metric for guiding the design of large-scale RNA-seq DE studies. Our analysis showed that sequencing less reads and performing more biological replication is an effective strategy to increase power and accuracy in large-scale differential expression RNA-seq studies, and provided new insights into efficient experiment design of RNA-seq studies. {\textcopyright} 2013 The Author 2013.},
+author = {Liu, Yuwen and Zhou, Jie and White, Kevin P.},
+doi = {10.1093/bioinformatics/btt688},
+issn = {13674803},
+journal = {Bioinformatics},
+mendeley-groups = {power},
+number = {3},
+title = {{RNA-seq differential expression studies: More sequence or more replication?}},
+volume = {30},
+year = {2014}
+}
+
+@article{Wang2011,
+abstract = {Background: RNA-Seq is the recently developed high-throughput sequencing technology for profiling the entire transcriptome in any organism. It has several major advantages over current hybridization-based approach such as microarrays. However, the cost per sample by RNA-Seq is still prohibitive for most laboratories. With continued improvement in sequence output, it would be cost-effective if multiple samples are multiplexed and sequenced in a single lane with sufficient transcriptome coverage. The objective of this analysis is to evaluate what sequencing depth might be sufficient to interrogate gene expression profiling in the chicken by RNA-Seq.Results: Two cDNA libraries from chicken lungs were sequenced initially, and 4.9 million (M) and 1.6 M (60 bp) reads were generated, respectively. With significant improvements in sequencing technology, two technical replicate cDNA libraries were re-sequenced. Totals of 29.6 M and 28.7 M (75 bp) reads were obtained with the two samples. More than 90% of annotated genes were detected in the data sets with 28.7-29.6 M reads, while only 68% of genes were detected in the data set with 1.6 M reads. The correlation coefficients of gene expression between technical replicates within the same sample were 0.9458 and 0.8442. To evaluate the appropriate depth needed for mRNA profiling, a random sampling method was used to generate different number of reads from each sample. There was a significant increase in correlation coefficients from a sequencing depth of 1.6 M to 10 M for all genes except highly abundant genes. No significant improvement was observed from the depth of 10 M to 20 M (75 bp) reads.Conclusion: The analysis from the current study demonstrated that 30 M (75 bp) reads is sufficient to detect all annotated genes in chicken lungs. Ten million (75 bp) reads could detect about 80% of annotated chicken genes, and RNA-Seq at this depth can serve as a replacement of microarray technology. Furthermore, the depth of sequencing had a significant impact on measuring gene expression of low abundant genes. Finally, the combination of experimental and simulation approaches is a powerful approach to address the relationship between the depth of sequencing and transcriptome coverage. {\textcopyright} 2011 Wang et al; licensee BioMed Central Ltd.},
+author = {Wang, Ying and Ghaffari, Noushin and Johnson, Charles D. and Braga-Neto, Ulisses M. and Wang, Hui and Chen, Rui and Zhou, Huaijun},
+doi = {10.1186/1471-2105-12-S10-S5},
+issn = {14712105},
+journal = {BMC Bioinformatics},
+mendeley-groups = {power},
+number = {SUPPL. 10},
+title = {{Evaluation of the coverage and depth of transcriptome by RNA-Seq in chickens}},
+volume = {12},
+year = {2011}
+}
+
+
+
+@article{Zhao2018,
+abstract = {One of the most important and often neglected components of a successful RNA sequencing (RNA-Seq) experiment is sample size estimation. A few negative binomial model-based methods have been developed to estimate sample size based on the parameters of a single gene. However, thousands of genes are quantified and tested for differential expression simultaneously in RNA-Seq experiments. Thus, additional issues should be carefully addressed, including the false discovery rate for multiple statistic tests, widely distributed read counts and dispersions for different genes. To solve these issues, we developed a sample size and power estimation method named RnaSeqSampleSize, based on the distributions of gene average read counts and dispersions estimated from real RNA-seq data. Datasets from previous, similar experiments such as the Cancer Genome Atlas (TCGA) can be used as a point of reference. Read counts and their dispersions were estimated from the reference's distribution; using that information, we estimated and summarized the power and sample size. RnaSeqSampleSize is implemented in R language and can be installed from Bioconductor website. A user friendly web graphic interface is provided at 
+                    http://cqs.mc.vanderbilt.edu/shiny/RnaSeqSampleSize/
+                    
+                  . RnaSeqSampleSize provides a convenient and powerful way for power and sample size estimation for an RNAseq experiment. It is also equipped with several unique features, including estimation for interested genes or pathway, power curve visualization, and parameter optimization.},
+author = {Zhao, Shilin and Li, Chung I. and Guo, Yan and Sheng, Quanhu and Shyr, Yu},
+doi = {10.1186/s12859-018-2191-5},
+issn = {14712105},
+journal = {BMC Bioinformatics},
+keywords = {Power analysis,RNA-Seq,Sample size,Simulation},
+title = {{RnaSeqSampleSize: Real data based sample size estimation for RNA sequencing}},
+year = {2018}
+}

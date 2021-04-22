@@ -32,6 +32,9 @@ PATH <- "/Users/aguang/CORE/poweranalyses/RNAseq/skin_2021"
 samples <- read.csv(file.path(PATH,"heart_lung_skin_samples.txt"),col.names=c("Sample","Tissue"),header=FALSE)
 sample_names <- samples$Sample %>% as.character
 
+tissue_map <- read.delim("GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt")
+which(tissue_map$SMTS %in% c("Heart", "Lung", "Skin"))
+
 colnames <- read_file("colnames.txt") %>% strsplit("\t") %>% .[[1]]
 colind <- which(colnames %in% sample_names)
 colind <- c(1,2,colind)
