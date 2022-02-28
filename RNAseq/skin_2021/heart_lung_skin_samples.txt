@@ -1,0 +1,4022 @@
+GTEX-1117F-0726-SM-5GIEN,Heart - Atrial Appendage
+GTEX-1117F-2926-SM-5GZYI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-111CU-0326-SM-5GZXO,Lung
+GTEX-111CU-1126-SM-5EGIM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-111CU-1926-SM-5GZYZ,Skin - Sun Exposed (Lower leg)
+GTEX-111FC-0126-SM-5N9DL,Skin - Sun Exposed (Lower leg)
+GTEX-111FC-0626-SM-5N9CU,Heart - Atrial Appendage
+GTEX-111FC-0826-SM-5GZWO,Heart - Left Ventricle
+GTEX-111FC-0826-SM-CYKRT,Heart - Left Ventricle
+GTEX-111FC-1126-SM-5GZWU,Lung
+GTEX-111FC-2526-SM-5GZXU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-111VG-0008-SM-5Q5BG,Cells - Cultured fibroblasts
+GTEX-111VG-0326-SM-5GZX7,Heart - Atrial Appendage
+GTEX-111VG-0726-SM-5GIDC,Lung
+GTEX-111VG-1626-SM-5EGIO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-111VG-2426-SM-5GZXD,Skin - Sun Exposed (Lower leg)
+GTEX-111YS-0008-SM-5Q5BH,Cells - Cultured fibroblasts
+GTEX-111YS-0326-SM-5GZZ3,Heart - Atrial Appendage
+GTEX-111YS-0426-SM-5987O,Heart - Left Ventricle
+GTEX-111YS-0626-SM-5GZXV,Lung
+GTEX-111YS-1526-SM-5GZYW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1122O-0008-SM-5QGR2,Cells - Cultured fibroblasts
+GTEX-1122O-0126-SM-5GICA,Lung
+GTEX-1122O-0626-SM-5N9B9,Heart - Atrial Appendage
+GTEX-1122O-0826-SM-5GICV,Heart - Left Ventricle
+GTEX-1122O-1026-SM-9WYSF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1122O-2126-SM-5EGIR,Skin - Sun Exposed (Lower leg)
+GTEX-1128S-0008-SM-5Q5DP,Cells - Cultured fibroblasts
+GTEX-1128S-0726-SM-5N9D6,Lung
+GTEX-1128S-2326-SM-5GZZY,Skin - Sun Exposed (Lower leg)
+GTEX-113IC-0008-SM-5QGRF,Cells - Cultured fibroblasts
+GTEX-113IC-0126-SM-5HL6T,Skin - Sun Exposed (Lower leg)
+GTEX-113JC-0008-SM-5QGR6,Cells - Cultured fibroblasts
+GTEX-113JC-2326-SM-5EQ4E,Skin - Sun Exposed (Lower leg)
+GTEX-117XS-0008-SM-5Q5DQ,Cells - Cultured fibroblasts
+GTEX-117XS-0726-SM-5H131,Heart - Atrial Appendage
+GTEX-117XS-2726-SM-5N9BL,Skin - Sun Exposed (Lower leg)
+GTEX-117YW-0008-SM-5QGRD,Cells - Cultured fibroblasts
+GTEX-117YW-0326-SM-5N9CY,Heart - Left Ventricle
+GTEX-117YW-0426-SM-5GZZZ,Heart - Atrial Appendage
+GTEX-117YW-0526-SM-5H11C,Lung
+GTEX-117YW-2626-SM-5GZZH,Skin - Sun Exposed (Lower leg)
+GTEX-117YX-0626-SM-5EGJI,Heart - Atrial Appendage
+GTEX-117YX-1126-SM-5H128,Heart - Left Ventricle
+GTEX-117YX-1326-SM-5H125,Lung
+GTEX-117YX-1926-SM-5GIEC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-117YX-2326-SM-5H12W,Skin - Sun Exposed (Lower leg)
+GTEX-1192W-0008-SM-5QGRE,Cells - Cultured fibroblasts
+GTEX-1192W-0226-SM-5EGGT,Heart - Atrial Appendage
+GTEX-1192W-2626-SM-5Q5AF,Skin - Sun Exposed (Lower leg)
+GTEX-1192X-0008-SM-5Q5B7,Cells - Cultured fibroblasts
+GTEX-1192X-0226-SM-5H12D,Skin - Sun Exposed (Lower leg)
+GTEX-1192X-0726-SM-5987R,Heart - Atrial Appendage
+GTEX-1192X-2726-SM-5N9DN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DXW-0008-SM-5Q59V,Cells - Cultured fibroblasts
+GTEX-11DXW-0226-SM-5H122,Skin - Sun Exposed (Lower leg)
+GTEX-11DXW-0826-SM-5H118,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DXX-0008-SM-5Q5B8,Cells - Cultured fibroblasts
+GTEX-11DXX-0326-SM-5PNWC,Heart - Left Ventricle
+GTEX-11DXX-0526-SM-5PNVR,Heart - Atrial Appendage
+GTEX-11DXX-0626-SM-5Q5AG,Lung
+GTEX-11DXX-2126-SM-5PNYR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DXX-2426-SM-5GZZW,Skin - Sun Exposed (Lower leg)
+GTEX-11DXY-0008-SM-5QGR4,Cells - Cultured fibroblasts
+GTEX-11DXY-0126-SM-5H11Q,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DXY-0826-SM-5EGGR,Heart - Left Ventricle
+GTEX-11DXY-1026-SM-5987V,Heart - Atrial Appendage
+GTEX-11DXY-2626-SM-5GIE7,Skin - Sun Exposed (Lower leg)
+GTEX-11DXZ-0326-SM-5EGH1,Heart - Atrial Appendage
+GTEX-11DXZ-0626-SM-5GU77,Heart - Left Ventricle
+GTEX-11DXZ-0726-SM-5N9C4,Lung
+GTEX-11DXZ-2026-SM-5987S,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DXZ-2326-SM-5EGGV,Skin - Sun Exposed (Lower leg)
+GTEX-11DYG-0008-SM-5QGR5,Cells - Cultured fibroblasts
+GTEX-11DYG-0126-SM-59883,Skin - Sun Exposed (Lower leg)
+GTEX-11DYG-1026-SM-5A5JQ,Heart - Atrial Appendage
+GTEX-11DYG-1526-SM-5A5JS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11DZ1-0008-SM-5QGR3,Cells - Cultured fibroblasts
+GTEX-11DZ1-0126-SM-5985Q,Skin - Sun Exposed (Lower leg)
+GTEX-11DZ1-0426-SM-5H11A,Lung
+GTEX-11DZ1-2426-SM-5GZZX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EI6-0008-SM-5QGR7,Cells - Cultured fibroblasts
+GTEX-11EI6-0126-SM-5985R,Skin - Sun Exposed (Lower leg)
+GTEX-11EI6-0826-SM-5985V,Lung
+GTEX-11EI6-0826-SM-CYKV8,Lung
+GTEX-11EI6-2826-SM-5H11D,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EM3-0426-SM-5N9BZ,Heart - Atrial Appendage
+GTEX-11EM3-0626-SM-5H12Z,Heart - Left Ventricle
+GTEX-11EM3-1226-SM-5N9DD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EM3-2426-SM-59861,Skin - Sun Exposed (Lower leg)
+GTEX-11EMC-0008-SM-5Q5DR,Cells - Cultured fibroblasts
+GTEX-11EMC-0126-SM-5EGKV,Lung
+GTEX-11EMC-0726-SM-5EGJO,Heart - Left Ventricle
+GTEX-11EMC-0826-SM-59862,Heart - Atrial Appendage
+GTEX-11EMC-2926-SM-5EQ4F,Skin - Sun Exposed (Lower leg)
+GTEX-11EQ8-0008-SM-5Q5DJ,Cells - Cultured fibroblasts
+GTEX-11EQ8-0126-SM-5EQ54,Skin - Sun Exposed (Lower leg)
+GTEX-11EQ8-0926-SM-5H12V,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EQ8-1326-SM-5EGJQ,Heart - Atrial Appendage
+GTEX-11EQ9-0008-SM-5Q5DK,Cells - Cultured fibroblasts
+GTEX-11EQ9-0226-SM-5A5JX,Lung
+GTEX-11EQ9-1626-SM-5PNY8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EQ9-2426-SM-5HL5T,Skin - Sun Exposed (Lower leg)
+GTEX-11GS4-0008-SM-5QGRA,Cells - Cultured fibroblasts
+GTEX-11GS4-0226-SM-5HL77,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11GS4-0426-SM-5N9CD,Heart - Atrial Appendage
+GTEX-11GS4-0526-SM-5A5KQ,Heart - Left Ventricle
+GTEX-11GS4-2726-SM-5A5LE,Skin - Sun Exposed (Lower leg)
+GTEX-11GSO-2426-SM-5A5LY,Skin - Sun Exposed (Lower leg)
+GTEX-11GSP-0008-SM-5Q5DM,Cells - Cultured fibroblasts
+GTEX-11GSP-0726-SM-5986L,Lung
+GTEX-11GSP-1226-SM-5985M,Heart - Atrial Appendage
+GTEX-11GSP-1326-SM-5A5KY,Heart - Left Ventricle
+GTEX-11GSP-2326-SM-5HL63,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11GSP-2526-SM-5N9BP,Skin - Sun Exposed (Lower leg)
+GTEX-11H98-0008-SM-5QGR8,Cells - Cultured fibroblasts
+GTEX-11H98-0126-SM-5EGHG,Skin - Sun Exposed (Lower leg)
+GTEX-11I78-0008-SM-5Q5DI,Cells - Cultured fibroblasts
+GTEX-11I78-0126-SM-5HL6F,Lung
+GTEX-11I78-0826-SM-5A5K4,Heart - Left Ventricle
+GTEX-11ILO-0008-SM-5QGR9,Cells - Cultured fibroblasts
+GTEX-11ILO-0126-SM-5A5LN,Skin - Sun Exposed (Lower leg)
+GTEX-11ILO-0626-SM-5A5LO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11ILO-0726-SM-5HL5I,Lung
+GTEX-11ILO-2526-SM-5A5LQ,Heart - Atrial Appendage
+GTEX-11LCK-0008-SM-5Q5BB,Cells - Cultured fibroblasts
+GTEX-11LCK-0426-SM-5A5M8,Lung
+GTEX-11LCK-0826-SM-5PNYD,Heart - Atrial Appendage
+GTEX-11LCK-0926-SM-5A5KA,Heart - Left Ventricle
+GTEX-11LCK-1026-SM-5A5KB,Skin - Sun Exposed (Lower leg)
+GTEX-11LCK-2226-SM-5HL4Q,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11NSD-0008-SM-5Q5BC,Cells - Cultured fibroblasts
+GTEX-11NSD-0326-SM-5A5LS,Lung
+GTEX-11NSD-0626-SM-5A5LU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11NSD-2226-SM-5986V,Skin - Sun Exposed (Lower leg)
+GTEX-11NUK-0008-SM-5Q5B9,Cells - Cultured fibroblasts
+GTEX-11NUK-0126-SM-5A5L3,Skin - Sun Exposed (Lower leg)
+GTEX-11NUK-0826-SM-5HL4U,Lung
+GTEX-11NUK-0926-SM-5HL57,Heart - Atrial Appendage
+GTEX-11NUK-2726-SM-5A5MC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11NV4-0008-SM-5Q5BA,Cells - Cultured fibroblasts
+GTEX-11NV4-0826-SM-5BC4S,Heart - Atrial Appendage
+GTEX-11NV4-1126-SM-5HL6J,Lung
+GTEX-11O72-0008-SM-5Q5DN,Cells - Cultured fibroblasts
+GTEX-11O72-0126-SM-59887,Skin - Sun Exposed (Lower leg)
+GTEX-11O72-0626-SM-5PNYE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11O72-1026-SM-5986B,Heart - Atrial Appendage
+GTEX-11O72-1126-SM-5N9E2,Heart - Left Ventricle
+GTEX-11O72-1326-SM-5BC5A,Lung
+GTEX-11OC5-0008-SM-5S2OH,Cells - Cultured fibroblasts
+GTEX-11OC5-0126-SM-5HL6A,Skin - Sun Exposed (Lower leg)
+GTEX-11OF3-0008-SM-5S2NH,Cells - Cultured fibroblasts
+GTEX-11OF3-0126-SM-5PNYF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11OF3-1126-SM-5986C,Lung
+GTEX-11OF3-2626-SM-5GU7F,Skin - Sun Exposed (Lower leg)
+GTEX-11ONC-0008-SM-5S2MG,Cells - Cultured fibroblasts
+GTEX-11ONC-0126-SM-5PNW6,Heart - Left Ventricle
+GTEX-11ONC-1026-SM-5GU64,Heart - Atrial Appendage
+GTEX-11P7K-0008-SM-5S2O5,Cells - Cultured fibroblasts
+GTEX-11P7K-0326-SM-59871,Lung
+GTEX-11P7K-1126-SM-5HL4L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11P7K-2126-SM-5GU7G,Skin - Sun Exposed (Lower leg)
+GTEX-11P81-0008-SM-5S2OT,Cells - Cultured fibroblasts
+GTEX-11P81-0226-SM-5HL5M,Lung
+GTEX-11P81-0526-SM-59873,Heart - Atrial Appendage
+GTEX-11P81-2226-SM-5PNYI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11P81-2326-SM-59875,Skin - Sun Exposed (Lower leg)
+GTEX-11P82-0008-SM-5S2MS,Cells - Cultured fibroblasts
+GTEX-11P82-1426-SM-5BC5L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11P82-1426-SM-DTXFY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11P82-1626-SM-59879,Skin - Sun Exposed (Lower leg)
+GTEX-11PRG-0008-SM-5S2N5,Cells - Cultured fibroblasts
+GTEX-11PRG-0726-SM-5EGL1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11PRG-0926-SM-5EGI8,Lung
+GTEX-11TT1-0008-SM-5S2P8,Cells - Cultured fibroblasts
+GTEX-11TT1-1326-SM-5PNYM,Heart - Left Ventricle
+GTEX-11TT1-1426-SM-5EGIA,Heart - Atrial Appendage
+GTEX-11TT1-1626-SM-5EQL7,Lung
+GTEX-11TT1-1826-SM-5EQLV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11TT1-2526-SM-5EGIB,Skin - Sun Exposed (Lower leg)
+GTEX-11TTK-0008-SM-5S2RU,Cells - Cultured fibroblasts
+GTEX-11TTK-0126-SM-5987B,Skin - Sun Exposed (Lower leg)
+GTEX-11TUW-0008-SM-5SI6S,Cells - Cultured fibroblasts
+GTEX-11TUW-0526-SM-5LU9A,Lung
+GTEX-11TUW-0626-SM-5LU9M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11TUW-1026-SM-5GU7D,Heart - Left Ventricle
+GTEX-11TUW-1126-SM-5EQKJ,Heart - Atrial Appendage
+GTEX-11TUW-2726-SM-5EQLC,Skin - Sun Exposed (Lower leg)
+GTEX-11TUW-2726-SM-E9J4M,Skin - Sun Exposed (Lower leg)
+GTEX-11UD1-0008-SM-5S2P6,Cells - Cultured fibroblasts
+GTEX-11UD1-0126-SM-5PNYG,Skin - Sun Exposed (Lower leg)
+GTEX-11UD2-0008-SM-5S2P7,Cells - Cultured fibroblasts
+GTEX-11UD2-0226-SM-5EQKY,Skin - Sun Exposed (Lower leg)
+GTEX-11UD2-0726-SM-5EQ69,Lung
+GTEX-11UD2-0926-SM-5CVL6,Heart - Atrial Appendage
+GTEX-11UD2-2526-SM-5CVNU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11VI4-1126-SM-5EQMD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11VI4-1726-SM-5CVLH,Skin - Sun Exposed (Lower leg)
+GTEX-11WQC-0008-SM-5SI6R,Cells - Cultured fibroblasts
+GTEX-11WQC-0626-SM-5EQMF,Lung
+GTEX-11WQC-0626-SM-CYKQZ,Lung
+GTEX-11WQC-1826-SM-5GU59,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11WQC-2526-SM-5CVLE,Skin - Sun Exposed (Lower leg)
+GTEX-11WQK-0008-SM-5SI6T,Cells - Cultured fibroblasts
+GTEX-11WQK-0226-SM-5EQLI,Heart - Atrial Appendage
+GTEX-11WQK-0526-SM-5EQLD,Skin - Sun Exposed (Lower leg)
+GTEX-11WQK-1026-SM-5EQLX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11WQK-1226-SM-5GU5Z,Lung
+GTEX-11WQK-1226-SM-CYKV5,Lung
+GTEX-11XUK-0008-SM-5S2WD,Cells - Cultured fibroblasts
+GTEX-11XUK-2026-SM-5EQLF,Skin - Sun Exposed (Lower leg)
+GTEX-11ZTS-0008-SM-5S2VC,Cells - Cultured fibroblasts
+GTEX-11ZTS-0126-SM-5EQ6M,Skin - Sun Exposed (Lower leg)
+GTEX-11ZTS-1226-SM-5EQMQ,Lung
+GTEX-11ZTT-0008-SM-5S2TZ,Cells - Cultured fibroblasts
+GTEX-11ZTT-0526-SM-5EQLA,Heart - Atrial Appendage
+GTEX-11ZTT-0626-SM-5EQLM,Lung
+GTEX-11ZTT-2126-SM-5CVLO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11ZTT-2426-SM-5EQLS,Skin - Sun Exposed (Lower leg)
+GTEX-11ZTT-5001-SM-AN3YD,Heart - Left Ventricle
+GTEX-11ZU8-0008-SM-5S2VO,Cells - Cultured fibroblasts
+GTEX-11ZU8-0126-SM-5EQ58,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11ZU8-2526-SM-5EQKI,Skin - Sun Exposed (Lower leg)
+GTEX-11ZUS-0008-SM-5S2UO,Cells - Cultured fibroblasts
+GTEX-11ZUS-0126-SM-5EQM5,Lung
+GTEX-11ZUS-0126-SM-CYKR8,Lung
+GTEX-11ZUS-0226-SM-5FQT8,Heart - Left Ventricle
+GTEX-11ZUS-0326-SM-5EQ4W,Heart - Atrial Appendage
+GTEX-11ZUS-0626-SM-59885,Skin - Sun Exposed (Lower leg)
+GTEX-11ZUS-2626-SM-5FQUR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-11ZVC-0226-SM-731E8,Lung
+GTEX-11ZVC-0426-SM-5CVLD,Heart - Left Ventricle
+GTEX-11ZVC-0526-SM-5N9G1,Heart - Atrial Appendage
+GTEX-11ZVC-2526-SM-5FQTE,Skin - Sun Exposed (Lower leg)
+GTEX-1211K-0008-SM-5S2W1,Cells - Cultured fibroblasts
+GTEX-1211K-0226-SM-59HJY,Heart - Atrial Appendage
+GTEX-1211K-0626-SM-5FQUZ,Heart - Left Ventricle
+GTEX-1211K-0826-SM-5FQUP,Lung
+GTEX-1211K-1526-SM-5FQU4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1211K-2026-SM-5EQ4Z,Skin - Sun Exposed (Lower leg)
+GTEX-1211K-5001-SM-AN3X5,Heart - Left Ventricle
+GTEX-12126-0008-SM-5S2UC,Cells - Cultured fibroblasts
+GTEX-12126-0326-SM-5PNW3,Skin - Sun Exposed (Lower leg)
+GTEX-12126-0826-SM-5FQTZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1212Z-0008-SM-5TDBW,Cells - Cultured fibroblasts
+GTEX-1212Z-0126-SM-59HK4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1212Z-0626-SM-5FQTB,Heart - Left Ventricle
+GTEX-1212Z-0726-SM-5EGI5,Heart - Atrial Appendage
+GTEX-1212Z-1026-SM-5EGJ8,Lung
+GTEX-1212Z-2526-SM-5EGKP,Skin - Sun Exposed (Lower leg)
+GTEX-12584-0008-SM-664MB,Cells - Cultured fibroblasts
+GTEX-12584-0126-SM-5EGKQ,Skin - Sun Exposed (Lower leg)
+GTEX-12584-0726-SM-5FQTK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12584-0926-SM-5FQTN,Heart - Left Ventricle
+GTEX-12584-1026-SM-59HK3,Heart - Atrial Appendage
+GTEX-12584-1426-SM-5EGJ9,Lung
+GTEX-12696-0008-SM-5TDBX,Cells - Cultured fibroblasts
+GTEX-12696-0126-SM-5EQ4L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12696-1026-SM-5FQUV,Lung
+GTEX-12696-1126-SM-5FQTI,Heart - Left Ventricle
+GTEX-12696-1226-SM-5FQSM,Heart - Atrial Appendage
+GTEX-12696-2426-SM-5EQ6H,Skin - Sun Exposed (Lower leg)
+GTEX-1269C-0008-SM-5TDBY,Cells - Cultured fibroblasts
+GTEX-1269C-0126-SM-5EQ5L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1269C-0826-SM-5N9EM,Heart - Left Ventricle
+GTEX-1269C-0926-SM-5FQSR,Lung
+GTEX-1269C-2526-SM-5EGJ3,Skin - Sun Exposed (Lower leg)
+GTEX-12BJ1-0008-SM-5TDBZ,Cells - Cultured fibroblasts
+GTEX-12BJ1-0226-SM-5LUA2,Heart - Left Ventricle
+GTEX-12BJ1-0326-SM-5FQUB,Heart - Atrial Appendage
+GTEX-12BJ1-0926-SM-5EQ62,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12BJ1-1026-SM-5EGJA,Lung
+GTEX-12BJ1-5001-SM-AN3X8,Heart - Left Ventricle
+GTEX-12C56-0008-SM-5TDC1,Cells - Cultured fibroblasts
+GTEX-12C56-1526-SM-5FQUQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12C56-1726-SM-5EQ61,Skin - Sun Exposed (Lower leg)
+GTEX-12KS4-0008-SM-664MC,Cells - Cultured fibroblasts
+GTEX-12KS4-0326-SM-5EQ41,Skin - Sun Exposed (Lower leg)
+GTEX-12KS4-0726-SM-5FQSX,Lung
+GTEX-12KS4-2126-SM-5FQUT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WS9-0008-SM-5TDC2,Cells - Cultured fibroblasts
+GTEX-12WS9-0126-SM-5EGL7,Skin - Sun Exposed (Lower leg)
+GTEX-12WS9-0326-SM-59HJV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WS9-0826-SM-59HJX,Heart - Atrial Appendage
+GTEX-12WSA-0008-SM-5TDC3,Cells - Cultured fibroblasts
+GTEX-12WSA-0226-SM-5BC5V,Skin - Sun Exposed (Lower leg)
+GTEX-12WSA-0426-SM-5EQ5X,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSA-1026-SM-5EGHN,Lung
+GTEX-12WSA-1026-SM-CYKQ3,Lung
+GTEX-12WSA-1126-SM-5EGKU,Heart - Atrial Appendage
+GTEX-12WSB-0008-SM-5TDC5,Cells - Cultured fibroblasts
+GTEX-12WSB-0126-SM-59HJN,Skin - Sun Exposed (Lower leg)
+GTEX-12WSB-2926-SM-59HKL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSC-0008-SM-664MK,Cells - Cultured fibroblasts
+GTEX-12WSC-0126-SM-5EQ4P,Skin - Sun Exposed (Lower leg)
+GTEX-12WSC-1026-SM-5EQ5Y,Heart - Atrial Appendage
+GTEX-12WSC-1126-SM-5EQ4G,Heart - Left Ventricle
+GTEX-12WSC-2826-SM-5BC5Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSD-0008-SM-664ME,Cells - Cultured fibroblasts
+GTEX-12WSD-0126-SM-59HKN,Skin - Sun Exposed (Lower leg)
+GTEX-12WSD-0626-SM-5GCMW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSD-0826-SM-5GCNE,Lung
+GTEX-12WSD-1126-SM-5EGJD,Heart - Left Ventricle
+GTEX-12WSD-1226-SM-5HL9Q,Heart - Atrial Appendage
+GTEX-12WSE-0008-SM-5YY9P,Cells - Cultured fibroblasts
+GTEX-12WSE-0526-SM-793B2,Skin - Sun Exposed (Lower leg)
+GTEX-12WSE-0826-SM-5S2VL,Lung
+GTEX-12WSE-0926-SM-5S2VX,Heart - Atrial Appendage
+GTEX-12WSF-0008-SM-5YY8S,Cells - Cultured fibroblasts
+GTEX-12WSF-1626-SM-7KUG5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSG-0008-SM-5TDC4,Cells - Cultured fibroblasts
+GTEX-12WSG-0326-SM-5FQU3,Lung
+GTEX-12WSG-0526-SM-5FQTH,Heart - Left Ventricle
+GTEX-12WSG-1226-SM-5EQ4C,Heart - Atrial Appendage
+GTEX-12WSG-2826-SM-5FQUS,Skin - Sun Exposed (Lower leg)
+GTEX-12WSG-2826-SM-E9J4H,Skin - Sun Exposed (Lower leg)
+GTEX-12WSG-5001-SM-AN3X9,Heart - Left Ventricle
+GTEX-12WSG-5004-SM-7EPG9,Lung
+GTEX-12WSG-5005-SM-AN3XB,Lung
+GTEX-12WSH-0008-SM-5S2V1,Cells - Cultured fibroblasts
+GTEX-12WSH-0126-SM-5GCO3,Lung
+GTEX-12WSH-1526-SM-5BC5W,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSI-0008-SM-664MD,Cells - Cultured fibroblasts
+GTEX-12WSI-0426-SM-5EQ5J,Heart - Atrial Appendage
+GTEX-12WSI-0826-SM-5EGKD,Lung
+GTEX-12WSJ-0008-SM-664ML,Cells - Cultured fibroblasts
+GTEX-12WSJ-0226-SM-5GCP7,Lung
+GTEX-12WSJ-1126-SM-5LZVJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSJ-1826-SM-5GCNY,Skin - Sun Exposed (Lower leg)
+GTEX-12WSK-0008-SM-5YY9R,Cells - Cultured fibroblasts
+GTEX-12WSK-0526-SM-5CVNA,Heart - Atrial Appendage
+GTEX-12WSK-0626-SM-5LZUJ,Heart - Left Ventricle
+GTEX-12WSK-0826-SM-5CVNP,Lung
+GTEX-12WSK-2126-SM-5CVNC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSK-2326-SM-5GCOH,Skin - Sun Exposed (Lower leg)
+GTEX-12WSK-5005-SM-AN3Y3,Heart - Left Ventricle
+GTEX-12WSL-0008-SM-664MM,Cells - Cultured fibroblasts
+GTEX-12WSL-1026-SM-5CVNJ,Lung
+GTEX-12WSL-2026-SM-5GCML,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSL-2526-SM-5GCNJ,Skin - Sun Exposed (Lower leg)
+GTEX-12WSL-5001-SM-AN3XD,Heart - Left Ventricle
+GTEX-12WSM-0008-SM-5S2VD,Cells - Cultured fibroblasts
+GTEX-12WSM-1926-SM-5BC65,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSN-0008-SM-664MI,Cells - Cultured fibroblasts
+GTEX-12WSN-0226-SM-5DUXH,Heart - Atrial Appendage
+GTEX-12WSN-0626-SM-5BC61,Lung
+GTEX-12WSN-1426-SM-5GCO6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSN-2326-SM-5DUVG,Skin - Sun Exposed (Lower leg)
+GTEX-12WSN-5001-SM-7DHMK,Heart - Left Ventricle
+GTEX-12WSN-5004-SM-793CE,Lung
+GTEX-12WSN-5019-SM-79OM6,Skin - Sun Exposed (Lower leg)
+GTEX-12ZZW-0008-SM-5YY9L,Cells - Cultured fibroblasts
+GTEX-12ZZW-0126-SM-5DUVB,Skin - Sun Exposed (Lower leg)
+GTEX-12ZZW-0926-SM-5LZUD,Lung
+GTEX-12ZZW-0926-SM-CYKRH,Lung
+GTEX-12ZZW-1026-SM-5GCMM,Heart - Left Ventricle
+GTEX-12ZZX-0008-SM-5YY9N,Cells - Cultured fibroblasts
+GTEX-12ZZX-0126-SM-5EGK9,Skin - Sun Exposed (Lower leg)
+GTEX-12ZZX-0726-SM-5EGKA,Heart - Atrial Appendage
+GTEX-12ZZX-2426-SM-5GCOE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12ZZY-0008-SM-5YY9Q,Cells - Cultured fibroblasts
+GTEX-12ZZY-0226-SM-5LZVE,Skin - Sun Exposed (Lower leg)
+GTEX-12ZZY-0726-SM-5EQ66,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12ZZY-0926-SM-5EQ6I,Lung
+GTEX-12ZZY-1126-SM-5DUWQ,Heart - Left Ventricle
+GTEX-12ZZY-1226-SM-5GCNK,Heart - Atrial Appendage
+GTEX-12ZZZ-0008-SM-5YY9S,Cells - Cultured fibroblasts
+GTEX-12ZZZ-0626-SM-5DUXI,Skin - Sun Exposed (Lower leg)
+GTEX-12ZZZ-0726-SM-5GCNZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-12ZZZ-1726-SM-59HK5,Heart - Left Ventricle
+GTEX-13111-0008-SM-5YY8R,Cells - Cultured fibroblasts
+GTEX-13111-0426-SM-5DUXR,Lung
+GTEX-13111-1626-SM-5EGJY,Skin - Sun Exposed (Lower leg)
+GTEX-13111-1826-SM-5GCP1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13111-5001-SM-AN3XJ,Lung
+GTEX-13112-0008-SM-5YY9M,Cells - Cultured fibroblasts
+GTEX-13112-0126-SM-5P9IU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13112-0426-SM-5PNVC,Heart - Left Ventricle
+GTEX-13112-0526-SM-5EQ4S,Heart - Atrial Appendage
+GTEX-13112-2826-SM-5DUWH,Skin - Sun Exposed (Lower leg)
+GTEX-13113-0008-SM-5YY9T,Cells - Cultured fibroblasts
+GTEX-13113-0426-SM-5GCOD,Lung
+GTEX-13113-1626-SM-5EQ4I,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13113-1926-SM-5LZWG,Skin - Sun Exposed (Lower leg)
+GTEX-13113-5001-SM-AN3XM,Heart - Left Ventricle
+GTEX-13113-5004-SM-79ONL,Lung
+GTEX-13113-5016-SM-7EPIP,Skin - Sun Exposed (Lower leg)
+GTEX-1313W-0008-SM-5YYAP,Cells - Cultured fibroblasts
+GTEX-1313W-0126-SM-5LZUN,Skin - Sun Exposed (Lower leg)
+GTEX-1313W-0626-SM-5EQ4H,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1313W-0926-SM-5EQ56,Lung
+GTEX-1313W-1126-SM-5EQ5U,Heart - Atrial Appendage
+GTEX-1313W-1426-SM-5KLZU,Heart - Left Ventricle
+GTEX-1314G-0008-SM-5YY9K,Cells - Cultured fibroblasts
+GTEX-1314G-0126-SM-5LZUL,Heart - Left Ventricle
+GTEX-1314G-1326-SM-5BC6E,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1314G-1526-SM-5EGK2,Skin - Sun Exposed (Lower leg)
+GTEX-1314G-5001-SM-AN3XN,Heart - Left Ventricle
+GTEX-131XE-0526-SM-5K7YT,Heart - Atrial Appendage
+GTEX-131XE-0626-SM-5HL98,Heart - Left Ventricle
+GTEX-131XE-0726-SM-5HL9K,Lung
+GTEX-131XE-1626-SM-5K7VO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-131XE-2326-SM-5PNZ2,Skin - Sun Exposed (Lower leg)
+GTEX-131XE-5003-SM-AN3XU,Heart - Left Ventricle
+GTEX-131XF-0008-SM-664MH,Cells - Cultured fibroblasts
+GTEX-131XF-0326-SM-5DUVR,Heart - Left Ventricle
+GTEX-131XF-0426-SM-5HL7U,Heart - Atrial Appendage
+GTEX-131XF-1026-SM-5BC6A,Lung
+GTEX-131XF-2126-SM-5DUWS,Skin - Sun Exposed (Lower leg)
+GTEX-131XF-2626-SM-5EQ6K,Skin - Not Sun Exposed (Suprapubic)
+GTEX-131XF-5001-SM-7DHLY,Heart - Left Ventricle
+GTEX-131XF-5001-SM-AN3XR,Heart - Left Ventricle
+GTEX-131XF-5010-SM-AN3XQ,Lung
+GTEX-131XF-5016-SM-7MGWE,Skin - Sun Exposed (Lower leg)
+GTEX-131XG-0008-SM-5YY9O,Cells - Cultured fibroblasts
+GTEX-131XG-0326-SM-5L3DX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-131XG-0526-SM-5DUWF,Heart - Atrial Appendage
+GTEX-131XG-0626-SM-5GCMP,Heart - Left Ventricle
+GTEX-131XG-2626-SM-5KM17,Skin - Sun Exposed (Lower leg)
+GTEX-131XH-0008-SM-5YYAC,Cells - Cultured fibroblasts
+GTEX-131XH-0126-SM-5LZUY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-131XH-0226-SM-5LZVB,Heart - Left Ventricle
+GTEX-131XH-0426-SM-5DUWU,Lung
+GTEX-131XH-2226-SM-5DUXJ,Skin - Sun Exposed (Lower leg)
+GTEX-131XW-0008-SM-664MJ,Cells - Cultured fibroblasts
+GTEX-131XW-0426-SM-5LZWP,Skin - Sun Exposed (Lower leg)
+GTEX-131XW-0626-SM-5PNVD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-131XW-1126-SM-5EGK4,Lung
+GTEX-131YS-0008-SM-5YY9Z,Cells - Cultured fibroblasts
+GTEX-131YS-0126-SM-5KM1M,Skin - Sun Exposed (Lower leg)
+GTEX-131YS-0826-SM-5PNYV,Heart - Atrial Appendage
+GTEX-131YS-0926-SM-5IJB9,Lung
+GTEX-131YS-2826-SM-5EQ47,Skin - Not Sun Exposed (Suprapubic)
+GTEX-132AR-0008-SM-62LDH,Cells - Cultured fibroblasts
+GTEX-132AR-0326-SM-5KM2C,Skin - Not Sun Exposed (Suprapubic)
+GTEX-132AR-1926-SM-5EGK5,Heart - Atrial Appendage
+GTEX-132AR-2026-SM-5IJG4,Heart - Left Ventricle
+GTEX-132NY-0008-SM-62LFX,Cells - Cultured fibroblasts
+GTEX-132NY-0326-SM-5IJBL,Skin - Sun Exposed (Lower leg)
+GTEX-132NY-1226-SM-5PNVF,Lung
+GTEX-132NY-1426-SM-5J1MJ,Heart - Atrial Appendage
+GTEX-132NY-1726-SM-5EGKK,Heart - Left Ventricle
+GTEX-132Q8-0008-SM-5ZZUC,Cells - Cultured fibroblasts
+GTEX-132Q8-1126-SM-5K7XS,Heart - Atrial Appendage
+GTEX-132QS-0008-SM-5ZZUB,Cells - Cultured fibroblasts
+GTEX-132QS-0426-SM-5KLZ6,Heart - Left Ventricle
+GTEX-132QS-0526-SM-5IJC7,Heart - Atrial Appendage
+GTEX-132QS-0726-SM-5IJE9,Lung
+GTEX-132QS-5001-SM-AN3Y5,Heart - Left Ventricle
+GTEX-1339X-0008-SM-5ZZUL,Cells - Cultured fibroblasts
+GTEX-1339X-0326-SM-5K7Z8,Heart - Atrial Appendage
+GTEX-1339X-0426-SM-5KLZY,Heart - Left Ventricle
+GTEX-1339X-0626-SM-5IJER,Lung
+GTEX-133LE-0008-SM-62LDD,Cells - Cultured fibroblasts
+GTEX-133LE-0526-SM-5N9EJ,Lung
+GTEX-133LE-1826-SM-5J1MV,Skin - Sun Exposed (Lower leg)
+GTEX-133LE-2326-SM-5K7W3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1399Q-0008-SM-62LDE,Cells - Cultured fibroblasts
+GTEX-1399Q-2326-SM-5KM2X,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1399R-0008-SM-5ZZUF,Cells - Cultured fibroblasts
+GTEX-1399R-1326-SM-5PNYS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1399R-1726-SM-5K7YJ,Heart - Atrial Appendage
+GTEX-1399R-1926-SM-5K7X8,Heart - Left Ventricle
+GTEX-1399R-2726-SM-5IJBA,Skin - Sun Exposed (Lower leg)
+GTEX-1399R-5010-SM-AN3YF,Heart - Left Ventricle
+GTEX-1399S-0008-SM-62LDF,Cells - Cultured fibroblasts
+GTEX-1399S-0126-SM-5IJCF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1399S-0826-SM-5KM23,Heart - Atrial Appendage
+GTEX-1399S-1026-SM-5KLZ9,Heart - Left Ventricle
+GTEX-1399S-1726-SM-5L3DI,Lung
+GTEX-1399S-5001-SM-AN3YL,Heart - Left Ventricle
+GTEX-1399T-0008-SM-62LDB,Cells - Cultured fibroblasts
+GTEX-1399T-0426-SM-5PNVJ,Heart - Left Ventricle
+GTEX-1399T-0426-SM-CYKV1,Heart - Left Ventricle
+GTEX-1399T-0726-SM-5J1MH,Heart - Atrial Appendage
+GTEX-1399T-2826-SM-5KLYZ,Skin - Sun Exposed (Lower leg)
+GTEX-1399U-0008-SM-5S2VE,Cells - Cultured fibroblasts
+GTEX-1399U-0526-SM-5K7YM,Heart - Left Ventricle
+GTEX-1399U-0726-SM-5KM1D,Heart - Atrial Appendage
+GTEX-1399U-0826-SM-5KM1P,Lung
+GTEX-1399U-1126-SM-5L3DB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1399U-2326-SM-5K7WY,Skin - Sun Exposed (Lower leg)
+GTEX-1399U-5001-SM-AN3YA,Heart - Left Ventricle
+GTEX-139D8-0008-SM-5ZZUH,Cells - Cultured fibroblasts
+GTEX-139D8-0226-SM-5KLZO,Skin - Sun Exposed (Lower leg)
+GTEX-139D8-1126-SM-5LU8W,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139T4-0008-SM-5S2WF,Cells - Cultured fibroblasts
+GTEX-139T4-0226-SM-5HL5S,Skin - Sun Exposed (Lower leg)
+GTEX-139T6-0426-SM-5IJEM,Lung
+GTEX-139T8-0008-SM-5ZZUD,Cells - Cultured fibroblasts
+GTEX-139T8-0126-SM-5K7XZ,Skin - Sun Exposed (Lower leg)
+GTEX-139T8-0626-SM-5KLZX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139TS-0008-SM-62LDG,Cells - Cultured fibroblasts
+GTEX-139TS-0426-SM-CYKPU,Heart - Left Ventricle
+GTEX-139TS-2126-SM-5K7XC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139TS-2826-SM-5J1OO,Skin - Sun Exposed (Lower leg)
+GTEX-139TT-0126-SM-5K7Y5,Skin - Sun Exposed (Lower leg)
+GTEX-139TT-0726-SM-5K7XW,Lung
+GTEX-139TT-2126-SM-5LZWC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139TU-0008-SM-5ZZUK,Cells - Cultured fibroblasts
+GTEX-139TU-0126-SM-5K7WH,Skin - Sun Exposed (Lower leg)
+GTEX-139TU-0726-SM-5L3EK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139TU-1926-SM-5J2OC,Heart - Atrial Appendage
+GTEX-139UC-0008-SM-5ZZUG,Cells - Cultured fibroblasts
+GTEX-139UC-0426-SM-5K7UR,Heart - Left Ventricle
+GTEX-139UW-0226-SM-5K7WU,Lung
+GTEX-139UW-0326-SM-5J1ML,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139UW-2826-SM-5L3E7,Skin - Sun Exposed (Lower leg)
+GTEX-139YR-0008-SM-5ZZUM,Cells - Cultured fibroblasts
+GTEX-139YR-0526-SM-5L3DG,Heart - Atrial Appendage
+GTEX-139YR-0826-SM-5LZXY,Heart - Left Ventricle
+GTEX-139YR-0926-SM-5LZYB,Lung
+GTEX-139YR-1026-SM-5LZYN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-139YR-5001-SM-AN3YP,Heart - Left Ventricle
+GTEX-13CF2-0008-SM-62LDC,Cells - Cultured fibroblasts
+GTEX-13CF2-0226-SM-5L3DV,Heart - Atrial Appendage
+GTEX-13CF2-0426-SM-5KM1H,Heart - Left Ventricle
+GTEX-13CF2-2526-SM-5LZYX,Skin - Sun Exposed (Lower leg)
+GTEX-13CF3-0426-SM-5IJEU,Lung
+GTEX-13CF3-0726-SM-5J2MY,Heart - Left Ventricle
+GTEX-13CF3-0826-SM-5LZYZ,Heart - Atrial Appendage
+GTEX-13CF3-2426-SM-5IFGX,Skin - Sun Exposed (Lower leg)
+GTEX-13CZU-0008-SM-5ZZUI,Cells - Cultured fibroblasts
+GTEX-13CZU-5001-SM-AN3YV,Lung
+GTEX-13CZV-0008-SM-5ZZUE,Cells - Cultured fibroblasts
+GTEX-13D11-0326-SM-5LZXX,Lung
+GTEX-13D11-0926-SM-5J2NC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13D11-1526-SM-5J2NA,Heart - Atrial Appendage
+GTEX-13D11-1726-SM-5IFGQ,Heart - Left Ventricle
+GTEX-13D11-2426-SM-5KM1V,Skin - Sun Exposed (Lower leg)
+GTEX-13D11-5007-SM-AN3YX,Heart - Left Ventricle
+GTEX-13FH7-0008-SM-5ZZUJ,Cells - Cultured fibroblasts
+GTEX-13FH7-0826-SM-5J2NW,Heart - Atrial Appendage
+GTEX-13FH7-0926-SM-5J2MR,Heart - Left Ventricle
+GTEX-13FH7-1126-SM-5K7UG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FH7-1726-SM-5IJE7,Lung
+GTEX-13FH7-2026-SM-5IJCR,Skin - Sun Exposed (Lower leg)
+GTEX-13FH7-2026-SM-E9J4I,Skin - Sun Exposed (Lower leg)
+GTEX-13FH7-5007-SM-AN3Z1,Heart - Left Ventricle
+GTEX-13FHO-0226-SM-5IFGY,Skin - Sun Exposed (Lower leg)
+GTEX-13FHO-0426-SM-5L3F5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FHO-1026-SM-5KM1Q,Lung
+GTEX-13FHO-1026-SM-CYKRK,Lung
+GTEX-13FHO-1226-SM-5L3EF,Heart - Atrial Appendage
+GTEX-13FHP-0126-SM-5IJBG,Skin - Sun Exposed (Lower leg)
+GTEX-13FHP-0726-SM-5K7YI,Lung
+GTEX-13FHP-0726-SM-CYKPV,Lung
+GTEX-13FHP-0826-SM-5K7V5,Heart - Atrial Appendage
+GTEX-13FHP-1026-SM-5K7Y2,Heart - Left Ventricle
+GTEX-13FHP-1026-SM-CYKPW,Heart - Left Ventricle
+GTEX-13FLV-0126-SM-5K7WT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FLV-0426-SM-5KLZA,Lung
+GTEX-13FLV-0926-SM-5L3DZ,Heart - Left Ventricle
+GTEX-13FLV-0926-SM-CYKRL,Heart - Left Ventricle
+GTEX-13FTW-0326-SM-5K7UW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FTW-0826-SM-5K7XR,Heart - Atrial Appendage
+GTEX-13FTW-1026-SM-5L3E3,Heart - Left Ventricle
+GTEX-13FTW-2626-SM-5K7WL,Skin - Sun Exposed (Lower leg)
+GTEX-13FTW-5001-SM-AN3ZN,Heart - Left Ventricle
+GTEX-13FTX-0326-SM-5J2NG,Lung
+GTEX-13FTX-1526-SM-5K7VJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FTX-1826-SM-5J1NX,Skin - Sun Exposed (Lower leg)
+GTEX-13FTY-0126-SM-5J2NZ,Lung
+GTEX-13FTY-0526-SM-5L3EV,Skin - Sun Exposed (Lower leg)
+GTEX-13FTY-2126-SM-5IFFB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13FTZ-0226-SM-5K7X6,Heart - Left Ventricle
+GTEX-13FTZ-0226-SM-CYKR9,Heart - Left Ventricle
+GTEX-13FTZ-0326-SM-5J1O1,Heart - Atrial Appendage
+GTEX-13FTZ-0526-SM-5IJCW,Lung
+GTEX-13FXS-0226-SM-5IJCK,Skin - Sun Exposed (Lower leg)
+GTEX-13FXS-1026-SM-62LFQ,Heart - Atrial Appendage
+GTEX-13G51-0226-SM-CYKUT,Heart - Left Ventricle
+GTEX-13G51-0426-SM-5K7Z5,Lung
+GTEX-13G51-0426-SM-CYKUU,Lung
+GTEX-13G51-1826-SM-5KLZH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13G51-2526-SM-5LZYK,Skin - Sun Exposed (Lower leg)
+GTEX-13IVO-0126-SM-5J1NG,Skin - Sun Exposed (Lower leg)
+GTEX-13IVO-0726-SM-5LZYV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13JUV-0226-SM-5IJCC,Heart - Atrial Appendage
+GTEX-13JUV-0526-SM-5K7XE,Lung
+GTEX-13JUV-0526-SM-CYKUW,Lung
+GTEX-13JUV-2026-SM-5K7UA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13JUV-2726-SM-5LZZ8,Skin - Sun Exposed (Lower leg)
+GTEX-13JVG-0726-SM-5KM16,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13JVG-1126-SM-5KM2M,Heart - Atrial Appendage
+GTEX-13JVG-1326-SM-5N9F8,Heart - Left Ventricle
+GTEX-13JVG-1426-SM-5MR4W,Lung
+GTEX-13N11-0326-SM-5LUA3,Lung
+GTEX-13N11-0426-SM-5KM3O,Heart - Left Ventricle
+GTEX-13N11-0726-SM-5L3DP,Heart - Atrial Appendage
+GTEX-13N11-2326-SM-5IJBF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13N11-2526-SM-5K7UE,Skin - Sun Exposed (Lower leg)
+GTEX-13N11-5028-SM-AN3Z7,Lung
+GTEX-13N1W-0126-SM-5K7VT,Skin - Sun Exposed (Lower leg)
+GTEX-13N1W-0726-SM-5MR57,Lung
+GTEX-13N1W-0926-SM-5MR36,Heart - Atrial Appendage
+GTEX-13N1W-1026-SM-5IJC5,Heart - Left Ventricle
+GTEX-13N1W-2426-SM-5IJD1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13N2G-0226-SM-5K7VF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13N2G-0826-SM-5IJE6,Lung
+GTEX-13N2G-0826-SM-CYKVY,Lung
+GTEX-13N2G-2626-SM-5J1OT,Skin - Sun Exposed (Lower leg)
+GTEX-13NYB-0126-SM-5J1MD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13NYB-0226-SM-5N9G4,Heart - Left Ventricle
+GTEX-13NYB-0326-SM-5IJDP,Heart - Atrial Appendage
+GTEX-13NYB-0626-SM-5MR47,Lung
+GTEX-13NYB-2526-SM-5K7Z6,Skin - Sun Exposed (Lower leg)
+GTEX-13NYC-0126-SM-5L3F4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13NYC-0326-SM-5K7WP,Skin - Sun Exposed (Lower leg)
+GTEX-13NYC-0326-SM-E9J4S,Skin - Sun Exposed (Lower leg)
+GTEX-13NYS-0126-SM-5MR3W,Skin - Sun Exposed (Lower leg)
+GTEX-13NYS-0626-SM-5L3F1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13NYS-1626-SM-5J2MU,Lung
+GTEX-13NYS-1626-SM-CYKVW,Lung
+GTEX-13NYS-1926-SM-5IJCB,Heart - Atrial Appendage
+GTEX-13NZ8-0326-SM-5L3DF,Lung
+GTEX-13NZ8-0826-SM-5MR3I,Skin - Sun Exposed (Lower leg)
+GTEX-13NZ8-1226-SM-5KM4A,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13NZ9-0126-SM-5K7XV,Heart - Atrial Appendage
+GTEX-13NZ9-0926-SM-5KM12,Lung
+GTEX-13NZ9-2626-SM-5L3FK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13NZA-0226-SM-5K7Z7,Skin - Sun Exposed (Lower leg)
+GTEX-13NZA-0826-SM-5K7WS,Heart - Atrial Appendage
+GTEX-13NZA-1426-SM-5KM4Y,Lung
+GTEX-13NZB-0226-SM-5KM1T,Heart - Left Ventricle
+GTEX-13NZB-0426-SM-5KM26,Heart - Atrial Appendage
+GTEX-13NZB-2526-SM-5J1OM,Skin - Sun Exposed (Lower leg)
+GTEX-13NZB-5001-SM-AN3ZC,Heart - Left Ventricle
+GTEX-13O1R-0126-SM-5L3EH,Skin - Sun Exposed (Lower leg)
+GTEX-13O1R-0926-SM-5L3DS,Heart - Atrial Appendage
+GTEX-13O1R-1226-SM-5J1NU,Heart - Left Ventricle
+GTEX-13O21-0326-SM-5J1N9,Heart - Atrial Appendage
+GTEX-13O21-1426-SM-5K7XI,Skin - Sun Exposed (Lower leg)
+GTEX-13O21-2326-SM-5MR3X,Heart - Left Ventricle
+GTEX-13O21-3026-SM-5J2NI,Lung
+GTEX-13O21-5028-SM-AN3ZD,Heart - Left Ventricle
+GTEX-13O3O-0126-SM-5KM4E,Skin - Sun Exposed (Lower leg)
+GTEX-13O3O-0126-SM-E9J49,Skin - Sun Exposed (Lower leg)
+GTEX-13O3O-0726-SM-5J1N7,Lung
+GTEX-13O3O-0726-SM-CYKVH,Lung
+GTEX-13O3O-1426-SM-5KM2S,Heart - Atrial Appendage
+GTEX-13O3O-1526-SM-5KM1C,Heart - Left Ventricle
+GTEX-13O3O-1526-SM-CYKUS,Heart - Left Ventricle
+GTEX-13O3O-2326-SM-5IJD6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13O3P-0126-SM-5KM4S,Skin - Sun Exposed (Lower leg)
+GTEX-13O3P-1026-SM-5N9E7,Lung
+GTEX-13O3P-1426-SM-5L3DT,Heart - Atrial Appendage
+GTEX-13O3P-1626-SM-5K7X3,Heart - Left Ventricle
+GTEX-13O3Q-0126-SM-5KM34,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13O3Q-0326-SM-5L3FE,Heart - Atrial Appendage
+GTEX-13O3Q-0526-SM-5KM18,Lung
+GTEX-13O3Q-2426-SM-5IJBR,Skin - Sun Exposed (Lower leg)
+GTEX-13O61-0426-SM-5L3ET,Heart - Atrial Appendage
+GTEX-13O61-0526-SM-5J2M1,Heart - Left Ventricle
+GTEX-13O61-0726-SM-5J2MD,Lung
+GTEX-13O61-1426-SM-5KM3D,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13O61-5004-SM-AN3ZO,Lung
+GTEX-13OVG-0326-SM-5KM57,Lung
+GTEX-13OVG-0426-SM-5KM2T,Heart - Atrial Appendage
+GTEX-13OVG-0526-SM-5K7YD,Heart - Left Ventricle
+GTEX-13OVG-1626-SM-5J1NF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVG-1926-SM-5L3DK,Skin - Sun Exposed (Lower leg)
+GTEX-13OVG-5004-SM-AN3ZG,Heart - Left Ventricle
+GTEX-13OVH-0126-SM-5MR4B,Skin - Sun Exposed (Lower leg)
+GTEX-13OVH-0526-SM-5L3E6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVH-1026-SM-5J2NP,Lung
+GTEX-13OVH-1026-SM-CYKS2,Lung
+GTEX-13OVI-0326-SM-5K7X1,Heart - Atrial Appendage
+GTEX-13OVI-1426-SM-5L3EY,Skin - Sun Exposed (Lower leg)
+GTEX-13OVI-2726-SM-5KM56,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVI-5001-SM-AN3ZK,Heart - Left Ventricle
+GTEX-13OVJ-0126-SM-5KM36,Skin - Sun Exposed (Lower leg)
+GTEX-13OVJ-0726-SM-5KM1W,Lung
+GTEX-13OVJ-0826-SM-5J1OK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVK-1426-SM-6PAN7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVK-2026-SM-7KUEO,Skin - Sun Exposed (Lower leg)
+GTEX-13OVL-0126-SM-5L3GJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OVL-0226-SM-5L3E9,Skin - Sun Exposed (Lower leg)
+GTEX-13OVL-0526-SM-5KLZQ,Heart - Left Ventricle
+GTEX-13OVL-0626-SM-5KM13,Lung
+GTEX-13OW5-0126-SM-5MR3A,Skin - Sun Exposed (Lower leg)
+GTEX-13OW5-0126-SM-DTXFS,Skin - Sun Exposed (Lower leg)
+GTEX-13OW5-0726-SM-5KLZK,Lung
+GTEX-13OW5-0926-SM-5L3GZ,Heart - Atrial Appendage
+GTEX-13OW5-1126-SM-5J1NR,Heart - Left Ventricle
+GTEX-13OW5-2326-SM-5L3HO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OW6-0426-SM-5L3HM,Skin - Sun Exposed (Lower leg)
+GTEX-13OW6-0826-SM-5L3GA,Lung
+GTEX-13OW6-0926-SM-5L3GM,Heart - Atrial Appendage
+GTEX-13OW6-1126-SM-5L3HL,Heart - Left Ventricle
+GTEX-13OW6-2726-SM-5J2OE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OW7-0126-SM-5MR3B,Skin - Sun Exposed (Lower leg)
+GTEX-13OW7-0426-SM-5K7VK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OW7-0926-SM-5L3EX,Lung
+GTEX-13OW7-0926-SM-CYKRR,Lung
+GTEX-13OW7-1626-SM-5IJDH,Heart - Atrial Appendage
+GTEX-13OW8-1026-SM-5J1NQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13OW8-1326-SM-5J1OW,Skin - Sun Exposed (Lower leg)
+GTEX-13OW8-1726-SM-5L3GO,Lung
+GTEX-13OW8-2126-SM-5J1OS,Heart - Left Ventricle
+GTEX-13PDP-0126-SM-5L3HD,Skin - Sun Exposed (Lower leg)
+GTEX-13PDP-0726-SM-5L3HP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13PDP-1326-SM-5K7U9,Heart - Atrial Appendage
+GTEX-13PL6-0826-SM-5IJBI,Heart - Atrial Appendage
+GTEX-13PL6-1126-SM-5L3IE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13PL7-0726-SM-5KM1S,Heart - Atrial Appendage
+GTEX-13PL7-1726-SM-5J2NX,Lung
+GTEX-13PL7-5016-SM-AN3ZS,Heart - Left Ventricle
+GTEX-13PVQ-0126-SM-5SIB4,Skin - Sun Exposed (Lower leg)
+GTEX-13PVQ-0626-SM-5LU47,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13PVQ-0926-SM-5IJFD,Lung
+GTEX-13PVQ-1226-SM-5IJDC,Heart - Left Ventricle
+GTEX-13PVQ-1326-SM-5LU4J,Heart - Atrial Appendage
+GTEX-13PVR-0426-SM-5RQK2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13PVR-0926-SM-5S2RB,Heart - Atrial Appendage
+GTEX-13PVR-1026-SM-5QGQW,Heart - Left Ventricle
+GTEX-13PVR-2326-SM-5QGR1,Skin - Sun Exposed (Lower leg)
+GTEX-13PVR-5001-SM-AN416,Heart - Left Ventricle
+GTEX-13QBU-0226-SM-5LU48,Heart - Atrial Appendage
+GTEX-13QBU-0426-SM-5J2O4,Heart - Left Ventricle
+GTEX-13QBU-0726-SM-5J2OA,Lung
+GTEX-13QBU-1226-SM-5LU4G,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13QBU-5001-SM-AN419,Heart - Left Ventricle
+GTEX-13QBU-5004-SM-AN41B,Lung
+GTEX-13QJ3-0326-SM-5S2RA,Skin - Sun Exposed (Lower leg)
+GTEX-13QJ3-1026-SM-5QGQU,Lung
+GTEX-13QJC-0126-SM-5ZZWJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13QJC-0526-SM-5RQKB,Lung
+GTEX-13RTJ-0126-SM-5S2NN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13RTJ-0526-SM-62LDP,Heart - Atrial Appendage
+GTEX-13RTJ-0726-SM-5QGQN,Heart - Left Ventricle
+GTEX-13RTJ-1126-SM-5S2UJ,Lung
+GTEX-13RTJ-2426-SM-5S2Q2,Skin - Sun Exposed (Lower leg)
+GTEX-13RTK-1426-SM-5QGQJ,Skin - Sun Exposed (Lower leg)
+GTEX-13RTL-0126-SM-7LG5S,Skin - Sun Exposed (Lower leg)
+GTEX-13S7M-0126-SM-5SI6A,Skin - Sun Exposed (Lower leg)
+GTEX-13S7M-2126-SM-5S2QR,Lung
+GTEX-13S86-0226-SM-5S2PJ,Heart - Left Ventricle
+GTEX-13S86-0326-SM-5SI6K,Heart - Atrial Appendage
+GTEX-13S86-0626-SM-5Q5E7,Lung
+GTEX-13SLW-0126-SM-5SI6C,Skin - Sun Exposed (Lower leg)
+GTEX-13SLW-0626-SM-5Q5ER,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13SLW-0826-SM-5QGP7,Heart - Atrial Appendage
+GTEX-13SLW-1226-SM-5S2Q7,Lung
+GTEX-13SLW-1226-SM-CYKW6,Lung
+GTEX-13SLX-0526-SM-5S2ON,Skin - Sun Exposed (Lower leg)
+GTEX-13SLX-0926-SM-5S2NM,Heart - Atrial Appendage
+GTEX-13SLX-1026-SM-5ZZUQ,Heart - Left Ventricle
+GTEX-13SLX-1026-SM-CYKVQ,Heart - Left Ventricle
+GTEX-13SLX-2226-SM-62LEP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13U4I-0126-SM-5LU38,Skin - Sun Exposed (Lower leg)
+GTEX-13U4I-0626-SM-5LU5L,Heart - Atrial Appendage
+GTEX-13U4I-0826-SM-5SIBD,Heart - Left Ventricle
+GTEX-13U4I-1426-SM-5J2M3,Lung
+GTEX-13U4I-2226-SM-5LU5H,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13VXT-0126-SM-5LU4I,Skin - Sun Exposed (Lower leg)
+GTEX-13VXT-0726-SM-5SIAD,Heart - Atrial Appendage
+GTEX-13VXT-1126-SM-5LU3A,Heart - Left Ventricle
+GTEX-13VXT-1426-SM-5LU4B,Lung
+GTEX-13VXT-1926-SM-5K7UO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13VXT-5007-SM-AN412,Heart - Left Ventricle
+GTEX-13VXU-0126-SM-5SI9F,Skin - Sun Exposed (Lower leg)
+GTEX-13VXU-0626-SM-5L3F9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13VXU-2726-SM-5LU4N,Lung
+GTEX-13VXU-2726-SM-CYKUK,Lung
+GTEX-13W3W-0326-SM-731DS,Lung
+GTEX-13W3W-0426-SM-5SI9D,Heart - Left Ventricle
+GTEX-13W3W-0526-SM-5LU3X,Heart - Atrial Appendage
+GTEX-13W3W-0726-SM-5IJDQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13W3W-2426-SM-5LU5B,Skin - Sun Exposed (Lower leg)
+GTEX-13W46-0226-SM-5SIAG,Skin - Sun Exposed (Lower leg)
+GTEX-13X6H-0426-SM-5LU4E,Heart - Left Ventricle
+GTEX-13X6H-0926-SM-5SIB2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13X6H-2126-SM-7EWD5,Skin - Sun Exposed (Lower leg)
+GTEX-13X6H-5001-SM-AN414,Heart - Left Ventricle
+GTEX-13X6I-0626-SM-5QGP9,Skin - Sun Exposed (Lower leg)
+GTEX-13X6I-1426-SM-5SI9Z,Heart - Left Ventricle
+GTEX-13X6I-1826-SM-5SIAO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13X6J-0126-SM-5QGOU,Skin - Sun Exposed (Lower leg)
+GTEX-13X6J-0626-SM-5LU5F,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13X6J-1226-SM-79OMF,Heart - Atrial Appendage
+GTEX-13X6K-0626-SM-5LU5D,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13X6K-1626-SM-7EWCX,Lung
+GTEX-13X6K-1726-SM-7IGLG,Heart - Atrial Appendage
+GTEX-13X6K-1826-SM-5O9CR,Heart - Left Ventricle
+GTEX-13YAN-0226-SM-5TDC6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-13YAN-0326-SM-5O9DF,Skin - Sun Exposed (Lower leg)
+GTEX-13YAN-1026-SM-5O9CF,Lung
+GTEX-13YAN-1326-SM-5Q5F1,Heart - Left Ventricle
+GTEX-13YAN-1326-SM-DK2JK,Heart - Left Ventricle
+GTEX-13YAN-1326-SM-DLIPO,Heart - Left Ventricle
+GTEX-13YAN-1426-SM-7EPG8,Heart - Atrial Appendage
+GTEX-1445S-1226-SM-5O9BF,Heart - Atrial Appendage
+GTEX-1445S-1326-SM-DK2JU,Heart - Left Ventricle
+GTEX-1445S-1326-SM-DLIOE,Heart - Left Ventricle
+GTEX-144FL-0126-SM-5TDC8,Skin - Sun Exposed (Lower leg)
+GTEX-144FL-0626-SM-5LU43,Skin - Not Sun Exposed (Suprapubic)
+GTEX-144FL-1126-SM-DLIPL,Heart - Atrial Appendage
+GTEX-144GL-0126-SM-5TDE2,Skin - Sun Exposed (Lower leg)
+GTEX-144GL-0626-SM-5LU4D,Skin - Not Sun Exposed (Suprapubic)
+GTEX-144GL-1026-SM-5O99R,Heart - Atrial Appendage
+GTEX-144GM-0126-SM-5Q5AX,Lung
+GTEX-144GM-0526-SM-79OJO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-144GN-0226-SM-G8OXN,Heart - Atrial Appendage
+GTEX-144GN-0426-SM-5O9AP,Lung
+GTEX-144GN-2326-SM-5LU4F,Skin - Sun Exposed (Lower leg)
+GTEX-144GN-5001-SM-AN3ZY,Heart - Left Ventricle
+GTEX-144GO-0226-SM-5LUB1,Lung
+GTEX-144GO-2026-SM-5O99P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145LS-0126-SM-5QGP1,Skin - Sun Exposed (Lower leg)
+GTEX-145LS-0626-SM-7EPG7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145LS-1226-SM-5Q5D9,Lung
+GTEX-145LS-1326-SM-5Q5EP,Heart - Atrial Appendage
+GTEX-145LT-0326-SM-5LUAD,Lung
+GTEX-145LT-0526-SM-5LUB2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145LT-1726-SM-5QGP3,Skin - Sun Exposed (Lower leg)
+GTEX-145LT-5001-SM-AN41S,Lung
+GTEX-145LU-0126-SM-5TDCB,Skin - Sun Exposed (Lower leg)
+GTEX-145LU-0526-SM-5O9AT,Lung
+GTEX-145LU-1926-SM-79OJN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145LV-0226-SM-5S2QG,Heart - Atrial Appendage
+GTEX-145LV-0326-SM-5Q5BW,Heart - Left Ventricle
+GTEX-145LV-2126-SM-5LU8N,Skin - Sun Exposed (Lower leg)
+GTEX-145LV-5001-SM-AN41H,Heart - Left Ventricle
+GTEX-145ME-0226-SM-5S2QN,Lung
+GTEX-145ME-1726-SM-5Q5EU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145ME-1826-SM-5SI9G,Skin - Sun Exposed (Lower leg)
+GTEX-145ME-5001-SM-7IGOL,Lung
+GTEX-145ME-5001-SM-AN41C,Lung
+GTEX-145MF-0626-SM-5LUAI,Skin - Sun Exposed (Lower leg)
+GTEX-145MF-0726-SM-5Q5BT,Lung
+GTEX-145MF-0926-SM-5Q5EA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145MG-1526-SM-5Q5EM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145MH-0626-SM-5NQAK,Lung
+GTEX-145MH-0626-SM-CYKUL,Lung
+GTEX-145MH-2826-SM-5RQJF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145MI-0526-SM-5O9A8,Skin - Sun Exposed (Lower leg)
+GTEX-145MI-0626-SM-5SI8S,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145MN-0626-SM-5QGRH,Heart - Left Ventricle
+GTEX-145MN-0726-SM-5NQBH,Heart - Atrial Appendage
+GTEX-145MN-0926-SM-5NQBT,Lung
+GTEX-145MN-1526-SM-5SI9T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-145MN-2226-SM-5SIAU,Skin - Sun Exposed (Lower leg)
+GTEX-145MN-5001-SM-AN41L,Heart - Left Ventricle
+GTEX-145MN-5004-SM-AN41N,Lung
+GTEX-145MO-0326-SM-5Q5B3,Skin - Sun Exposed (Lower leg)
+GTEX-145MO-1126-SM-5NQBX,Heart - Left Ventricle
+GTEX-145MO-1326-SM-5Q5EF,Lung
+GTEX-145MO-2826-SM-5LU96,Skin - Not Sun Exposed (Suprapubic)
+GTEX-146FH-0126-SM-5QGPP,Skin - Sun Exposed (Lower leg)
+GTEX-146FH-1026-SM-5RQIF,Heart - Left Ventricle
+GTEX-146FH-1126-SM-5NQAT,Heart - Atrial Appendage
+GTEX-146FH-1226-SM-5NQB6,Lung
+GTEX-146FQ-0126-SM-5NQA9,Skin - Sun Exposed (Lower leg)
+GTEX-146FQ-0926-SM-5LUAV,Lung
+GTEX-146FQ-2126-SM-5RQHU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-146FR-0626-SM-5RQJ1,Heart - Left Ventricle
+GTEX-146FR-0926-SM-5QGPE,Heart - Atrial Appendage
+GTEX-146FR-1326-SM-5SIAJ,Skin - Sun Exposed (Lower leg)
+GTEX-146FR-1326-SM-E9J48,Skin - Sun Exposed (Lower leg)
+GTEX-146FR-5007-SM-AN41G,Heart - Left Ventricle
+GTEX-14753-0426-SM-5NQAM,Skin - Sun Exposed (Lower leg)
+GTEX-14753-0726-SM-5QGQO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1477Z-0326-SM-7IGLA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1477Z-0626-SM-5NQB7,Lung
+GTEX-1477Z-0626-SM-CYKRO,Lung
+GTEX-1477Z-1126-SM-5P9GK,Heart - Atrial Appendage
+GTEX-147F3-0526-SM-5SI98,Skin - Sun Exposed (Lower leg)
+GTEX-147F3-0726-SM-5NQ9U,Lung
+GTEX-147F3-1726-SM-5SIAW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-147F4-0226-SM-5QGPW,Skin - Sun Exposed (Lower leg)
+GTEX-147F4-0726-SM-5TDDD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-147F4-0926-SM-5Q5EO,Lung
+GTEX-147F4-0926-SM-CYKOU,Lung
+GTEX-147F4-1126-SM-5TDDE,Heart - Atrial Appendage
+GTEX-147F4-1226-SM-5NQAY,Heart - Left Ventricle
+GTEX-147GR-0526-SM-5S2MY,Skin - Sun Exposed (Lower leg)
+GTEX-147GR-1226-SM-5TDCL,Lung
+GTEX-147GR-1226-SM-CYKOA,Lung
+GTEX-147GR-2426-SM-5ZZWQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-147JS-0226-SM-5S2U9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-147JS-1226-SM-5RQK4,Lung
+GTEX-147JS-1326-SM-5SI6D,Heart - Atrial Appendage
+GTEX-147JS-1526-SM-5ZZWF,Heart - Left Ventricle
+GTEX-148VI-0226-SM-5RQKA,Lung
+GTEX-148VI-0326-SM-5RQK7,Heart - Left Ventricle
+GTEX-148VI-1626-SM-5SI6E,Skin - Sun Exposed (Lower leg)
+GTEX-148VI-5004-SM-AN41P,Heart - Left Ventricle
+GTEX-148VJ-0126-SM-5TDDN,Skin - Sun Exposed (Lower leg)
+GTEX-148VJ-0626-SM-5LUAW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-148VJ-0826-SM-5LU8V,Lung
+GTEX-148VJ-0826-SM-CYKPD,Lung
+GTEX-148VJ-1426-SM-5TDE3,Heart - Atrial Appendage
+GTEX-148VJ-1526-SM-5Q5DU,Heart - Left Ventricle
+GTEX-148VJ-1526-SM-CYKOS,Heart - Left Ventricle
+GTEX-1497J-0226-SM-5QGPU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1497J-0326-SM-5Q5CN,Lung
+GTEX-1497J-1226-SM-5Q5BL,Heart - Left Ventricle
+GTEX-1497J-2426-SM-7IGNX,Skin - Sun Exposed (Lower leg)
+GTEX-1497J-5001-SM-AN41V,Lung
+GTEX-1497J-5007-SM-AN41X,Heart - Left Ventricle
+GTEX-14A5H-0426-SM-5QGQF,Skin - Sun Exposed (Lower leg)
+GTEX-14A5H-0826-SM-5QGPJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14A5I-0126-SM-5TDEA,Skin - Sun Exposed (Lower leg)
+GTEX-14A5I-1026-SM-5Q5E3,Heart - Atrial Appendage
+GTEX-14A5I-1226-SM-5NQBW,Heart - Left Ventricle
+GTEX-14A6H-0126-SM-5QGPK,Skin - Sun Exposed (Lower leg)
+GTEX-14A6H-0226-SM-5Q5DX,Heart - Left Ventricle
+GTEX-14A6H-0326-SM-5NQAN,Heart - Atrial Appendage
+GTEX-14A6H-0526-SM-5NQAZ,Lung
+GTEX-14A6H-2026-SM-5Q5DD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14A6H-5004-SM-AN421,Heart - Left Ventricle
+GTEX-14A6H-5006-SM-7EWE9,Heart - Left Ventricle
+GTEX-14ABY-0226-SM-5TDCQ,Skin - Sun Exposed (Lower leg)
+GTEX-14ABY-1126-SM-5Q5F8,Lung
+GTEX-14ABY-1126-SM-CYKOT,Lung
+GTEX-14ABY-1326-SM-CYKRP,Heart - Left Ventricle
+GTEX-14ABY-2026-SM-62LDL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14AS3-0926-SM-5TDD6,Lung
+GTEX-14AS3-1526-SM-5Q5ED,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14AS3-5007-SM-AN41Z,Lung
+GTEX-14ASI-0826-SM-5Q5EB,Heart - Atrial Appendage
+GTEX-14B4R-1326-SM-5Q5EZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14BIL-0126-SM-5SI92,Skin - Sun Exposed (Lower leg)
+GTEX-14BIL-0926-SM-7DHKN,Heart - Atrial Appendage
+GTEX-14BIL-1126-SM-79OMC,Heart - Left Ventricle
+GTEX-14BIL-1126-SM-CYKT7,Heart - Left Ventricle
+GTEX-14BIL-1226-SM-79OME,Lung
+GTEX-14BIM-0226-SM-7IGLD,Skin - Sun Exposed (Lower leg)
+GTEX-14BIM-2726-SM-5Q5EG,Heart - Atrial Appendage
+GTEX-14BIN-0626-SM-793DP,Skin - Sun Exposed (Lower leg)
+GTEX-14BIN-1126-SM-5RQJZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14BIN-2126-SM-793AX,Heart - Atrial Appendage
+GTEX-14BIN-2226-SM-5YYA1,Heart - Left Ventricle
+GTEX-14BIN-2226-SM-CYKPI,Heart - Left Ventricle
+GTEX-14BMU-0526-SM-73KW4,Lung
+GTEX-14BMU-1226-SM-5S2OR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14BMU-2226-SM-5TDE9,Skin - Sun Exposed (Lower leg)
+GTEX-14BMU-5001-SM-AN427,Lung
+GTEX-14BMV-0126-SM-5S2PO,Skin - Sun Exposed (Lower leg)
+GTEX-14BMV-0826-SM-73KXU,Lung
+GTEX-14BMV-0826-SM-CYKTX-ELUATE,Lung
+GTEX-14BMV-0826-SM-CYKTX-INPUT,Lung
+GTEX-14BMV-0826-SM-CYKTX-SUP,Lung
+GTEX-14BMV-1026-SM-5SI6B,Heart - Atrial Appendage
+GTEX-14BMV-2826-SM-5TDED,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14C38-0726-SM-5SI6M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14C38-1326-SM-62LDK,Heart - Atrial Appendage
+GTEX-14C38-1426-SM-5RQHZ,Heart - Left Ventricle
+GTEX-14C38-5007-SM-AN429,Heart - Left Ventricle
+GTEX-14C38-5010-SM-AN428,Lung
+GTEX-14C39-0326-SM-5TDDX,Lung
+GTEX-14C39-0326-SM-CYKOQ,Lung
+GTEX-14C39-0726-SM-5RQIK,Heart - Atrial Appendage
+GTEX-14C39-0926-SM-5TDDV,Heart - Left Ventricle
+GTEX-14C39-1726-SM-5RQIL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14C5O-0126-SM-5SI6N,Skin - Sun Exposed (Lower leg)
+GTEX-14C5O-0326-SM-5ZZUX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14C5O-1126-SM-5TDEH,Lung
+GTEX-14C5O-1126-SM-CYKO3,Lung
+GTEX-14C5O-1226-SM-664N3,Heart - Atrial Appendage
+GTEX-14C5O-1326-SM-5S2UW,Heart - Left Ventricle
+GTEX-14C5O-1326-SM-CYKQM,Heart - Left Ventricle
+GTEX-14DAQ-0126-SM-5S2MQ,Skin - Sun Exposed (Lower leg)
+GTEX-14DAQ-0626-SM-793DS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14DAQ-0926-SM-793AZ,Lung
+GTEX-14DAQ-0926-SM-CYKRD,Lung
+GTEX-14DAQ-1026-SM-793B1,Heart - Atrial Appendage
+GTEX-14DAQ-1126-SM-664MT,Heart - Left Ventricle
+GTEX-14DAR-0226-SM-5S2PR,Lung
+GTEX-14DAR-1226-SM-73KYV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14DAR-2026-SM-5S2O3,Skin - Sun Exposed (Lower leg)
+GTEX-14E1K-0226-SM-62LDT,Lung
+GTEX-14E1K-0826-SM-5ZZW9,Heart - Atrial Appendage
+GTEX-14E1K-1026-SM-73KUR,Heart - Left Ventricle
+GTEX-14E1K-2026-SM-7DUEI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14E1K-5004-SM-AN425,Heart - Left Ventricle
+GTEX-14E6C-0126-SM-5RQIP,Skin - Sun Exposed (Lower leg)
+GTEX-14E6C-0326-SM-5Q5EE,Heart - Atrial Appendage
+GTEX-14E6C-0426-SM-5YYA8,Heart - Left Ventricle
+GTEX-14E6C-1426-SM-5ZZWH,Lung
+GTEX-14E6C-2426-SM-5S2NF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14E6D-0126-SM-62LDV,Skin - Sun Exposed (Lower leg)
+GTEX-14E6D-0926-SM-5S2QV,Heart - Left Ventricle
+GTEX-14E6D-1026-SM-5S2RS,Lung
+GTEX-14E6D-1026-SM-CYKRZ,Lung
+GTEX-14E6E-0426-SM-73KUE,Lung
+GTEX-14E6E-0526-SM-793DN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14E6E-1826-SM-5S2R7,Skin - Sun Exposed (Lower leg)
+GTEX-14E6E-5001-SM-AN42D,Lung
+GTEX-14E7W-0126-SM-6LLJ9,Skin - Sun Exposed (Lower leg)
+GTEX-14E7W-1126-SM-5ZZVS,Heart - Atrial Appendage
+GTEX-14E7W-1226-SM-5RQIU,Heart - Left Ventricle
+GTEX-14E7W-1226-SM-CYKOO,Heart - Left Ventricle
+GTEX-14E7W-1326-SM-5RQIV,Lung
+GTEX-14H4A-0426-SM-5ZZWO,Heart - Atrial Appendage
+GTEX-14H4A-0626-SM-5ZZUT,Heart - Left Ventricle
+GTEX-14H4A-5001-SM-AN42I,Heart - Left Ventricle
+GTEX-14ICK-0226-SM-6EU25,Skin - Sun Exposed (Lower leg)
+GTEX-14ICK-5007-SM-AN42K,Lung
+GTEX-14ICL-1626-SM-5YYAO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14JFF-0626-SM-5ZZVT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14JG1-0426-SM-6ETZZ,Skin - Sun Exposed (Lower leg)
+GTEX-14JG1-0826-SM-5ZZWR,Heart - Atrial Appendage
+GTEX-14JG1-0926-SM-5YY8W,Lung
+GTEX-14JG1-1026-SM-6ETZY,Heart - Left Ventricle
+GTEX-14JG1-1026-SM-CYKOG,Heart - Left Ventricle
+GTEX-14JG1-1526-SM-5YY9X,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14JG6-0326-SM-6AJBT,Lung
+GTEX-14JG6-1426-SM-9WG7C,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14JG6-2226-SM-6EU2G,Skin - Sun Exposed (Lower leg)
+GTEX-14JG6-5001-SM-AN42H,Lung
+GTEX-14JIY-0126-SM-6LLH6,Skin - Sun Exposed (Lower leg)
+GTEX-14JIY-1126-SM-6EU28,Heart - Left Ventricle
+GTEX-14JIY-1126-SM-CYKOI,Heart - Left Ventricle
+GTEX-14JIY-1326-SM-6AJB3,Lung
+GTEX-14JIY-1326-SM-CYKT3,Lung
+GTEX-14LLW-0126-SM-6LLIO,Skin - Sun Exposed (Lower leg)
+GTEX-14LLW-0726-SM-5ZZVV,Lung
+GTEX-14LLW-2626-SM-62LDZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14LZ3-0126-SM-69LPM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14LZ3-0226-SM-62LET,Skin - Sun Exposed (Lower leg)
+GTEX-14LZ3-0726-SM-5YYAB,Lung
+GTEX-14PHW-0126-SM-6LLJI,Skin - Sun Exposed (Lower leg)
+GTEX-14PHX-0626-SM-5YY8Z,Heart - Atrial Appendage
+GTEX-14PHX-2126-SM-6EU2U,Heart - Left Ventricle
+GTEX-14PHX-2226-SM-6EU2P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PHX-2326-SM-62LEM,Skin - Sun Exposed (Lower leg)
+GTEX-14PHY-0226-SM-5ZZWM,Heart - Left Ventricle
+GTEX-14PHY-0326-SM-62LE3,Heart - Atrial Appendage
+GTEX-14PHY-0526-SM-664NM,Lung
+GTEX-14PHY-1226-SM-5ZZWK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PHY-5001-SM-AN43I,Heart - Left Ventricle
+GTEX-14PII-0226-SM-6EU1T,Skin - Sun Exposed (Lower leg)
+GTEX-14PII-0726-SM-6EU2B,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PII-1026-SM-5ZZVW,Heart - Atrial Appendage
+GTEX-14PJ2-0626-SM-6LLII,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ2-1026-SM-6EU1M,Heart - Left Ventricle
+GTEX-14PJ2-1126-SM-69LOD,Heart - Atrial Appendage
+GTEX-14PJ3-1126-SM-5ZZVX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ3-1826-SM-62LEX,Skin - Sun Exposed (Lower leg)
+GTEX-14PJ4-0226-SM-5YY92,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ4-0626-SM-6AJBS,Lung
+GTEX-14PJ4-0926-SM-5YY98,Heart - Atrial Appendage
+GTEX-14PJ4-1126-SM-5YY91,Heart - Left Ventricle
+GTEX-14PJ4-5004-SM-AN42T,Heart - Left Ventricle
+GTEX-14PJ5-0226-SM-5YY99,Lung
+GTEX-14PJ5-1526-SM-6LLIL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ5-5001-SM-AN42L,Lung
+GTEX-14PJ6-0626-SM-686Z6,Heart - Atrial Appendage
+GTEX-14PJ6-0726-SM-69LOL,Heart - Left Ventricle
+GTEX-14PJ6-2126-SM-6EU1V,Skin - Sun Exposed (Lower leg)
+GTEX-14PJ6-2626-SM-6EU2T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ6-5004-SM-AN42W,Heart - Left Ventricle
+GTEX-14PJM-0226-SM-62LF1,Skin - Sun Exposed (Lower leg)
+GTEX-14PJM-0826-SM-6LLIW,Heart - Atrial Appendage
+GTEX-14PJM-0926-SM-6AJ9Y,Lung
+GTEX-14PJM-0926-SM-CYKSY,Lung
+GTEX-14PJM-1126-SM-6LLHK,Heart - Left Ventricle
+GTEX-14PJM-1126-SM-CYKSX,Heart - Left Ventricle
+GTEX-14PJN-1826-SM-6AJ98,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJO-0826-SM-6ETZK,Heart - Atrial Appendage
+GTEX-14PJO-0926-SM-686YT,Lung
+GTEX-14PJO-2526-SM-6AJBQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PK6-0226-SM-62LF5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PK6-0326-SM-6AJ9S,Lung
+GTEX-14PK6-0726-SM-6LLIX,Heart - Atrial Appendage
+GTEX-14PK6-0826-SM-5ZZVO,Heart - Left Ventricle
+GTEX-14PK6-1926-SM-6ETZU,Skin - Sun Exposed (Lower leg)
+GTEX-14PKU-0008-SM-E9U4G,Cells - Cultured fibroblasts
+GTEX-14PKU-0126-SM-6LLHV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PKV-0008-SM-E9U4H,Cells - Cultured fibroblasts
+GTEX-14PKV-1126-SM-6LLJ1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PN3-0008-SM-E76Q7,Cells - Cultured fibroblasts
+GTEX-14PN3-0526-SM-69LQF,Heart - Left Ventricle
+GTEX-14PN3-0726-SM-6EU14,Heart - Atrial Appendage
+GTEX-14PN3-2426-SM-6LLHS,Skin - Sun Exposed (Lower leg)
+GTEX-14PN3-5001-SM-AN434,Heart - Left Ventricle
+GTEX-14PN4-0008-SM-E9U4N,Cells - Cultured fibroblasts
+GTEX-14PN4-0126-SM-6EU2V,Skin - Sun Exposed (Lower leg)
+GTEX-14PN4-0826-SM-69LON,Heart - Atrial Appendage
+GTEX-14PQA-0008-SM-E6CPD,Cells - Cultured fibroblasts
+GTEX-14PQA-1126-SM-7KUM4,Lung
+GTEX-14PQA-1126-SM-CYKTQ,Lung
+GTEX-14XAO-0008-SM-E9U4M,Cells - Cultured fibroblasts
+GTEX-14XAO-0526-SM-6AJB7,Lung
+GTEX-14XAO-0926-SM-69LPZ,Heart - Atrial Appendage
+GTEX-14XAO-1126-SM-6EU11,Heart - Left Ventricle
+GTEX-14XAO-1226-SM-6EU1C,Skin - Not Sun Exposed (Suprapubic)
+GTEX-14XAO-2326-SM-6EU1B,Skin - Sun Exposed (Lower leg)
+GTEX-14XAO-5004-SM-AN43Q,Heart - Left Ventricle
+GTEX-15CHC-0008-SM-E9U4J,Cells - Cultured fibroblasts
+GTEX-15CHC-0226-SM-5YYBB,Lung
+GTEX-15CHC-0326-SM-5ZZVP,Heart - Atrial Appendage
+GTEX-15CHC-0426-SM-6LLHI,Heart - Left Ventricle
+GTEX-15CHC-1126-SM-6LLHQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15CHC-2126-SM-6EU21,Skin - Sun Exposed (Lower leg)
+GTEX-15CHC-5004-SM-AN437,Heart - Left Ventricle
+GTEX-15CHQ-0008-SM-E9U4I,Cells - Cultured fibroblasts
+GTEX-15CHQ-0326-SM-69LQD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15CHQ-1326-SM-6871Z,Heart - Atrial Appendage
+GTEX-15CHQ-1526-SM-69LPW,Heart - Left Ventricle
+GTEX-15CHR-0008-SM-E9U4K,Cells - Cultured fibroblasts
+GTEX-15CHR-0226-SM-7PC2Z,Heart - Left Ventricle
+GTEX-15CHR-0326-SM-7DHN3,Heart - Atrial Appendage
+GTEX-15CHR-0726-SM-7EPHG,Lung
+GTEX-15CHR-1126-SM-7EWF4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15CHR-5001-SM-AN439,Heart - Left Ventricle
+GTEX-15CHS-0626-SM-6AJA3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15D1Q-0008-SM-E9U4L,Cells - Cultured fibroblasts
+GTEX-15D1Q-0126-SM-7KUG6,Skin - Sun Exposed (Lower leg)
+GTEX-15D1Q-0426-SM-6AJ9G,Heart - Atrial Appendage
+GTEX-15D1Q-0526-SM-6AJAY,Lung
+GTEX-15D1Q-0526-SM-CYKT2,Lung
+GTEX-15D1Q-2826-SM-6LLH7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15D79-0008-SM-E6CPM,Cells - Cultured fibroblasts
+GTEX-15DCD-0008-SM-E76Q6,Cells - Cultured fibroblasts
+GTEX-15DCD-0126-SM-7KUEK,Skin - Sun Exposed (Lower leg)
+GTEX-15DCD-1426-SM-CYKTW,Lung
+GTEX-15DCE-0008-SM-E6CPF,Cells - Cultured fibroblasts
+GTEX-15DCE-0826-SM-7KULW,Heart - Atrial Appendage
+GTEX-15DCE-5007-SM-AN458,Heart - Left Ventricle
+GTEX-15DCZ-0626-SM-6AJ9I,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15DCZ-0826-SM-6AJBB,Lung
+GTEX-15DCZ-1126-SM-6871O,Heart - Left Ventricle
+GTEX-15DDE-0008-SM-E6CPH,Cells - Cultured fibroblasts
+GTEX-15DDE-0126-SM-6LPKH,Skin - Sun Exposed (Lower leg)
+GTEX-15DDE-1126-SM-6LLHN,Heart - Left Ventricle
+GTEX-15DDE-1126-SM-CYKRM,Heart - Left Ventricle
+GTEX-15DDE-2926-SM-6LLJ3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15DYW-0008-SM-E76Q4,Cells - Cultured fibroblasts
+GTEX-15DYW-0126-SM-7KULE,Skin - Sun Exposed (Lower leg)
+GTEX-15DYW-1126-SM-6LPK5,Heart - Left Ventricle
+GTEX-15DYW-2726-SM-6EU2I,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15DZA-0008-SM-E76Q2,Cells - Cultured fibroblasts
+GTEX-15EO6-0008-SM-E6CPJ,Cells - Cultured fibroblasts
+GTEX-15EO6-2426-SM-6PALZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15EOM-0008-SM-E6CPI,Cells - Cultured fibroblasts
+GTEX-15EOM-0126-SM-7KUGG,Skin - Sun Exposed (Lower leg)
+GTEX-15EOM-0626-SM-6LPKI,Heart - Left Ventricle
+GTEX-15EOM-5007-SM-793DG,Heart - Left Ventricle
+GTEX-15EOM-5007-SM-AN43E,Heart - Left Ventricle
+GTEX-15EOM-5010-SM-7P8PA,Lung
+GTEX-15EOM-5010-SM-AN43D,Lung
+GTEX-15ER7-0008-SM-E6CPG,Cells - Cultured fibroblasts
+GTEX-15ER7-0326-SM-7KUEV,Skin - Sun Exposed (Lower leg)
+GTEX-15ER7-0626-SM-6PANF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15ER7-0826-SM-6PALW,Heart - Atrial Appendage
+GTEX-15ER7-0926-SM-7KUMG,Lung
+GTEX-15ER7-0926-SM-CYKTS-ELUATE,Lung
+GTEX-15ER7-0926-SM-CYKTS-INPUT,Lung
+GTEX-15ER7-0926-SM-CYKTS-SUP,Lung
+GTEX-15ER7-1726-SM-6PAMX,Heart - Left Ventricle
+GTEX-15ETS-0008-SM-E8VNG,Cells - Cultured fibroblasts
+GTEX-15ETS-0126-SM-7KUMW,Skin - Sun Exposed (Lower leg)
+GTEX-15EU6-0008-SM-E8VNH,Cells - Cultured fibroblasts
+GTEX-15EU6-0426-SM-6PAN5,Skin - Sun Exposed (Lower leg)
+GTEX-15EU6-1226-SM-6AJBE,Lung
+GTEX-15EU6-1326-SM-6PANG,Heart - Atrial Appendage
+GTEX-15EU6-2226-SM-6EU2L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15EU6-5007-SM-AN43F,Heart - Left Ventricle
+GTEX-15F5U-0008-SM-E8VMZ,Cells - Cultured fibroblasts
+GTEX-15F5U-1526-SM-6PANO,Skin - Sun Exposed (Lower leg)
+GTEX-15F5U-5003-SM-AN43O,Lung
+GTEX-15FZZ-0008-SM-E8VNI,Cells - Cultured fibroblasts
+GTEX-15FZZ-0326-SM-6M48O,Lung
+GTEX-15FZZ-0526-SM-7KUGD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15FZZ-5001-SM-AN44G,Lung
+GTEX-15G19-0126-SM-6PANQ,Skin - Sun Exposed (Lower leg)
+GTEX-15G19-0726-SM-CYKSQ,Lung
+GTEX-15G19-2426-SM-7KUMR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15G1A-0008-SM-E76Q5,Cells - Cultured fibroblasts
+GTEX-15G1A-0426-SM-6M468,Lung
+GTEX-15G1A-1626-SM-7KUKN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15RIE-0008-SM-EAZCH,Cells - Cultured fibroblasts
+GTEX-15RIE-0326-SM-6PAMC,Lung
+GTEX-15RIE-1326-SM-6PAMM,Heart - Atrial Appendage
+GTEX-15RIE-1726-SM-7KUMU,Heart - Left Ventricle
+GTEX-15RIE-1926-SM-7KUKJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15RIE-5013-SM-AN43X,Heart - Left Ventricle
+GTEX-15RIF-0008-SM-EAZ34,Cells - Cultured fibroblasts
+GTEX-15RIF-1926-SM-7KUDW,Skin - Sun Exposed (Lower leg)
+GTEX-15RIG-0008-SM-EAZCG,Cells - Cultured fibroblasts
+GTEX-15RIG-0226-SM-7KFTL,Skin - Sun Exposed (Lower leg)
+GTEX-15RIG-0726-SM-7KUM7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15RJ7-0008-SM-EAZCD,Cells - Cultured fibroblasts
+GTEX-15RJ7-0226-SM-7KUMN,Heart - Left Ventricle
+GTEX-15RJ7-0626-SM-6M47V,Lung
+GTEX-15RJ7-2126-SM-6PAMD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15RJ7-5001-SM-AN43W,Heart - Left Ventricle
+GTEX-15RJE-0008-SM-EAZ31,Cells - Cultured fibroblasts
+GTEX-15RJE-0626-SM-7KUKR,Heart - Left Ventricle
+GTEX-15RJE-0726-SM-7KUEG,Heart - Atrial Appendage
+GTEX-15RJE-1026-SM-6M46X,Lung
+GTEX-15RJE-2826-SM-7KUM9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15SB6-0008-SM-EAZCE,Cells - Cultured fibroblasts
+GTEX-15SB6-0426-SM-6LPJ5,Lung
+GTEX-15SB6-1726-SM-6PAME,Skin - Sun Exposed (Lower leg)
+GTEX-15SB6-5001-SM-AN44H,Lung
+GTEX-15SDE-0008-SM-EAZCF,Cells - Cultured fibroblasts
+GTEX-15SDE-1826-SM-7KUFN,Heart - Atrial Appendage
+GTEX-15SDE-2226-SM-7IGLO,Skin - Sun Exposed (Lower leg)
+GTEX-15SDE-5013-SM-AN443,Heart - Left Ventricle
+GTEX-15SHU-0008-SM-EAZ35,Cells - Cultured fibroblasts
+GTEX-15SHU-0126-SM-7KUEH,Skin - Sun Exposed (Lower leg)
+GTEX-15SHU-0926-SM-6PAMK,Heart - Atrial Appendage
+GTEX-15SHU-1126-SM-7KUMB,Heart - Left Ventricle
+GTEX-15SHU-1126-SM-CYKTR,Heart - Left Ventricle
+GTEX-15SHV-0008-SM-EAZCA,Cells - Cultured fibroblasts
+GTEX-15SHV-0326-SM-6M475,Lung
+GTEX-15SHV-0526-SM-7KUEN,Heart - Atrial Appendage
+GTEX-15SHV-2426-SM-6PAMF,Skin - Sun Exposed (Lower leg)
+GTEX-15SHV-5001-SM-AN446,Lung
+GTEX-15SHV-5004-SM-AN444,Heart - Left Ventricle
+GTEX-15SHW-0008-SM-EAZ33,Cells - Cultured fibroblasts
+GTEX-15SHW-0226-SM-7LTAT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15SHW-0326-SM-6PAML,Skin - Sun Exposed (Lower leg)
+GTEX-15SHW-0926-SM-6LPIO,Lung
+GTEX-15SHW-1226-SM-6M46C,Heart - Left Ventricle
+GTEX-15SKB-0008-SM-EAZ36,Cells - Cultured fibroblasts
+GTEX-15SKB-0826-SM-7KUFB,Lung
+GTEX-15SKB-0926-SM-7KUFC,Heart - Atrial Appendage
+GTEX-15SKB-2826-SM-6PAMH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15SZO-0008-SM-EAZ38,Cells - Cultured fibroblasts
+GTEX-15TU5-0226-SM-6PALR,Skin - Sun Exposed (Lower leg)
+GTEX-15TU5-1426-SM-7KUN6,Heart - Left Ventricle
+GTEX-15TU5-1426-SM-CYKTT,Heart - Left Ventricle
+GTEX-15TU5-2426-SM-7KUDU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15UF6-0008-SM-EAZCB,Cells - Cultured fibroblasts
+GTEX-15UF6-0826-SM-6PALJ,Skin - Sun Exposed (Lower leg)
+GTEX-15UF6-1926-SM-7KUDV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15UF7-0008-SM-EAZ37,Cells - Cultured fibroblasts
+GTEX-15UF7-1526-SM-6LPI7,Heart - Atrial Appendage
+GTEX-15UKP-0008-SM-EAZ3A,Cells - Cultured fibroblasts
+GTEX-15UKP-0426-SM-7KUFQ,Skin - Sun Exposed (Lower leg)
+GTEX-15UKP-1526-SM-6PAL9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-15UKP-1926-SM-6LPI9,Lung
+GTEX-15UKP-5010-SM-AN44O,Lung
+GTEX-169BO-0008-SM-EAZ32,Cells - Cultured fibroblasts
+GTEX-169BO-0226-SM-79OL1,Lung
+GTEX-169BO-1326-SM-9MQK2,Skin - Sun Exposed (Lower leg)
+GTEX-16A39-0008-SM-EAZC9,Cells - Cultured fibroblasts
+GTEX-16A39-5001-SM-AN44B,Lung
+GTEX-16AAH-0008-SM-EAZC5,Cells - Cultured fibroblasts
+GTEX-16AAH-0426-SM-7DUFM,Lung
+GTEX-16AAH-0626-SM-793C9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16AAH-1726-SM-7939C,Skin - Sun Exposed (Lower leg)
+GTEX-16BQI-0008-SM-EAZCC,Cells - Cultured fibroblasts
+GTEX-16BQI-0226-SM-7KUEX,Skin - Sun Exposed (Lower leg)
+GTEX-16BQI-0926-SM-6M485,Heart - Left Ventricle
+GTEX-16BQI-1326-SM-6M486,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16BQI-5007-SM-AN44E,Heart - Left Ventricle
+GTEX-16GPK-0008-SM-EAZ39,Cells - Cultured fibroblasts
+GTEX-16GPK-0126-SM-7DHLE,Skin - Sun Exposed (Lower leg)
+GTEX-16GPK-0626-SM-7KFSF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16GPK-1126-SM-CYKSS,Heart - Left Ventricle
+GTEX-16GPK-1226-SM-7KUE6,Heart - Atrial Appendage
+GTEX-16GPK-1226-SM-7LTAU,Heart - Atrial Appendage
+GTEX-16GPK-1826-SM-7MGW5,Lung
+GTEX-16MT8-0008-SM-EAZC3,Cells - Cultured fibroblasts
+GTEX-16MT8-0426-SM-7KUEY,Skin - Sun Exposed (Lower leg)
+GTEX-16MT8-0826-SM-7KULO,Heart - Atrial Appendage
+GTEX-16MT8-0926-SM-6M487,Heart - Left Ventricle
+GTEX-16MT8-1026-SM-6LPK1,Lung
+GTEX-16MT8-2926-SM-7DUFO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16MT9-0008-SM-EAZC8,Cells - Cultured fibroblasts
+GTEX-16MT9-0126-SM-7EPI8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16MTA-0008-SM-EAZC6,Cells - Cultured fibroblasts
+GTEX-16MTA-0926-SM-6M47Z,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16MTA-1226-SM-7KULL,Lung
+GTEX-16NFA-0526-SM-7KULM,Heart - Atrial Appendage
+GTEX-16NFA-0826-SM-6LPJD,Lung
+GTEX-16NFA-1526-SM-7KULS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16NFA-2326-SM-7KUE5,Skin - Sun Exposed (Lower leg)
+GTEX-16NFA-5001-SM-AN44L,Heart - Left Ventricle
+GTEX-16NFA-5003-SM-AN44K,Lung
+GTEX-16NGA-0008-SM-EAZC7,Cells - Cultured fibroblasts
+GTEX-16NGA-0226-SM-718AI,Lung
+GTEX-16NGA-0726-SM-731AO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16NGA-1726-SM-731B4,Skin - Sun Exposed (Lower leg)
+GTEX-16NPV-0008-SM-EAZC2,Cells - Cultured fibroblasts
+GTEX-16NPX-0008-SM-EAZC1,Cells - Cultured fibroblasts
+GTEX-16NPX-0226-SM-79OMT,Skin - Sun Exposed (Lower leg)
+GTEX-16NPX-0726-SM-7KULC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16NPX-0826-SM-6M489,Heart - Atrial Appendage
+GTEX-16NPX-0926-SM-7KUEZ,Heart - Left Ventricle
+GTEX-16XZY-0008-SM-EAZCI,Cells - Cultured fibroblasts
+GTEX-16XZY-0426-SM-793BI,Heart - Left Ventricle
+GTEX-16XZY-0526-SM-7DHKY,Heart - Atrial Appendage
+GTEX-16XZY-2126-SM-79OK1,Skin - Sun Exposed (Lower leg)
+GTEX-16XZY-5001-SM-AN456,Heart - Left Ventricle
+GTEX-16XZZ-0008-SM-EAZCJ,Cells - Cultured fibroblasts
+GTEX-16XZZ-0126-SM-793DV,Skin - Sun Exposed (Lower leg)
+GTEX-16XZZ-0726-SM-7KUF2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16XZZ-0926-SM-7DHLI,Lung
+GTEX-16XZZ-0926-SM-CYKP1,Lung
+GTEX-16XZZ-1026-SM-7DHKS,Heart - Atrial Appendage
+GTEX-16XZZ-1126-SM-CYKSR,Heart - Left Ventricle
+GTEX-16YQH-0008-SM-EAZB8,Cells - Cultured fibroblasts
+GTEX-16YQH-0126-SM-7DUFJ,Skin - Sun Exposed (Lower leg)
+GTEX-16YQH-0726-SM-7IGM1,Heart - Atrial Appendage
+GTEX-16YQH-0926-SM-793BC,Heart - Left Ventricle
+GTEX-16YQH-0926-SM-CYKU2,Heart - Left Ventricle
+GTEX-16YQH-2226-SM-7IGM2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-16Z82-0008-SM-EAZBX,Cells - Cultured fibroblasts
+GTEX-16Z82-1026-SM-6M48A,Lung
+GTEX-16Z82-1026-SM-CYKSW,Lung
+GTEX-16Z82-2626-SM-7KULU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-178AV-0008-SM-EAZBY,Cells - Cultured fibroblasts
+GTEX-178AV-0326-SM-6LPJF,Lung
+GTEX-178AV-1726-SM-7KUL8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17EUY-0008-SM-EAZB9,Cells - Cultured fibroblasts
+GTEX-17EUY-0426-SM-793BD,Skin - Sun Exposed (Lower leg)
+GTEX-17EVP-0008-SM-EAZBZ,Cells - Cultured fibroblasts
+GTEX-17EVP-0326-SM-7DHLG,Skin - Sun Exposed (Lower leg)
+GTEX-17EVP-0526-SM-7EPGY,Heart - Atrial Appendage
+GTEX-17EVP-0726-SM-7EWDX,Lung
+GTEX-17EVP-0726-SM-CYKU5,Lung
+GTEX-17EVP-2626-SM-7IGMA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17EVQ-0008-SM-EAZB7,Cells - Cultured fibroblasts
+GTEX-17EVQ-0126-SM-7IGLR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17EVQ-0226-SM-7LG4P,Skin - Sun Exposed (Lower leg)
+GTEX-17EVQ-1526-SM-79ONG,Lung
+GTEX-17EVQ-1526-SM-CYKTA,Lung
+GTEX-17F96-0008-SM-EAZB6,Cells - Cultured fibroblasts
+GTEX-17F96-0126-SM-7EWDU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17F96-0626-SM-793CC,Lung
+GTEX-17F96-0826-SM-7DHLU,Heart - Atrial Appendage
+GTEX-17F96-1626-SM-7DUFL,Skin - Sun Exposed (Lower leg)
+GTEX-17F97-0008-SM-EAZBB,Cells - Cultured fibroblasts
+GTEX-17F97-0326-SM-7LG5B,Skin - Sun Exposed (Lower leg)
+GTEX-17F97-2626-SM-7IGM5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17F98-0008-SM-EAZBA,Cells - Cultured fibroblasts
+GTEX-17F98-0226-SM-793BV,Lung
+GTEX-17F98-0626-SM-79OMX,Skin - Sun Exposed (Lower leg)
+GTEX-17F98-1326-SM-7DUEP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17F9E-0008-SM-EAZB5,Cells - Cultured fibroblasts
+GTEX-17F9E-0726-SM-793A1,Heart - Atrial Appendage
+GTEX-17F9E-0926-SM-7IGMG,Heart - Left Ventricle
+GTEX-17F9E-2326-SM-79OKD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17F9E-5007-SM-AN44S,Heart - Left Ventricle
+GTEX-17F9Y-0008-SM-EAZBC,Cells - Cultured fibroblasts
+GTEX-17F9Y-0126-SM-79OKX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17F9Y-1026-SM-7IGO4,Lung
+GTEX-17F9Y-1226-SM-7EPGE,Heart - Atrial Appendage
+GTEX-17F9Y-1326-SM-7MGW9,Heart - Left Ventricle
+GTEX-17GQL-0526-SM-72D5N,Heart - Left Ventricle
+GTEX-17GQL-0626-SM-731CN,Heart - Atrial Appendage
+GTEX-17GQL-0726-SM-731BL,Lung
+GTEX-17GQL-0926-SM-731E7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17GQL-2026-SM-718BA,Skin - Sun Exposed (Lower leg)
+GTEX-17GQL-5004-SM-AN453,Heart - Left Ventricle
+GTEX-17GQL-5007-SM-AN454,Lung
+GTEX-17HG3-0008-SM-EAZBD,Cells - Cultured fibroblasts
+GTEX-17HG3-0326-SM-7IGP4,Lung
+GTEX-17HG3-1526-SM-7MGWA,Heart - Atrial Appendage
+GTEX-17HG3-2226-SM-7938L,Skin - Sun Exposed (Lower leg)
+GTEX-17HG3-2626-SM-7DUF2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17HGU-0008-SM-EAZBH,Cells - Cultured fibroblasts
+GTEX-17HGU-0226-SM-7DHKV,Skin - Sun Exposed (Lower leg)
+GTEX-17HGU-0926-SM-79OKO,Lung
+GTEX-17HGU-1026-SM-79OKL,Heart - Left Ventricle
+GTEX-17HGU-1126-SM-793BP,Heart - Atrial Appendage
+GTEX-17HGU-2326-SM-7DUFE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17HHE-0008-SM-EAZBJ,Cells - Cultured fibroblasts
+GTEX-17HHE-0626-SM-7DHL6,Lung
+GTEX-17HHE-1326-SM-7EWDZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17HHE-2026-SM-79OKF,Skin - Sun Exposed (Lower leg)
+GTEX-17HHY-0008-SM-EAZBE,Cells - Cultured fibroblasts
+GTEX-17HHY-0126-SM-7LG5D,Skin - Sun Exposed (Lower leg)
+GTEX-17HHY-0426-SM-7DHLC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17HHY-1426-SM-7EWDQ,Heart - Left Ventricle
+GTEX-17HII-0008-SM-EAZBF,Cells - Cultured fibroblasts
+GTEX-17HII-0226-SM-7LG4E,Skin - Sun Exposed (Lower leg)
+GTEX-17HII-0926-SM-79ON7,Lung
+GTEX-17HII-1326-SM-7IGOB,Heart - Left Ventricle
+GTEX-17HII-1426-SM-7EPGG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17JCI-0008-SM-EAZBG,Cells - Cultured fibroblasts
+GTEX-17JCI-0126-SM-7LG5G,Skin - Sun Exposed (Lower leg)
+GTEX-17JCI-0826-SM-7LT8W,Heart - Atrial Appendage
+GTEX-17JCI-1126-SM-7IGMM,Heart - Left Ventricle
+GTEX-17JCI-1526-SM-7IGOQ,Lung
+GTEX-17JCI-2926-SM-7DUFF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17KNJ-0008-SM-EAZBI,Cells - Cultured fibroblasts
+GTEX-17KNJ-0626-SM-7LT9L,Heart - Atrial Appendage
+GTEX-17KNJ-0826-SM-793A4,Heart - Left Ventricle
+GTEX-17KNJ-0926-SM-7IGP2,Lung
+GTEX-17KNJ-2126-SM-718AM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17KNJ-2326-SM-7DHLQ,Skin - Sun Exposed (Lower leg)
+GTEX-17KNJ-5004-SM-AN44T,Heart - Left Ventricle
+GTEX-17MF6-0008-SM-EAZBV,Cells - Cultured fibroblasts
+GTEX-17MF6-0126-SM-7LG4F,Skin - Sun Exposed (Lower leg)
+GTEX-17MF6-0726-SM-7LT8E,Heart - Left Ventricle
+GTEX-17MF6-0826-SM-7LT8F,Lung
+GTEX-17MF6-0926-SM-7LTAL,Heart - Atrial Appendage
+GTEX-17MF6-2626-SM-79OKQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17MFQ-0008-SM-EAZBK,Cells - Cultured fibroblasts
+GTEX-17MFQ-1526-SM-7KFRR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-17MFQ-1726-SM-793C7,Skin - Sun Exposed (Lower leg)
+GTEX-183FY-0008-SM-EAZBL,Cells - Cultured fibroblasts
+GTEX-183FY-0126-SM-7LT9P,Skin - Sun Exposed (Lower leg)
+GTEX-183FY-0726-SM-793C3,Lung
+GTEX-183FY-1026-SM-7939A,Skin - Not Sun Exposed (Suprapubic)
+GTEX-183WM-0008-SM-EAZBN,Cells - Cultured fibroblasts
+GTEX-183WM-0126-SM-7LTAB,Skin - Sun Exposed (Lower leg)
+GTEX-183WM-0326-SM-72D5V,Skin - Not Sun Exposed (Suprapubic)
+GTEX-183WM-0926-SM-718AN,Heart - Atrial Appendage
+GTEX-18465-0008-SM-EAZBM,Cells - Cultured fibroblasts
+GTEX-18465-0126-SM-731BN,Skin - Sun Exposed (Lower leg)
+GTEX-18465-0626-SM-7LT8X,Lung
+GTEX-18465-0726-SM-7LG4L,Heart - Atrial Appendage
+GTEX-18465-0926-SM-731AY,Heart - Left Ventricle
+GTEX-18465-2826-SM-7LT9J,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A66-0008-SM-EAZBU,Cells - Cultured fibroblasts
+GTEX-18A66-0226-SM-718BD,Skin - Sun Exposed (Lower leg)
+GTEX-18A66-0626-SM-7LT8Z,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A66-0926-SM-718BG,Lung
+GTEX-18A66-1126-SM-731C5,Heart - Atrial Appendage
+GTEX-18A66-1226-SM-7LT8G,Heart - Left Ventricle
+GTEX-18A67-0008-SM-EAZBP,Cells - Cultured fibroblasts
+GTEX-18A67-0126-SM-7LG5P,Skin - Sun Exposed (Lower leg)
+GTEX-18A67-1026-SM-731CE,Heart - Atrial Appendage
+GTEX-18A67-1126-SM-7KFSB,Lung
+GTEX-18A67-1226-SM-7KFRS,Heart - Left Ventricle
+GTEX-18A67-1626-SM-7LT9T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A6Q-0008-SM-EAZBO,Cells - Cultured fibroblasts
+GTEX-18A6Q-0126-SM-731BZ,Skin - Sun Exposed (Lower leg)
+GTEX-18A6Q-0626-SM-7KFRP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A6Q-0826-SM-7KFRD,Lung
+GTEX-18A6Q-1526-SM-731CO,Heart - Atrial Appendage
+GTEX-18A6Q-1626-SM-7KFTA,Heart - Left Ventricle
+GTEX-18A7A-0008-SM-EAZBR,Cells - Cultured fibroblasts
+GTEX-18A7A-0126-SM-731AH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A7A-0226-SM-718BH,Skin - Sun Exposed (Lower leg)
+GTEX-18A7A-1026-SM-7LT8B,Lung
+GTEX-18A7A-1226-SM-7LTAJ,Heart - Atrial Appendage
+GTEX-18A7B-0008-SM-EAZBQ,Cells - Cultured fibroblasts
+GTEX-18A7B-0126-SM-7LG64,Skin - Sun Exposed (Lower leg)
+GTEX-18A7B-2726-SM-7LG56,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18D9A-0226-SM-7KFSJ,Lung
+GTEX-18D9A-1426-SM-7LT8M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18D9A-1926-SM-7LG6P,Skin - Sun Exposed (Lower leg)
+GTEX-18D9B-0008-SM-EAZBT,Cells - Cultured fibroblasts
+GTEX-18D9B-0526-SM-7LTAS,Skin - Sun Exposed (Lower leg)
+GTEX-18D9B-0926-SM-7LG4U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18D9B-1026-SM-72D6A,Lung
+GTEX-18D9B-1026-SM-7KFS8,Lung
+GTEX-18D9B-1026-SM-CNPO5,Lung
+GTEX-18D9B-1126-SM-7KFSH,Heart - Atrial Appendage
+GTEX-18D9B-1226-SM-72D6V,Heart - Left Ventricle
+GTEX-18D9B-5010-SM-AN45B,Heart - Left Ventricle
+GTEX-18D9U-0008-SM-EAZBW,Cells - Cultured fibroblasts
+GTEX-18D9U-0126-SM-731BM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-18D9U-0226-SM-718BP,Skin - Sun Exposed (Lower leg)
+GTEX-18D9U-0526-SM-72D7C,Lung
+GTEX-18D9U-1126-SM-72D5Y,Heart - Left Ventricle
+GTEX-18D9U-1426-SM-718BO,Heart - Atrial Appendage
+GTEX-18D9U-5004-SM-AN44W,Lung
+GTEX-18D9U-5010-SM-AN44Y,Heart - Left Ventricle
+GTEX-18QFQ-0008-SM-EAZD7,Cells - Cultured fibroblasts
+GTEX-18QFQ-0126-SM-731BE,Skin - Sun Exposed (Lower leg)
+GTEX-18QFQ-0926-SM-7LG4V,Lung
+GTEX-18QFQ-1826-SM-72D52,Skin - Not Sun Exposed (Suprapubic)
+GTEX-19HZE-0126-SM-73KX7,Skin - Sun Exposed (Lower leg)
+GTEX-19HZE-2926-SM-718BQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A32A-0008-SM-EAZD9,Cells - Cultured fibroblasts
+GTEX-1A32A-0126-SM-718B1,Skin - Sun Exposed (Lower leg)
+GTEX-1A32A-0626-SM-731AQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A32A-0726-SM-731D4,Lung
+GTEX-1A32A-1326-SM-73KWW,Heart - Atrial Appendage
+GTEX-1A3MV-0008-SM-EAZDA,Cells - Cultured fibroblasts
+GTEX-1A3MV-0526-SM-72D5A,Lung
+GTEX-1A3MV-1826-SM-731CD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A3MV-1926-SM-718BT,Skin - Sun Exposed (Lower leg)
+GTEX-1A3MW-0008-SM-EAZDC,Cells - Cultured fibroblasts
+GTEX-1A3MW-0126-SM-73KXX,Skin - Sun Exposed (Lower leg)
+GTEX-1A3MW-0626-SM-731CB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A3MW-1326-SM-7189P,Heart - Left Ventricle
+GTEX-1A3MX-0008-SM-EAZDB,Cells - Cultured fibroblasts
+GTEX-1A3MX-0126-SM-731BR,Skin - Sun Exposed (Lower leg)
+GTEX-1A3MX-1226-SM-731B3,Heart - Atrial Appendage
+GTEX-1A3MX-1326-SM-72D58,Heart - Left Ventricle
+GTEX-1A3MX-2626-SM-7PC24,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A8FM-0008-SM-EAZDD,Cells - Cultured fibroblasts
+GTEX-1A8FM-0226-SM-7SB7Q,Skin - Sun Exposed (Lower leg)
+GTEX-1A8FM-0626-SM-7PC25,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A8FM-0826-SM-793D5,Lung
+GTEX-1A8FM-1026-SM-7PC26,Heart - Atrial Appendage
+GTEX-1A8G6-0008-SM-EWRMK,Cells - Cultured fibroblasts
+GTEX-1A8G6-0426-SM-72D6Q,Skin - Sun Exposed (Lower leg)
+GTEX-1A8G6-0726-SM-73KV5,Lung
+GTEX-1A8G6-1626-SM-7MGWO,Heart - Left Ventricle
+GTEX-1A8G6-1826-SM-73KY8,Heart - Atrial Appendage
+GTEX-1A8G6-2726-SM-731AR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1A8G7-0008-SM-EVYAT,Cells - Cultured fibroblasts
+GTEX-1A8G7-0126-SM-7DUGH,Skin - Sun Exposed (Lower leg)
+GTEX-1A8G7-1326-SM-73KVM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AMEY-0008-SM-EVYAU,Cells - Cultured fibroblasts
+GTEX-1AMEY-0826-SM-72D65,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AMEY-1326-SM-73KYK,Skin - Sun Exposed (Lower leg)
+GTEX-1AMFI-0008-SM-EVYAV,Cells - Cultured fibroblasts
+GTEX-1AMFI-1326-SM-7939R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AMFI-2026-SM-731BH,Skin - Sun Exposed (Lower leg)
+GTEX-1AX8Y-0326-SM-73KYY,Heart - Atrial Appendage
+GTEX-1AX8Y-0426-SM-7189O,Heart - Left Ventricle
+GTEX-1AX8Y-0526-SM-72D5K,Lung
+GTEX-1AX8Y-1126-SM-731AG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AX8Y-2026-SM-73KUA,Skin - Sun Exposed (Lower leg)
+GTEX-1AX8Y-5001-SM-AN45M,Heart - Left Ventricle
+GTEX-1AX8Z-0008-SM-EVYAW,Cells - Cultured fibroblasts
+GTEX-1AX8Z-0126-SM-7DHM6,Skin - Sun Exposed (Lower leg)
+GTEX-1AX8Z-0726-SM-73KTS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AX8Z-1126-SM-731CS,Heart - Atrial Appendage
+GTEX-1AX8Z-1326-SM-7DHMO,Heart - Left Ventricle
+GTEX-1AX8Z-1526-SM-73KW1,Lung
+GTEX-1AX8Z-5007-SM-AHZ36,Heart - Left Ventricle
+GTEX-1AX8Z-5007-SM-AN45W,Heart - Left Ventricle
+GTEX-1AX8Z-5010-SM-AHZ33,Lung
+GTEX-1AX9I-0008-SM-EVYAZ,Cells - Cultured fibroblasts
+GTEX-1AX9I-0126-SM-7SB74,Skin - Sun Exposed (Lower leg)
+GTEX-1AX9I-0826-SM-73KUT,Lung
+GTEX-1AX9I-1026-SM-73KYF,Heart - Atrial Appendage
+GTEX-1AX9I-1126-SM-7EPHH,Heart - Left Ventricle
+GTEX-1AX9I-2226-SM-73KUO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AX9J-0008-SM-EVYB2,Cells - Cultured fibroblasts
+GTEX-1AX9J-0226-SM-73KXM,Skin - Sun Exposed (Lower leg)
+GTEX-1AX9J-0926-SM-73KXA,Heart - Atrial Appendage
+GTEX-1AX9J-1026-SM-72D6E,Heart - Left Ventricle
+GTEX-1AX9J-1326-SM-731BJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AX9J-1626-SM-73KUI,Lung
+GTEX-1AX9J-5007-SM-AN464,Heart - Left Ventricle
+GTEX-1AX9K-0008-SM-EVYB1,Cells - Cultured fibroblasts
+GTEX-1AX9K-0426-SM-73KUG,Heart - Atrial Appendage
+GTEX-1AX9K-0526-SM-73KV1,Heart - Left Ventricle
+GTEX-1AX9K-0826-SM-731F9,Lung
+GTEX-1AX9K-2326-SM-73KWU,Skin - Sun Exposed (Lower leg)
+GTEX-1AX9K-5022-SM-AN45F,Heart - Left Ventricle
+GTEX-1AYCT-0008-SM-EVYAX,Cells - Cultured fibroblasts
+GTEX-1AYCT-0426-SM-73KVZ,Heart - Left Ventricle
+GTEX-1AYCT-0526-SM-7RHHS,Heart - Atrial Appendage
+GTEX-1AYCT-0726-SM-7IGNG,Lung
+GTEX-1AYCT-2426-SM-7IGQ3,Skin - Sun Exposed (Lower leg)
+GTEX-1AYCT-5001-SM-AN45K,Heart - Left Ventricle
+GTEX-1AYCT-5004-SM-AN45J,Lung
+GTEX-1AYD5-0008-SM-EVYAY,Cells - Cultured fibroblasts
+GTEX-1AYD5-1226-SM-7EWEP,Lung
+GTEX-1AYD5-2426-SM-73KXR,Skin - Sun Exposed (Lower leg)
+GTEX-1AYD5-2626-SM-7PBXY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1AYD5-5001-SM-AN45G,Heart - Left Ventricle
+GTEX-1B8KE-0008-SM-EVYB3,Cells - Cultured fibroblasts
+GTEX-1B8KE-0126-SM-793AM,Heart - Left Ventricle
+GTEX-1B8KE-0326-SM-73KTY,Heart - Atrial Appendage
+GTEX-1B8KE-1126-SM-7EPHI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B8KE-2126-SM-73KYX,Skin - Sun Exposed (Lower leg)
+GTEX-1B8KE-5001-SM-AN461,Heart - Left Ventricle
+GTEX-1B8KZ-0008-SM-EXOHR,Cells - Cultured fibroblasts
+GTEX-1B8KZ-0326-SM-73KY4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B8KZ-0526-SM-73KW2,Lung
+GTEX-1B8KZ-2026-SM-7DHMB,Skin - Sun Exposed (Lower leg)
+GTEX-1B8L1-0008-SM-EXOHQ,Cells - Cultured fibroblasts
+GTEX-1B8L1-0426-SM-7SB76,Heart - Atrial Appendage
+GTEX-1B8L1-0526-SM-79ONX,Heart - Left Ventricle
+GTEX-1B8L1-0626-SM-7EPHL,Lung
+GTEX-1B8L1-2226-SM-7P8PT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B8L1-2526-SM-9WYTF,Skin - Sun Exposed (Lower leg)
+GTEX-1B8SF-0008-SM-EXOHU,Cells - Cultured fibroblasts
+GTEX-1B8SF-0126-SM-7DUG3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B8SF-0826-SM-73KW8,Lung
+GTEX-1B8SF-1326-SM-7IGQJ,Heart - Atrial Appendage
+GTEX-1B8SF-1426-SM-7DUGL,Skin - Sun Exposed (Lower leg)
+GTEX-1B8SG-0008-SM-EXOHS,Cells - Cultured fibroblasts
+GTEX-1B8SG-0126-SM-73KZ3,Skin - Sun Exposed (Lower leg)
+GTEX-1B8SG-0726-SM-79ONS,Heart - Atrial Appendage
+GTEX-1B8SG-0826-SM-7EWF7,Heart - Left Ventricle
+GTEX-1B932-0008-SM-EXOHW,Cells - Cultured fibroblasts
+GTEX-1B932-0126-SM-7PC2M,Skin - Sun Exposed (Lower leg)
+GTEX-1B932-0726-SM-731EY,Lung
+GTEX-1B932-1026-SM-793CL,Heart - Left Ventricle
+GTEX-1B932-1326-SM-79OM4,Heart - Atrial Appendage
+GTEX-1B932-2326-SM-79OL5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B932-5007-SM-AN45T,Lung
+GTEX-1B932-5013-SM-AN45S,Heart - Left Ventricle
+GTEX-1B933-0008-SM-EXOHV,Cells - Cultured fibroblasts
+GTEX-1B933-0126-SM-7PC29,Skin - Sun Exposed (Lower leg)
+GTEX-1B933-0826-SM-79OMW,Heart - Atrial Appendage
+GTEX-1B933-0926-SM-9OSVH,Lung
+GTEX-1B933-2426-SM-7DHMD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B97I-0008-SM-EXOHX,Cells - Cultured fibroblasts
+GTEX-1B97I-0226-SM-73KVO,Lung
+GTEX-1B97I-0626-SM-73KUZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B97I-1626-SM-73KYO,Skin - Sun Exposed (Lower leg)
+GTEX-1B97J-0326-SM-7939H,Heart - Atrial Appendage
+GTEX-1B97J-0726-SM-7RHG3,Heart - Left Ventricle
+GTEX-1B98T-0826-SM-7DHME,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B98T-1326-SM-7EPI7,Heart - Atrial Appendage
+GTEX-1B996-0008-SM-EXOHY,Cells - Cultured fibroblasts
+GTEX-1B996-0226-SM-7RHGO,Skin - Sun Exposed (Lower leg)
+GTEX-1B996-0426-SM-7EWF8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1B996-0726-SM-7IGPI,Lung
+GTEX-1B996-1026-SM-793CF,Heart - Atrial Appendage
+GTEX-1B996-1126-SM-73KWN,Heart - Left Ventricle
+GTEX-1BAJH-0008-SM-EXOI3,Cells - Cultured fibroblasts
+GTEX-1BAJH-0526-SM-793CQ,Skin - Sun Exposed (Lower leg)
+GTEX-1BAJH-1026-SM-7EWEG,Heart - Atrial Appendage
+GTEX-1BAJH-1326-SM-7RHFS,Lung
+GTEX-1BAJH-1626-SM-73KUV,Heart - Left Ventricle
+GTEX-1BAJH-2426-SM-7IGP8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C2JI-0008-SM-EXOHZ,Cells - Cultured fibroblasts
+GTEX-1C2JI-0526-SM-7EWEQ,Heart - Left Ventricle
+GTEX-1C2JI-0626-SM-7DHM1,Heart - Atrial Appendage
+GTEX-1C2JI-1026-SM-73KY1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C2JI-1826-SM-73KXC,Skin - Sun Exposed (Lower leg)
+GTEX-1C2JI-5001-SM-AN45Q,Heart - Left Ventricle
+GTEX-1C475-0008-SM-EXOI1,Cells - Cultured fibroblasts
+GTEX-1C475-1326-SM-7SB73,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C475-1826-SM-73KWA,Skin - Sun Exposed (Lower leg)
+GTEX-1C4CL-0008-SM-EXOI2,Cells - Cultured fibroblasts
+GTEX-1C4CL-0526-SM-73KVK,Skin - Sun Exposed (Lower leg)
+GTEX-1C4CL-0826-SM-7EWEZ,Lung
+GTEX-1C64N-0008-SM-EXUR6,Cells - Cultured fibroblasts
+GTEX-1C64N-0126-SM-793D7,Skin - Sun Exposed (Lower leg)
+GTEX-1C64N-0826-SM-7RHGQ,Heart - Atrial Appendage
+GTEX-1C64N-2626-SM-7PC2N,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C64O-0008-SM-EXUR5,Cells - Cultured fibroblasts
+GTEX-1C64O-0126-SM-7SB8P,Skin - Sun Exposed (Lower leg)
+GTEX-1C64O-0826-SM-79OKZ,Heart - Left Ventricle
+GTEX-1C64O-0926-SM-79OLN,Heart - Atrial Appendage
+GTEX-1C64O-1226-SM-79OOC,Lung
+GTEX-1C64O-1326-SM-7MGWR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C64O-5007-SM-AN46B,Heart - Left Ventricle
+GTEX-1C6VQ-0008-SM-EXUR8,Cells - Cultured fibroblasts
+GTEX-1C6VQ-0126-SM-7P8RI,Skin - Sun Exposed (Lower leg)
+GTEX-1C6VQ-0826-SM-7PBZT,Heart - Atrial Appendage
+GTEX-1C6VQ-1126-SM-7EWET,Heart - Left Ventricle
+GTEX-1C6VQ-1226-SM-73KYD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C6VR-0126-SM-7RHGB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1C6VR-0626-SM-79OOY,Lung
+GTEX-1C6VR-2426-SM-79OLD,Skin - Sun Exposed (Lower leg)
+GTEX-1C6VS-0008-SM-EXOI4,Cells - Cultured fibroblasts
+GTEX-1C6VS-0526-SM-7DUEN,Skin - Sun Exposed (Lower leg)
+GTEX-1C6VS-1226-SM-79OO2,Lung
+GTEX-1C6WA-0008-SM-EXUR7,Cells - Cultured fibroblasts
+GTEX-1C6WA-0126-SM-7PC2B,Skin - Sun Exposed (Lower leg)
+GTEX-1C6WA-0726-SM-7IGQ5,Lung
+GTEX-1C6WA-0826-SM-7PBXS,Heart - Atrial Appendage
+GTEX-1C6WA-2626-SM-7MKGM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAMQ-0008-SM-EXOI5,Cells - Cultured fibroblasts
+GTEX-1CAMQ-0226-SM-7IGPK,Skin - Sun Exposed (Lower leg)
+GTEX-1CAMQ-0726-SM-7P8SG,Heart - Atrial Appendage
+GTEX-1CAMQ-1026-SM-7EPIC,Lung
+GTEX-1CAMQ-1326-SM-7P8RV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAMR-0008-SM-EXURA,Cells - Cultured fibroblasts
+GTEX-1CAMR-1326-SM-7PC1F,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAMR-1926-SM-7EPI2,Skin - Sun Exposed (Lower leg)
+GTEX-1CAMS-0008-SM-EXURB,Cells - Cultured fibroblasts
+GTEX-1CAMS-0426-SM-7P8T2,Skin - Sun Exposed (Lower leg)
+GTEX-1CAMS-1126-SM-7MXUQ,Heart - Atrial Appendage
+GTEX-1CAMS-1326-SM-79OJR,Heart - Left Ventricle
+GTEX-1CAMS-2226-SM-7PBXQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAV2-0008-SM-EXURC,Cells - Cultured fibroblasts
+GTEX-1CAV2-0126-SM-7IGN7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAV2-0626-SM-7P8QE,Lung
+GTEX-1CAV2-2226-SM-7P8P2,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4E-0008-SM-EXURD,Cells - Cultured fibroblasts
+GTEX-1CB4E-0526-SM-7MXTK,Heart - Left Ventricle
+GTEX-1CB4E-0626-SM-7DHMW,Heart - Atrial Appendage
+GTEX-1CB4E-0926-SM-7EPHT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CB4E-2226-SM-793DC,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4E-5001-SM-AN468,Heart - Left Ventricle
+GTEX-1CB4F-0008-SM-EXURE,Cells - Cultured fibroblasts
+GTEX-1CB4F-0426-SM-9KNV4,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4F-0926-SM-7DHMJ,Lung
+GTEX-1CB4F-1026-SM-7DUH1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CB4G-0008-SM-EXURF,Cells - Cultured fibroblasts
+GTEX-1CB4G-0226-SM-7PC3O,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4G-0726-SM-79OOJ,Heart - Atrial Appendage
+GTEX-1CB4G-0826-SM-7DUGF,Heart - Left Ventricle
+GTEX-1CB4H-0226-SM-7PBXM,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4H-0626-SM-7IGN3,Heart - Atrial Appendage
+GTEX-1CB4H-1126-SM-7MKGL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CB4I-0008-SM-EXURG,Cells - Cultured fibroblasts
+GTEX-1CB4I-0126-SM-7RHGG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CB4I-0226-SM-79OLH,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4I-1526-SM-7DHMY,Heart - Atrial Appendage
+GTEX-1CB4I-1626-SM-7RHGV,Heart - Left Ventricle
+GTEX-1CB4I-2126-SM-793AG,Lung
+GTEX-1CB4I-5016-SM-AN45Z,Heart - Left Ventricle
+GTEX-1CB4J-0008-SM-EXURH,Cells - Cultured fibroblasts
+GTEX-1CB4J-0226-SM-7P8T4,Heart - Atrial Appendage
+GTEX-1CB4J-0326-SM-7PBZO,Heart - Left Ventricle
+GTEX-1CB4J-0626-SM-7DHMP,Skin - Sun Exposed (Lower leg)
+GTEX-1CB4J-1326-SM-7P8RX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CB4J-1726-SM-79OOL,Lung
+GTEX-1E1VI-0126-SM-7DHMZ,Skin - Sun Exposed (Lower leg)
+GTEX-1E1VI-0326-SM-793D1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1E1VI-0926-SM-7P8T3,Lung
+GTEX-1E1VI-1326-SM-7IGQD,Heart - Left Ventricle
+GTEX-1E1VI-1426-SM-793CY,Heart - Atrial Appendage
+GTEX-1E2YA-0008-SM-EXURI,Cells - Cultured fibroblasts
+GTEX-1E2YA-0126-SM-9KNUC,Skin - Sun Exposed (Lower leg)
+GTEX-1E2YA-0626-SM-7P8P4,Heart - Atrial Appendage
+GTEX-1E2YA-0926-SM-7MXUK,Lung
+GTEX-1E2YA-2126-SM-7MXUO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EH9U-0126-SM-7SB87,Skin - Sun Exposed (Lower leg)
+GTEX-1EH9U-0626-SM-7PC33,Heart - Atrial Appendage
+GTEX-1EH9U-0826-SM-7IGPT,Heart - Left Ventricle
+GTEX-1EH9U-2826-SM-7DUGT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EKGG-0226-SM-9WYTH,Skin - Sun Exposed (Lower leg)
+GTEX-1EKGG-0626-SM-7DUGJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EKGG-1126-SM-7MGXB,Heart - Left Ventricle
+GTEX-1EKGG-1326-SM-7MXUM,Lung
+GTEX-1EMGI-0126-SM-9KNUE,Skin - Sun Exposed (Lower leg)
+GTEX-1EMGI-1126-SM-9KNUF,Heart - Atrial Appendage
+GTEX-1EMGI-1226-SM-793DD,Heart - Left Ventricle
+GTEX-1EMGI-1426-SM-7IGNQ,Lung
+GTEX-1EMGI-2326-SM-7PBYA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EN7A-0126-SM-7SB81,Skin - Sun Exposed (Lower leg)
+GTEX-1EN7A-0726-SM-7PBXT,Heart - Left Ventricle
+GTEX-1EN7A-0826-SM-7MKFV,Lung
+GTEX-1EN7A-2426-SM-793DB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EU9M-0226-SM-7P8SP,Skin - Sun Exposed (Lower leg)
+GTEX-1EU9M-1426-SM-793AI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EU9M-1826-SM-7DUGU,Heart - Left Ventricle
+GTEX-1EU9M-1926-SM-7RHH4,Heart - Atrial Appendage
+GTEX-1EWIQ-0008-SM-EVR3F,Cells - Cultured fibroblasts
+GTEX-1EWIQ-0126-SM-7RHH2,Skin - Sun Exposed (Lower leg)
+GTEX-1EWIQ-0326-SM-7DHMQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EWIQ-0926-SM-7RHG7,Lung
+GTEX-1EWIQ-1126-SM-7EPIK,Heart - Atrial Appendage
+GTEX-1EWIQ-1426-SM-7IGOS,Heart - Left Ventricle
+GTEX-1EX96-0008-SM-EWRMB,Cells - Cultured fibroblasts
+GTEX-1EX96-0226-SM-7RHHR,Lung
+GTEX-1EX96-1026-SM-7MKG2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EX96-1626-SM-7PBXR,Skin - Sun Exposed (Lower leg)
+GTEX-1EX96-2526-SM-7RHGW,Heart - Left Ventricle
+GTEX-1EX96-2626-SM-9MQJV,Heart - Atrial Appendage
+GTEX-1F48J-0008-SM-EWRMD,Cells - Cultured fibroblasts
+GTEX-1F48J-0126-SM-7P8TT,Skin - Sun Exposed (Lower leg)
+GTEX-1F48J-0726-SM-7RHGS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F48J-0826-SM-9WPOD,Lung
+GTEX-1F48J-1026-SM-7P8SO,Heart - Left Ventricle
+GTEX-1F48J-1126-SM-9WYSY,Heart - Atrial Appendage
+GTEX-1F52S-0008-SM-EWRME,Cells - Cultured fibroblasts
+GTEX-1F52S-0126-SM-9MQJU,Skin - Sun Exposed (Lower leg)
+GTEX-1F52S-2926-SM-7MKGA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F5PK-0326-SM-9KNUD,Heart - Left Ventricle
+GTEX-1F5PK-0526-SM-7MXUA,Lung
+GTEX-1F5PK-2226-SM-7SB6N,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F5PK-2426-SM-7RHHY,Skin - Sun Exposed (Lower leg)
+GTEX-1F5PK-5001-SM-AN46O,Heart - Left Ventricle
+GTEX-1F5PL-0008-SM-EWRMC,Cells - Cultured fibroblasts
+GTEX-1F5PL-0326-SM-7P8PQ,Skin - Sun Exposed (Lower leg)
+GTEX-1F5PL-0926-SM-7PC2W,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F6I4-0008-SM-EWRMF,Cells - Cultured fibroblasts
+GTEX-1F6I4-0126-SM-9MQL2,Skin - Sun Exposed (Lower leg)
+GTEX-1F6I4-0726-SM-7PC2P,Heart - Left Ventricle
+GTEX-1F6I4-0826-SM-7RHGK,Heart - Atrial Appendage
+GTEX-1F6I4-1026-SM-7P8PS,Lung
+GTEX-1F6I4-2326-SM-7RHGL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F6IF-0008-SM-EWRMJ,Cells - Cultured fibroblasts
+GTEX-1F6IF-0726-SM-7P8TW,Skin - Sun Exposed (Lower leg)
+GTEX-1F6IF-0926-SM-7SB7M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F6IF-2526-SM-7P8TV,Heart - Left Ventricle
+GTEX-1F6RS-0008-SM-EWRMG,Cells - Cultured fibroblasts
+GTEX-1F6RS-0126-SM-9MQKZ,Skin - Sun Exposed (Lower leg)
+GTEX-1F6RS-0826-SM-7P8T9,Lung
+GTEX-1F6RS-2026-SM-7RHHC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F75A-0008-SM-EAZCQ,Cells - Cultured fibroblasts
+GTEX-1F75A-0126-SM-7RHGM,Skin - Sun Exposed (Lower leg)
+GTEX-1F75A-0726-SM-7RHHD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F75A-1026-SM-7PC3W,Heart - Atrial Appendage
+GTEX-1F75B-0008-SM-EAZCP,Cells - Cultured fibroblasts
+GTEX-1F75B-0126-SM-9KNVL,Skin - Sun Exposed (Lower leg)
+GTEX-1F75B-0726-SM-7PC3R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F75B-1026-SM-9JGFS,Lung
+GTEX-1F75B-1126-SM-7RHGP,Heart - Atrial Appendage
+GTEX-1F75I-0008-SM-EWRMH,Cells - Cultured fibroblasts
+GTEX-1F75I-0326-SM-9YFLU,Skin - Sun Exposed (Lower leg)
+GTEX-1F75I-1126-SM-9WYUO,Heart - Left Ventricle
+GTEX-1F75I-1326-SM-7PBZX,Heart - Atrial Appendage
+GTEX-1F75I-2226-SM-7SB8U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F75I-5013-SM-AN46G,Heart - Left Ventricle
+GTEX-1F75W-0008-SM-EAZCU,Cells - Cultured fibroblasts
+GTEX-1F75W-0126-SM-9KNVT,Skin - Sun Exposed (Lower leg)
+GTEX-1F75W-0626-SM-7PC13,Lung
+GTEX-1F75W-2726-SM-7SB8H,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F7RK-0008-SM-EWRMI,Cells - Cultured fibroblasts
+GTEX-1F7RK-0126-SM-7PC2S,Skin - Sun Exposed (Lower leg)
+GTEX-1F7RK-0826-SM-7SB8V,Lung
+GTEX-1F88E-0008-SM-EAZCR,Cells - Cultured fibroblasts
+GTEX-1F88E-1626-SM-7SB8Z,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F88F-0008-SM-EAZCT,Cells - Cultured fibroblasts
+GTEX-1F88F-0126-SM-9WYSZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1F88F-0326-SM-9KNV3,Heart - Atrial Appendage
+GTEX-1F88F-0926-SM-7RHH8,Lung
+GTEX-1F88F-2726-SM-7PBZZ,Skin - Sun Exposed (Lower leg)
+GTEX-1FIGZ-0008-SM-EAZCS,Cells - Cultured fibroblasts
+GTEX-1FIGZ-0326-SM-7RHGT,Lung
+GTEX-1GF9U-0008-SM-EAZCV,Cells - Cultured fibroblasts
+GTEX-1GF9U-0426-SM-7RHHA,Heart - Left Ventricle
+GTEX-1GF9U-0526-SM-7P8SK,Heart - Atrial Appendage
+GTEX-1GF9U-2026-SM-7SB92,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GF9U-2126-SM-7SB7L,Skin - Sun Exposed (Lower leg)
+GTEX-1GF9U-5001-SM-AN46D,Heart - Left Ventricle
+GTEX-1GF9V-0008-SM-EAZCW,Cells - Cultured fibroblasts
+GTEX-1GF9V-0326-SM-7RHI5,Skin - Sun Exposed (Lower leg)
+GTEX-1GF9V-0826-SM-9KNUV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GF9V-1026-SM-9KNW3,Lung
+GTEX-1GF9V-1626-SM-7PBXL,Heart - Left Ventricle
+GTEX-1GF9V-1726-SM-9KNW4,Heart - Atrial Appendage
+GTEX-1GF9W-0008-SM-EAZCY,Cells - Cultured fibroblasts
+GTEX-1GF9W-0326-SM-9KNUN,Skin - Sun Exposed (Lower leg)
+GTEX-1GF9W-1426-SM-7PBYM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GF9X-0008-SM-EAZCX,Cells - Cultured fibroblasts
+GTEX-1GF9X-0326-SM-7P8R9,Lung
+GTEX-1GF9X-1326-SM-7PC2Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GF9X-2026-SM-7PC3A,Skin - Sun Exposed (Lower leg)
+GTEX-1GL5R-0008-SM-EAZCZ,Cells - Cultured fibroblasts
+GTEX-1GL5R-0326-SM-9WYTJ,Heart - Left Ventricle
+GTEX-1GL5R-0426-SM-9WPOP,Heart - Atrial Appendage
+GTEX-1GL5R-0526-SM-9WPOQ,Lung
+GTEX-1GL5R-1326-SM-7RHHF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GL5R-1826-SM-9KNUY,Skin - Sun Exposed (Lower leg)
+GTEX-1GL5R-5001-SM-AN46E,Heart - Left Ventricle
+GTEX-1GMR2-0008-SM-EAZD1,Cells - Cultured fibroblasts
+GTEX-1GMR2-0126-SM-9JGHC,Lung
+GTEX-1GMR2-0826-SM-7PC3V,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GMR2-1326-SM-9KNUT,Heart - Atrial Appendage
+GTEX-1GMR2-1426-SM-7RHHK,Heart - Left Ventricle
+GTEX-1GMR2-5001-SM-AN476,Lung
+GTEX-1GMR3-0008-SM-EAZD2,Cells - Cultured fibroblasts
+GTEX-1GMR3-0126-SM-A9SLW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GMR3-0226-SM-7RHIB,Lung
+GTEX-1GMR3-0326-SM-7P8QT,Heart - Left Ventricle
+GTEX-1GMR3-0426-SM-7PC17,Heart - Atrial Appendage
+GTEX-1GMR3-1926-SM-9KNUZ,Skin - Sun Exposed (Lower leg)
+GTEX-1GMR3-5001-SM-AN46H,Lung
+GTEX-1GMR8-0008-SM-EAZD3,Cells - Cultured fibroblasts
+GTEX-1GMR8-0126-SM-9WYTM,Skin - Sun Exposed (Lower leg)
+GTEX-1GMR8-0626-SM-7RHI7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GMR8-1026-SM-9MQLA,Heart - Atrial Appendage
+GTEX-1GMR8-1426-SM-7RHHL,Lung
+GTEX-1GMRU-0008-SM-EAZD4,Cells - Cultured fibroblasts
+GTEX-1GMRU-0126-SM-9YFLV,Skin - Sun Exposed (Lower leg)
+GTEX-1GMRU-1326-SM-9WYUI,Heart - Atrial Appendage
+GTEX-1GMRU-1426-SM-9WPPL,Lung
+GTEX-1GMRU-1526-SM-9WYT5,Heart - Left Ventricle
+GTEX-1GMRU-2126-SM-7P8RA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN1U-0008-SM-EZ6MA,Cells - Cultured fibroblasts
+GTEX-1GN1U-0126-SM-7PBZK,Skin - Sun Exposed (Lower leg)
+GTEX-1GN1U-0626-SM-9MQL9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN1U-1026-SM-9WYUP,Lung
+GTEX-1GN1U-1426-SM-7P8TF,Heart - Atrial Appendage
+GTEX-1GN1V-0008-SM-EAZD5,Cells - Cultured fibroblasts
+GTEX-1GN1V-0126-SM-9WPOS,Skin - Sun Exposed (Lower leg)
+GTEX-1GN1V-0826-SM-9KNU6,Heart - Left Ventricle
+GTEX-1GN1V-1026-SM-CNPPS,Heart - Atrial Appendage
+GTEX-1GN1V-2826-SM-9JGIA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN1W-0008-SM-EZ6MB,Cells - Cultured fibroblasts
+GTEX-1GN1W-0226-SM-7P8QY,Heart - Atrial Appendage
+GTEX-1GN1W-0326-SM-9JGHF,Heart - Left Ventricle
+GTEX-1GN1W-0526-SM-9MQJQ,Skin - Sun Exposed (Lower leg)
+GTEX-1GN1W-1026-SM-9OSW2,Lung
+GTEX-1GN1W-2426-SM-9KNUU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN1W-5001-SM-AN46R,Heart - Left Ventricle
+GTEX-1GN2E-0226-SM-9WG6K,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN2E-0426-SM-9MQKX,Skin - Sun Exposed (Lower leg)
+GTEX-1GN2E-1326-SM-9KNVG,Heart - Left Ventricle
+GTEX-1GN2E-1426-SM-7RHHI,Heart - Atrial Appendage
+GTEX-1GN2E-1526-SM-7P8TD,Lung
+GTEX-1GN73-0008-SM-EAZD6,Cells - Cultured fibroblasts
+GTEX-1GN73-0226-SM-9WG67,Skin - Sun Exposed (Lower leg)
+GTEX-1GN73-0726-SM-7P8TJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GN73-1026-SM-9KNV9,Lung
+GTEX-1GN73-2326-SM-9MQKV,Heart - Atrial Appendage
+GTEX-1GN73-2426-SM-7RHFQ,Heart - Left Ventricle
+GTEX-1GPI6-0126-SM-9WG69,Skin - Sun Exposed (Lower leg)
+GTEX-1GPI6-1926-SM-9KNV7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GPI7-0126-SM-9MQL8,Skin - Sun Exposed (Lower leg)
+GTEX-1GPI7-1526-SM-9JGG8,Lung
+GTEX-1GPI7-1826-SM-9KNU1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GTWX-0126-SM-9YFLK,Skin - Sun Exposed (Lower leg)
+GTEX-1GTWX-0626-SM-9WYU1,Lung
+GTEX-1GTWX-0926-SM-9MQKM,Heart - Atrial Appendage
+GTEX-1GTWX-1026-SM-7P8QW,Heart - Left Ventricle
+GTEX-1GTWX-2026-SM-9YFLM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZ2Q-0126-SM-9WG6M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZ2Q-0226-SM-7P8TL,Skin - Sun Exposed (Lower leg)
+GTEX-1GZ2Q-0726-SM-9KNVV,Lung
+GTEX-1GZ2Q-0926-SM-7RHHN,Heart - Atrial Appendage
+GTEX-1GZ4H-0426-SM-7MXV5,Lung
+GTEX-1GZ4H-0526-SM-9KNU9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZ4H-1726-SM-7PBZJ,Skin - Sun Exposed (Lower leg)
+GTEX-1GZ4I-0726-SM-9QEHL,Lung
+GTEX-1GZ4I-0826-SM-9WG6O,Heart - Atrial Appendage
+GTEX-1GZ4I-1026-SM-9KNV5,Heart - Left Ventricle
+GTEX-1GZ4I-2626-SM-9KNU3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZHY-0326-SM-9QEHI,Skin - Sun Exposed (Lower leg)
+GTEX-1GZHY-0626-SM-9KNVC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZHY-0826-SM-9OSXT,Lung
+GTEX-1GZHY-1226-SM-9QEIY,Heart - Atrial Appendage
+GTEX-1H11D-0226-SM-9WG6Z,Skin - Sun Exposed (Lower leg)
+GTEX-1H11D-0726-SM-9OSWA,Lung
+GTEX-1H11D-1026-SM-9QEIU,Heart - Atrial Appendage
+GTEX-1H11D-1226-SM-9WPQ2,Heart - Left Ventricle
+GTEX-1H11D-1826-SM-9QEHM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H11D-5010-SM-AN46Y,Heart - Left Ventricle
+GTEX-1H1CY-0126-SM-9YFLY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1CY-0326-SM-9QEIZ,Heart - Left Ventricle
+GTEX-1H1CY-0426-SM-9KNVD,Heart - Atrial Appendage
+GTEX-1H1CY-0626-SM-9KNVE,Lung
+GTEX-1H1CY-2826-SM-9MQM3,Skin - Sun Exposed (Lower leg)
+GTEX-1H1DE-1326-SM-9KNUG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1DE-2126-SM-9WG6R,Skin - Sun Exposed (Lower leg)
+GTEX-1H1DF-1126-SM-9WG7G,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1DG-0126-SM-9WYU2,Skin - Sun Exposed (Lower leg)
+GTEX-1H1DG-0826-SM-9QEIW,Heart - Atrial Appendage
+GTEX-1H1DG-1026-SM-9MQJS,Lung
+GTEX-1H1DG-2426-SM-9QEHJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1E6-0426-SM-9WYUS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1E6-0726-SM-9WPQ4,Lung
+GTEX-1H1E6-1726-SM-ACKVK,Skin - Sun Exposed (Lower leg)
+GTEX-1H1ZS-0426-SM-9WG6G,Skin - Sun Exposed (Lower leg)
+GTEX-1H1ZS-0826-SM-A9SMD,Lung
+GTEX-1H1ZS-1026-SM-9WG6E,Heart - Atrial Appendage
+GTEX-1H1ZS-1126-SM-9MQLJ,Heart - Left Ventricle
+GTEX-1H1ZS-2726-SM-9WG75,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H23P-0126-SM-ADEJ3,Skin - Sun Exposed (Lower leg)
+GTEX-1H23P-0626-SM-9WG6T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H23P-1026-SM-9QEHQ,Lung
+GTEX-1H23P-1226-SM-9QEJ2,Heart - Left Ventricle
+GTEX-1H2FU-0126-SM-9WYSI,Skin - Sun Exposed (Lower leg)
+GTEX-1H2FU-0826-SM-9WYSU,Heart - Atrial Appendage
+GTEX-1H2FU-0926-SM-9WPPT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H2FU-1226-SM-9KNVY,Lung
+GTEX-1H3NZ-0126-SM-ACKX7,Skin - Sun Exposed (Lower leg)
+GTEX-1H3NZ-1026-SM-A9SM5,Heart - Atrial Appendage
+GTEX-1H3NZ-1126-SM-9WYT9,Heart - Left Ventricle
+GTEX-1H3NZ-2726-SM-9WYTQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H3O1-0226-SM-9WYSW,Heart - Atrial Appendage
+GTEX-1H3O1-0326-SM-9WPO8,Lung
+GTEX-1H3O1-0426-SM-9YFKY,Skin - Sun Exposed (Lower leg)
+GTEX-1H3O1-1326-SM-9MQLD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H3VE-0326-SM-9YFLH,Skin - Sun Exposed (Lower leg)
+GTEX-1H3VE-0726-SM-9YFL5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H3VY-0126-SM-ACKXD,Skin - Sun Exposed (Lower leg)
+GTEX-1H3VY-1126-SM-A96TP,Heart - Atrial Appendage
+GTEX-1H3VY-1426-SM-9WPOB,Lung
+GTEX-1H3VY-5007-SM-AN46L,Heart - Left Ventricle
+GTEX-1H4P4-0726-SM-9YFLR,Skin - Sun Exposed (Lower leg)
+GTEX-1H4P4-2126-SM-9WYSL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HB9E-0126-SM-CM2S5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HB9E-0226-SM-E9U4R,Skin - Sun Exposed (Lower leg)
+GTEX-1HB9E-0726-SM-AHZ4L,Lung
+GTEX-1HBPH-0126-SM-CNNQ7,Heart - Left Ventricle
+GTEX-1HBPH-0226-SM-9WYSM,Heart - Atrial Appendage
+GTEX-1HBPH-0426-SM-B2LW5,Skin - Sun Exposed (Lower leg)
+GTEX-1HBPH-1326-SM-9WYSN,Lung
+GTEX-1HBPH-2026-SM-CMKGL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HBPI-1526-SM-C1YQ1,Skin - Sun Exposed (Lower leg)
+GTEX-1HBPI-2126-SM-ARL9K,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HBPM-0226-SM-ARL9F,Skin - Sun Exposed (Lower leg)
+GTEX-1HBPM-0726-SM-9YFL7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HBPM-0826-SM-9WYSP,Lung
+GTEX-1HBPM-1026-SM-ARL9D,Heart - Atrial Appendage
+GTEX-1HBPM-1226-SM-A9SM8,Heart - Left Ventricle
+GTEX-1HBPN-0126-SM-CGQEF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HBPN-0226-SM-9YFM1,Skin - Sun Exposed (Lower leg)
+GTEX-1HBPN-0926-SM-CGQEG,Heart - Atrial Appendage
+GTEX-1HC8U-0626-SM-B2LWB,Heart - Atrial Appendage
+GTEX-1HC8U-0726-SM-ACKXL,Heart - Left Ventricle
+GTEX-1HC8U-1326-SM-9YFMJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU6-0126-SM-CL54K,Skin - Sun Exposed (Lower leg)
+GTEX-1HCU6-1026-SM-A9G25,Heart - Left Ventricle
+GTEX-1HCU6-2526-SM-ADEHL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU7-0226-SM-CL545,Skin - Sun Exposed (Lower leg)
+GTEX-1HCU7-0726-SM-A9SL1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU7-0926-SM-A96TK,Lung
+GTEX-1HCU7-1226-SM-B2LX8,Heart - Atrial Appendage
+GTEX-1HCU7-1326-SM-CNPPW,Heart - Left Ventricle
+GTEX-1HCU7-5010-SM-AN477,Heart - Left Ventricle
+GTEX-1HCU8-0008-SM-DMZ2E,Cells - Cultured fibroblasts
+GTEX-1HCU8-0626-SM-A9SM9,Skin - Sun Exposed (Lower leg)
+GTEX-1HCU8-2526-SM-CE6RX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU9-0426-SM-9WYSD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU9-1526-SM-A9SL7,Skin - Sun Exposed (Lower leg)
+GTEX-1HCUA-0226-SM-A8N88,Lung
+GTEX-1HCUA-0526-SM-A9SMH,Heart - Left Ventricle
+GTEX-1HCUA-0626-SM-ACKVT,Heart - Atrial Appendage
+GTEX-1HCUA-0826-SM-ADEHM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCUA-2426-SM-ADEIS,Skin - Sun Exposed (Lower leg)
+GTEX-1HCUA-5004-SM-AN471,Heart - Left Ventricle
+GTEX-1HCVE-0126-SM-CGQEU,Skin - Sun Exposed (Lower leg)
+GTEX-1HCVE-0626-SM-A9SL2,Lung
+GTEX-1HCVE-0826-SM-CM2SF,Heart - Atrial Appendage
+GTEX-1HCVE-1126-SM-9WPPG,Heart - Left Ventricle
+GTEX-1HCVE-2726-SM-CL54F,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HFI6-0126-SM-CNPPI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HFI6-0226-SM-ADEHZ,Skin - Sun Exposed (Lower leg)
+GTEX-1HFI6-0826-SM-9YFM2,Heart - Atrial Appendage
+GTEX-1HFI6-0926-SM-9WPPV,Lung
+GTEX-1HFI7-0526-SM-A9SMA,Heart - Atrial Appendage
+GTEX-1HFI7-0826-SM-A9G23,Heart - Left Ventricle
+GTEX-1HFI7-1826-SM-ACKXH,Skin - Sun Exposed (Lower leg)
+GTEX-1HFI7-2326-SM-CGQFS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HFI7-5004-SM-AN46U,Heart - Left Ventricle
+GTEX-1HGF4-0126-SM-CNPPX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HGF4-2426-SM-ACKXM,Skin - Sun Exposed (Lower leg)
+GTEX-1HKZK-0326-SM-9WYUH,Skin - Sun Exposed (Lower leg)
+GTEX-1HKZK-0726-SM-ACKW2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HR98-0126-SM-B2LWI,Skin - Sun Exposed (Lower leg)
+GTEX-1HR98-1026-SM-CKZOM,Heart - Atrial Appendage
+GTEX-1HR98-2226-SM-ADEI2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HR9M-2226-SM-CNPPY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSEH-0008-SM-DMZ2H,Cells - Cultured fibroblasts
+GTEX-1HSEH-0126-SM-ACKXN,Skin - Sun Exposed (Lower leg)
+GTEX-1HSGN-0226-SM-CGQFV,Skin - Sun Exposed (Lower leg)
+GTEX-1HSGN-0826-SM-ACKW3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSGN-0926-SM-CNNQM,Heart - Atrial Appendage
+GTEX-1HSGN-1126-SM-CJI4G,Heart - Left Ventricle
+GTEX-1HSGN-5007-SM-AN47A,Heart - Left Ventricle
+GTEX-1HSKV-0226-SM-A9SKJ,Skin - Sun Exposed (Lower leg)
+GTEX-1HSKV-0726-SM-ACKWE,Heart - Atrial Appendage
+GTEX-1HSKV-1126-SM-ADEIA,Lung
+GTEX-1HSKV-1226-SM-ADEI4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSMO-0126-SM-CL547,Skin - Sun Exposed (Lower leg)
+GTEX-1HSMO-0626-SM-ACKXC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSMO-0926-SM-A96S7,Lung
+GTEX-1HSMO-1126-SM-CGQF2,Heart - Atrial Appendage
+GTEX-1HSMO-1226-SM-CL548,Heart - Left Ventricle
+GTEX-1HSMP-0126-SM-E6CJS,Skin - Sun Exposed (Lower leg)
+GTEX-1HSMP-0926-SM-A9SKX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSMP-1326-SM-A96TR,Lung
+GTEX-1HSMQ-0226-SM-C1YQL,Heart - Left Ventricle
+GTEX-1HSMQ-0426-SM-ADEIM,Heart - Atrial Appendage
+GTEX-1HSMQ-0726-SM-B2LXY,Lung
+GTEX-1HSMQ-1226-SM-CGQFX,Skin - Sun Exposed (Lower leg)
+GTEX-1HSMQ-2626-SM-A9SML,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HSMQ-5001-SM-AN47P,Heart - Left Ventricle
+GTEX-1HT8W-0126-SM-CNPPP,Skin - Sun Exposed (Lower leg)
+GTEX-1HT8W-0626-SM-A9G2H,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HT8W-1326-SM-CGQEN,Heart - Atrial Appendage
+GTEX-1HT8W-1426-SM-CE6S2,Lung
+GTEX-1HT8W-1726-SM-CNNQB,Heart - Left Ventricle
+GTEX-1HUB1-0426-SM-E9U4U,Skin - Sun Exposed (Lower leg)
+GTEX-1HUB1-0726-SM-CGQF4,Heart - Atrial Appendage
+GTEX-1HUB1-1426-SM-CGQF5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I19N-0126-SM-CYPSF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I19N-0326-SM-ACKVX,Skin - Sun Exposed (Lower leg)
+GTEX-1I19N-0526-SM-A9G27,Lung
+GTEX-1I19N-0626-SM-A9SKY,Heart - Atrial Appendage
+GTEX-1I1CD-0126-SM-CM2TK,Skin - Sun Exposed (Lower leg)
+GTEX-1I1CD-0626-SM-CE6SW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1CD-0926-SM-CL55I,Lung
+GTEX-1I1CD-1326-SM-A9SMM,Heart - Atrial Appendage
+GTEX-1I1GP-0008-SM-EXUT6,Cells - Cultured fibroblasts
+GTEX-1I1GP-0526-SM-ARL7G,Lung
+GTEX-1I1GP-0626-SM-ARL7H,Heart - Atrial Appendage
+GTEX-1I1GP-0826-SM-A96SD,Heart - Left Ventricle
+GTEX-1I1GP-1326-SM-A9G28,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1GP-2226-SM-CGQFK,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GQ-0126-SM-COH3H,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GQ-1126-SM-CNNQT,Lung
+GTEX-1I1GQ-1226-SM-CL55J,Heart - Atrial Appendage
+GTEX-1I1GQ-1426-SM-B2LWY,Heart - Left Ventricle
+GTEX-1I1GR-0126-SM-CL55F,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GR-0726-SM-B2LWL,Lung
+GTEX-1I1GR-1026-SM-A9SLC,Heart - Atrial Appendage
+GTEX-1I1GS-0126-SM-B2LVW,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GS-1426-SM-COH3W,Lung
+GTEX-1I1GS-2626-SM-B2LY3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1GT-0008-SM-EZ6XN,Cells - Cultured fibroblasts
+GTEX-1I1GT-0626-SM-CGQER,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GT-1026-SM-ARZLV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1GU-0008-SM-EXUT7,Cells - Cultured fibroblasts
+GTEX-1I1GU-0526-SM-B2LX2,Lung
+GTEX-1I1GU-0926-SM-ACKVS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1GU-2226-SM-CGQFA,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GV-0526-SM-A9G29,Skin - Sun Exposed (Lower leg)
+GTEX-1I1GV-0626-SM-ARL7M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I1GV-0926-SM-B2LXM,Lung
+GTEX-1I1GV-1326-SM-A96SE,Heart - Left Ventricle
+GTEX-1I1GV-1426-SM-B2LXN,Heart - Atrial Appendage
+GTEX-1I1HK-0126-SM-COH49,Skin - Sun Exposed (Lower leg)
+GTEX-1I1HK-0626-SM-CNPQM,Heart - Atrial Appendage
+GTEX-1I1HK-0726-SM-B2LY4,Heart - Left Ventricle
+GTEX-1I1HK-2326-SM-CKZOH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I4MK-0126-SM-CY8G6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I4MK-0326-SM-B2LWP,Lung
+GTEX-1I4MK-2226-SM-ACKWD,Skin - Sun Exposed (Lower leg)
+GTEX-1I6K6-0126-SM-A9SLE,Skin - Sun Exposed (Lower leg)
+GTEX-1I6K6-0926-SM-AHZ2N,Lung
+GTEX-1I6K6-1726-SM-CGQFD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1I6K7-0626-SM-ARL7Q,Heart - Left Ventricle
+GTEX-1I6K7-1226-SM-B2LVS,Lung
+GTEX-1I6K7-1926-SM-B2LXR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1ICG6-0626-SM-ACKWS,Heart - Left Ventricle
+GTEX-1ICG6-0726-SM-B2LY5,Heart - Atrial Appendage
+GTEX-1ICG6-1226-SM-A9SLN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1ICG6-2526-SM-CGQFZ,Skin - Sun Exposed (Lower leg)
+GTEX-1ICG6-5001-SM-AN47I,Heart - Left Ventricle
+GTEX-1ICLY-0126-SM-D4P36,Skin - Sun Exposed (Lower leg)
+GTEX-1ICLY-0826-SM-CMKG1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1ICLY-0926-SM-CM2RJ,Lung
+GTEX-1ICLY-1326-SM-CJI47,Heart - Left Ventricle
+GTEX-1ICLY-5010-SM-AN47V,Heart - Left Ventricle
+GTEX-1ICLZ-0126-SM-CKZPO,Skin - Sun Exposed (Lower leg)
+GTEX-1ICLZ-0326-SM-ARL82,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1ICLZ-0926-SM-CKZPQ,Lung
+GTEX-1ICLZ-1026-SM-A9SLF,Heart - Left Ventricle
+GTEX-1IDFM-0126-SM-COH2V,Skin - Sun Exposed (Lower leg)
+GTEX-1IDFM-0326-SM-ARL7V,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJC-1526-SM-B2LW4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJC-1726-SM-CMKG3,Skin - Sun Exposed (Lower leg)
+GTEX-1IDJD-0226-SM-CKZOA,Heart - Atrial Appendage
+GTEX-1IDJD-0826-SM-A8N9H,Lung
+GTEX-1IDJD-2326-SM-ACKWX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJD-5001-SM-AN47T,Heart - Left Ventricle
+GTEX-1IDJE-0326-SM-CM2TD,Heart - Left Ventricle
+GTEX-1IDJE-1426-SM-ADEIW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJE-5001-SM-AN47L,Heart - Left Ventricle
+GTEX-1IDJF-0126-SM-CM2RS,Skin - Sun Exposed (Lower leg)
+GTEX-1IDJF-0726-SM-CJI1U,Heart - Left Ventricle
+GTEX-1IDJF-0826-SM-ARU7N,Heart - Atrial Appendage
+GTEX-1IDJF-2026-SM-CL53V,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJF-5007-SM-AN47X,Heart - Left Ventricle
+GTEX-1IDJH-0126-SM-D3L92,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJH-0326-SM-A9SLQ,Skin - Sun Exposed (Lower leg)
+GTEX-1IDJH-0726-SM-ARU7U,Lung
+GTEX-1IDJH-1026-SM-E9TKH,Heart - Left Ventricle
+GTEX-1IDJH-1126-SM-COH3R,Heart - Atrial Appendage
+GTEX-1IDJI-0126-SM-CMKHS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJI-0626-SM-C1YQD,Lung
+GTEX-1IDJI-1026-SM-A96TE,Heart - Left Ventricle
+GTEX-1IDJI-5013-SM-AN47F,Heart - Left Ventricle
+GTEX-1IDJU-0226-SM-CKZOF,Lung
+GTEX-1IDJU-0626-SM-CKZOG,Heart - Atrial Appendage
+GTEX-1IDJU-0726-SM-CNPQ9,Heart - Left Ventricle
+GTEX-1IDJU-1726-SM-CMKHU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJU-2626-SM-CM2RT,Skin - Sun Exposed (Lower leg)
+GTEX-1IDJU-5004-SM-AN481,Heart - Left Ventricle
+GTEX-1IDJV-0126-SM-COH3Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IE54-0126-SM-CMKHW,Skin - Sun Exposed (Lower leg)
+GTEX-1IE54-1126-SM-A9G2Z,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IGQW-0126-SM-COH42,Skin - Sun Exposed (Lower leg)
+GTEX-1IKJJ-0126-SM-CNPQB,Skin - Sun Exposed (Lower leg)
+GTEX-1IKJJ-0626-SM-CY8GF,Heart - Atrial Appendage
+GTEX-1IKJJ-0826-SM-A96SP,Heart - Left Ventricle
+GTEX-1IKJJ-0926-SM-A9G2L,Lung
+GTEX-1IKJJ-2226-SM-CJI4C,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IKK5-0626-SM-ARL8A,Skin - Sun Exposed (Lower leg)
+GTEX-1IKK5-1526-SM-CKZPW,Heart - Left Ventricle
+GTEX-1IKK5-1726-SM-CM2RU,Heart - Atrial Appendage
+GTEX-1IKK5-1926-SM-A9G2V,Lung
+GTEX-1IKOE-0626-SM-A9G31,Heart - Atrial Appendage
+GTEX-1IKOE-1026-SM-ARZMF,Heart - Left Ventricle
+GTEX-1IKOE-1226-SM-A8N98,Lung
+GTEX-1IKOE-1426-SM-CE6T7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IKOE-5007-SM-AN48A,Heart - Left Ventricle
+GTEX-1IKOE-5010-SM-AN489,Lung
+GTEX-1IKOH-0226-SM-COH4E,Skin - Sun Exposed (Lower leg)
+GTEX-1IKOH-0926-SM-A9SLU,Heart - Atrial Appendage
+GTEX-1IL2U-0226-SM-CE6T8,Skin - Sun Exposed (Lower leg)
+GTEX-1IL2U-0926-SM-CKZOB,Lung
+GTEX-1IL2U-1226-SM-CL53P,Heart - Atrial Appendage
+GTEX-1IL2U-1326-SM-A9G2O,Heart - Left Ventricle
+GTEX-1IL2V-0126-SM-CM2TX,Skin - Sun Exposed (Lower leg)
+GTEX-1IL2V-0726-SM-ARZMB,Lung
+GTEX-1IL2V-1126-SM-CMKGH,Heart - Atrial Appendage
+GTEX-1IL2V-1926-SM-B2LW8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IOXB-0126-SM-ARL8G,Skin - Sun Exposed (Lower leg)
+GTEX-1IOXB-0726-SM-A9G32,Heart - Atrial Appendage
+GTEX-1IOXB-1126-SM-CNNQ5,Lung
+GTEX-1IOXB-2726-SM-CM2RI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IY9M-0126-SM-D3L8S,Skin - Sun Exposed (Lower leg)
+GTEX-1IY9M-0626-SM-D4P2L,Heart - Atrial Appendage
+GTEX-1IY9M-1126-SM-A9SLV,Lung
+GTEX-1IY9M-2826-SM-ARU8H,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J1OQ-0126-SM-D4P2N,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J1OQ-0226-SM-CYPSH,Skin - Sun Exposed (Lower leg)
+GTEX-1J1OQ-0926-SM-CJI34,Lung
+GTEX-1J1OQ-2226-SM-A96SS,Heart - Atrial Appendage
+GTEX-1J1R8-0226-SM-AHZ3C,Lung
+GTEX-1J1R8-1726-SM-ARL8M,Skin - Sun Exposed (Lower leg)
+GTEX-1J1R8-2026-SM-CL53Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8EW-0126-SM-CJI4F,Skin - Sun Exposed (Lower leg)
+GTEX-1J8EW-0626-SM-CM2TY,Heart - Atrial Appendage
+GTEX-1J8EW-0926-SM-A9G33,Heart - Left Ventricle
+GTEX-1J8EW-1026-SM-A96T7,Lung
+GTEX-1J8EW-2726-SM-CY8HR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8JJ-0226-SM-CL53I,Skin - Sun Exposed (Lower leg)
+GTEX-1J8JJ-0626-SM-ARZMQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8JJ-1126-SM-CL55P,Lung
+GTEX-1J8Q2-0526-SM-CM2RW,Skin - Sun Exposed (Lower leg)
+GTEX-1J8Q2-1026-SM-ARU8I,Heart - Atrial Appendage
+GTEX-1J8Q2-1226-SM-A9G2W,Heart - Left Ventricle
+GTEX-1J8Q2-2626-SM-ACKWQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8Q3-0526-SM-ARL8U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8Q3-0826-SM-A8N8W,Lung
+GTEX-1J8Q3-1126-SM-ARU8N,Heart - Atrial Appendage
+GTEX-1J8Q3-1226-SM-CKZPT,Heart - Left Ventricle
+GTEX-1J8Q3-1626-SM-CMKGC,Skin - Sun Exposed (Lower leg)
+GTEX-1J8Q3-5007-SM-AN484,Heart - Left Ventricle
+GTEX-1J8QM-0326-SM-CL53D,Heart - Atrial Appendage
+GTEX-1J8QM-0426-SM-AHZ3X,Heart - Left Ventricle
+GTEX-1J8QM-0526-SM-AHZ3Y,Lung
+GTEX-1J8QM-2126-SM-CYPSJ,Skin - Sun Exposed (Lower leg)
+GTEX-1J8QM-2426-SM-A9SLS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8QM-5004-SM-AN49A,Heart - Left Ventricle
+GTEX-1JJ6O-0126-SM-E6CI8,Skin - Sun Exposed (Lower leg)
+GTEX-1JJ6O-2126-SM-CNNP6,Heart - Left Ventricle
+GTEX-1JJ6O-2226-SM-AHZ3I,Heart - Atrial Appendage
+GTEX-1JJ6O-2726-SM-CNPOG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JJE9-0326-SM-CL53Z,Skin - Sun Exposed (Lower leg)
+GTEX-1JJE9-0926-SM-CNNP9,Lung
+GTEX-1JJE9-1426-SM-ARL8P,Heart - Left Ventricle
+GTEX-1JJE9-2626-SM-ARZMT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JJEA-0326-SM-CNPOT,Skin - Sun Exposed (Lower leg)
+GTEX-1JJEA-0826-SM-CL53T,Heart - Left Ventricle
+GTEX-1JJEA-0926-SM-CYPSO,Heart - Atrial Appendage
+GTEX-1JJEA-1126-SM-CKZOC,Lung
+GTEX-1JJEA-1826-SM-ARU8P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JK1U-0226-SM-ARZMX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JK1U-0526-SM-CYPSQ,Heart - Left Ventricle
+GTEX-1JK1U-0626-SM-CKZOJ,Heart - Atrial Appendage
+GTEX-1JK1U-1126-SM-CY8HK,Lung
+GTEX-1JK1U-2026-SM-CM2RZ,Skin - Sun Exposed (Lower leg)
+GTEX-1JK1U-5007-SM-AN487,Lung
+GTEX-1JKYN-0826-SM-ARU8S,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JKYN-1326-SM-CGQG9,Skin - Sun Exposed (Lower leg)
+GTEX-1JKYN-2126-SM-ARU8W,Lung
+GTEX-1JKYR-0126-SM-CNPOJ,Skin - Sun Exposed (Lower leg)
+GTEX-1JKYR-0626-SM-ARL8R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMLX-0226-SM-CM2RO,Skin - Sun Exposed (Lower leg)
+GTEX-1JMLX-0626-SM-ARL8T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMLX-0926-SM-CNNPQ,Lung
+GTEX-1JMLX-1626-SM-ARZMV,Heart - Left Ventricle
+GTEX-1JMLX-1826-SM-CNPOX,Heart - Atrial Appendage
+GTEX-1JMOU-0226-SM-CNNPD,Heart - Left Ventricle
+GTEX-1JMOU-0326-SM-ARL8X,Heart - Atrial Appendage
+GTEX-1JMOU-0526-SM-CNNPE,Lung
+GTEX-1JMOU-1026-SM-CYPSS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMOU-1526-SM-CL54I,Skin - Sun Exposed (Lower leg)
+GTEX-1JMPY-0226-SM-CKZOK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMPY-1326-SM-ARL8Y,Skin - Sun Exposed (Lower leg)
+GTEX-1JMPZ-0226-SM-CNPP1,Skin - Sun Exposed (Lower leg)
+GTEX-1JMPZ-0726-SM-CY8HZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMPZ-1126-SM-ARU8X,Lung
+GTEX-1JMPZ-1426-SM-CJI3C,Heart - Left Ventricle
+GTEX-1JMQI-1126-SM-ARZN2,Lung
+GTEX-1JMQI-1726-SM-ARL93,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMQI-2226-SM-CM2SD,Skin - Sun Exposed (Lower leg)
+GTEX-1JMQJ-0526-SM-CYPSU,Skin - Sun Exposed (Lower leg)
+GTEX-1JMQJ-0826-SM-CNPP7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMQJ-2126-SM-CNPPA,Lung
+GTEX-1JMQK-0226-SM-CL543,Skin - Sun Exposed (Lower leg)
+GTEX-1JMQK-0626-SM-D4P2R,Heart - Left Ventricle
+GTEX-1JMQK-0926-SM-ARL96,Heart - Atrial Appendage
+GTEX-1JMQK-1226-SM-D4P2S,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JMQL-0226-SM-CNPP5,Skin - Sun Exposed (Lower leg)
+GTEX-1JMQL-1026-SM-CMKGV,Heart - Atrial Appendage
+GTEX-1JMQL-1126-SM-CKZOP,Lung
+GTEX-1JMQL-2226-SM-CNPP4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JN1M-0326-SM-CYPT3,Skin - Sun Exposed (Lower leg)
+GTEX-1JN1M-1026-SM-CNPOS,Heart - Left Ventricle
+GTEX-1JN1M-2726-SM-CY8I4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JN6P-0126-SM-D3L98,Skin - Sun Exposed (Lower leg)
+GTEX-1JN6P-0726-SM-ARZN7,Lung
+GTEX-1JN6P-0826-SM-ARL97,Heart - Atrial Appendage
+GTEX-1JN6P-1126-SM-CKZON,Heart - Left Ventricle
+GTEX-1JN6P-2926-SM-CL54D,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JN76-0126-SM-CNPPE,Skin - Sun Exposed (Lower leg)
+GTEX-1JN76-0626-SM-CKZOQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1JN76-0826-SM-C1YRK,Lung
+GTEX-1K2DA-1026-SM-CGQGF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1K2DA-1826-SM-CGQGT,Skin - Sun Exposed (Lower leg)
+GTEX-1K2DU-0226-SM-DIPF6,Heart - Atrial Appendage
+GTEX-1K2DU-0526-SM-D4P2Y,Lung
+GTEX-1K2DU-1226-SM-CYPT4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1K2DU-2326-SM-E9TIV,Skin - Sun Exposed (Lower leg)
+GTEX-1K2DU-5001-SM-AN48D,Heart - Left Ventricle
+GTEX-1K9T9-0126-SM-EVYCF,Skin - Sun Exposed (Lower leg)
+GTEX-1K9T9-0926-SM-D3L9C,Lung
+GTEX-1K9T9-1126-SM-D3L9E,Heart - Left Ventricle
+GTEX-1K9T9-1226-SM-EVR4R,Heart - Atrial Appendage
+GTEX-1K9T9-1526-SM-DIPFR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1K9T9-5010-SM-AN48G,Heart - Left Ventricle
+GTEX-1KAFJ-0126-SM-DIPEK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KAFJ-0326-SM-DHXJG,Lung
+GTEX-1KAFJ-2026-SM-CY8ID,Skin - Sun Exposed (Lower leg)
+GTEX-1KANA-0726-SM-D3L9I,Skin - Sun Exposed (Lower leg)
+GTEX-1KANA-1326-SM-DIPFA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KANB-0526-SM-E6CJH,Skin - Sun Exposed (Lower leg)
+GTEX-1KANB-1026-SM-D3L9F,Lung
+GTEX-1KANB-1126-SM-DHXJT,Heart - Atrial Appendage
+GTEX-1KANB-2826-SM-CY8I6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KANC-0226-SM-E9TIW,Heart - Atrial Appendage
+GTEX-1KANC-0426-SM-CXZK5,Heart - Left Ventricle
+GTEX-1KANC-1226-SM-CYPT7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KANC-1526-SM-D3LAB,Skin - Sun Exposed (Lower leg)
+GTEX-1KD4Q-0226-SM-E9TJ9,Skin - Sun Exposed (Lower leg)
+GTEX-1KD4Q-0726-SM-DIPGE,Heart - Left Ventricle
+GTEX-1KD4Q-0926-SM-CXZKI,Lung
+GTEX-1KD5A-0126-SM-E9U54,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KD5A-0226-SM-D5OV3,Skin - Sun Exposed (Lower leg)
+GTEX-1KD5A-0926-SM-D4P3U,Heart - Atrial Appendage
+GTEX-1KD5A-1026-SM-CY8I8,Heart - Left Ventricle
+GTEX-1KD5A-1126-SM-CXZK6,Lung
+GTEX-1KWVE-0426-SM-DHXJX,Lung
+GTEX-1KWVE-1026-SM-D3L9O,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KWVE-1426-SM-E9TJO,Skin - Sun Exposed (Lower leg)
+GTEX-1KXAM-0426-SM-DHXKG,Lung
+GTEX-1KXAM-1326-SM-E9TJW,Heart - Left Ventricle
+GTEX-1KXAM-1426-SM-D3LAC,Heart - Atrial Appendage
+GTEX-1KXAM-1626-SM-D3LAD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1KXAM-2226-SM-CYPTC,Skin - Sun Exposed (Lower leg)
+GTEX-1KXAM-5013-SM-AN492,Heart - Left Ventricle
+GTEX-1L5NE-0426-SM-E9TIX,Heart - Left Ventricle
+GTEX-1L5NE-0526-SM-DIPG5,Heart - Atrial Appendage
+GTEX-1L5NE-0726-SM-CXZKQ,Lung
+GTEX-1L5NE-1126-SM-D3L9P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1L5NE-2526-SM-E6CIE,Skin - Sun Exposed (Lower leg)
+GTEX-1L5NE-5001-SM-AN48J,Heart - Left Ventricle
+GTEX-1LB8K-0226-SM-EWRNW,Skin - Sun Exposed (Lower leg)
+GTEX-1LB8K-0726-SM-D5OV2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LB8K-0826-SM-D4P41,Lung
+GTEX-1LB8K-0926-SM-D4P42,Heart - Atrial Appendage
+GTEX-1LB8K-1026-SM-DHXJJ,Heart - Left Ventricle
+GTEX-1LBAC-0126-SM-DIPEZ,Skin - Sun Exposed (Lower leg)
+GTEX-1LBAC-0826-SM-CY8IJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LC46-5001-SM-AN495,Heart - Left Ventricle
+GTEX-1LC46-5004-SM-AN494,Lung
+GTEX-1LC47-0326-SM-E9TJP,Skin - Sun Exposed (Lower leg)
+GTEX-1LC47-1026-SM-D3LAH,Heart - Left Ventricle
+GTEX-1LC47-1126-SM-D4P43,Lung
+GTEX-1LG7Y-0526-SM-DKPQC,Skin - Sun Exposed (Lower leg)
+GTEX-1LG7Y-0826-SM-E9TJX,Lung
+GTEX-1LG7Y-1226-SM-CXZKD,Heart - Left Ventricle
+GTEX-1LG7Y-1426-SM-D4P31,Heart - Atrial Appendage
+GTEX-1LG7Y-2526-SM-EWRO7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LG7Z-1626-SM-CXKYR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LG7Z-1726-SM-D3LA4,Skin - Sun Exposed (Lower leg)
+GTEX-1LGOU-0326-SM-D3LAM,Heart - Atrial Appendage
+GTEX-1LGOU-0726-SM-E9TIY,Heart - Left Ventricle
+GTEX-1LGOU-1326-SM-D3L8M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LGOU-2026-SM-DIPFF,Skin - Sun Exposed (Lower leg)
+GTEX-1LGOU-5007-SM-AN49H,Heart - Left Ventricle
+GTEX-1LGRB-0226-SM-CNPQK,Lung
+GTEX-1LGRB-0926-SM-COH3K,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LGRB-1026-SM-CNPQD,Heart - Atrial Appendage
+GTEX-1LGRB-1126-SM-CNPP2,Heart - Left Ventricle
+GTEX-1LGRB-2526-SM-CNPPQ,Skin - Sun Exposed (Lower leg)
+GTEX-1LH75-0426-SM-E9TJF,Heart - Left Ventricle
+GTEX-1LH75-0526-SM-DIPG2,Heart - Atrial Appendage
+GTEX-1LH75-2426-SM-E9TJE,Skin - Sun Exposed (Lower leg)
+GTEX-1LKK1-0626-SM-DKTRX,Heart - Atrial Appendage
+GTEX-1LKK1-0626-SM-DLT2M,Heart - Atrial Appendage
+GTEX-1LKK1-2626-SM-DKPQE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LNCM-1126-SM-E9U5E,Skin - Sun Exposed (Lower leg)
+GTEX-1LSNL-0226-SM-EVYCG,Skin - Sun Exposed (Lower leg)
+GTEX-1LSNL-0626-SM-DIPFJ,Heart - Atrial Appendage
+GTEX-1LSNL-2726-SM-E9TKJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LSNM-0426-SM-E9TIZ,Heart - Atrial Appendage
+GTEX-1LSNM-0526-SM-DIPG6,Heart - Left Ventricle
+GTEX-1LSNM-0826-SM-DIPG8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LSNM-1926-SM-E6CII,Skin - Sun Exposed (Lower leg)
+GTEX-1LSVX-0626-SM-E9U59,Lung
+GTEX-1LSVX-2526-SM-DIPEU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LVA9-0926-SM-EVR5G,Heart - Left Ventricle
+GTEX-1LVA9-2626-SM-EVYD4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LVAM-0726-SM-E6CIL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LVAN-0226-SM-COH3S,Skin - Sun Exposed (Lower leg)
+GTEX-1LVAN-0626-SM-CNPOQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1LVAN-1126-SM-CNNRE,Lung
+GTEX-1LVAN-1526-SM-CNPQN,Heart - Atrial Appendage
+GTEX-1LVAN-1726-SM-CNNR1,Heart - Left Ventricle
+GTEX-1LVAO-0626-SM-EWRNT,Heart - Atrial Appendage
+GTEX-1LVAO-1226-SM-DIPGB,Lung
+GTEX-1LVAO-2726-SM-E9TJ8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1M4P7-0226-SM-DIPEV,Skin - Sun Exposed (Lower leg)
+GTEX-1M4P7-0726-SM-E6CJ3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1M4P7-0826-SM-E9TJR,Lung
+GTEX-1M5QR-1026-SM-DHXK9,Heart - Left Ventricle
+GTEX-1M5QR-1226-SM-EWROB,Skin - Sun Exposed (Lower leg)
+GTEX-1M5QR-1626-SM-E9U5O,Heart - Atrial Appendage
+GTEX-1M5QR-5007-SM-AN49D,Heart - Left Ventricle
+GTEX-1MA7W-2026-SM-E9TJ6,Skin - Sun Exposed (Lower leg)
+GTEX-1MA7X-0626-SM-E9TJI,Lung
+GTEX-1MA7X-2226-SM-E6CIY,Skin - Sun Exposed (Lower leg)
+GTEX-1MCC2-0226-SM-EVYD5,Heart - Atrial Appendage
+GTEX-1MCC2-0326-SM-EV7AK,Heart - Left Ventricle
+GTEX-1MCC2-0726-SM-EV7AL,Lung
+GTEX-1MCC2-1826-SM-DIPEX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1MCQQ-0826-SM-DLHC2,Skin - Sun Exposed (Lower leg)
+GTEX-1MCYP-0526-SM-E9U6Q,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1MCYP-1926-SM-E9J2R,Skin - Sun Exposed (Lower leg)
+GTEX-1MGNQ-0126-SM-EVYCJ,Skin - Sun Exposed (Lower leg)
+GTEX-1MGNQ-0826-SM-EVR41,Lung
+GTEX-1MJIX-0326-SM-EVR42,Heart - Left Ventricle
+GTEX-1MJIX-0426-SM-DTXEN,Heart - Atrial Appendage
+GTEX-1MJIX-0626-SM-DTX8V,Lung
+GTEX-1MJK2-0426-SM-DTXE5,Skin - Sun Exposed (Lower leg)
+GTEX-1MJK2-1126-SM-E9TJ7,Lung
+GTEX-1MJK2-1626-SM-EVYCQ,Heart - Atrial Appendage
+GTEX-1MJK3-0726-SM-E6CJC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1MUQO-0126-SM-EAZ58,Skin - Sun Exposed (Lower leg)
+GTEX-1MUQO-1226-SM-E9TJK,Heart - Left Ventricle
+GTEX-1N2DV-0226-SM-E6CJ6,Skin - Sun Exposed (Lower leg)
+GTEX-1N2DV-1526-SM-DTXEP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1N2DW-0226-SM-E9TK2,Skin - Sun Exposed (Lower leg)
+GTEX-1N2DW-1126-SM-EVR59,Lung
+GTEX-1N2EE-0626-SM-E76PW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1N2EF-0226-SM-EYYXB,Skin - Sun Exposed (Lower leg)
+GTEX-1N2EF-2826-SM-E6CQF,Heart - Left Ventricle
+GTEX-1N5O9-0926-SM-E9J3C,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1NHNU-0626-SM-E6CP1,Heart - Atrial Appendage
+GTEX-1NHNU-1026-SM-E9J2A,Skin - Sun Exposed (Lower leg)
+GTEX-1NSGN-0726-SM-DTXEF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1NSGN-1226-SM-E76OL,Heart - Atrial Appendage
+GTEX-1NSGN-1626-SM-EXOJF,Lung
+GTEX-1NV5F-0226-SM-E8VNY,Skin - Sun Exposed (Lower leg)
+GTEX-1NV5F-0626-SM-DTXEG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1NV5F-0926-SM-DTX8N,Lung
+GTEX-1NV8Z-1526-SM-DTX8X,Heart - Left Ventricle
+GTEX-1O97I-0326-SM-EYYX7,Skin - Sun Exposed (Lower leg)
+GTEX-1O97I-0826-SM-E8VNE,Heart - Left Ventricle
+GTEX-1O9I2-0226-SM-EYYXD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1O9I2-1126-SM-DTXEA,Heart - Left Ventricle
+GTEX-1OFPY-0926-SM-DTX8Q,Heart - Atrial Appendage
+GTEX-1OFPY-1026-SM-EXUSO,Heart - Left Ventricle
+GTEX-1OFPY-2426-SM-DTXEJ,Skin - Sun Exposed (Lower leg)
+GTEX-1OJC3-0126-SM-E76QX,Skin - Sun Exposed (Lower leg)
+GTEX-1OJC3-0726-SM-DTX92,Lung
+GTEX-1OJC3-1226-SM-DTXER,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1OJC4-0126-SM-E9J2E,Skin - Sun Exposed (Lower leg)
+GTEX-1OJC4-0626-SM-DTXEY,Lung
+GTEX-1OJC4-2726-SM-E76PJ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1OKEX-0726-SM-DPRYE,Heart - Left Ventricle
+GTEX-1OKEX-2026-SM-E8VNL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1P4AB-0926-SM-E76PV,Heart - Atrial Appendage
+GTEX-1P4AB-1026-SM-DTXES,Lung
+GTEX-1PAR6-0008-SM-DMZ2D,Cells - Cultured fibroblasts
+GTEX-1PBJI-0526-SM-E8VNK,Skin - Sun Exposed (Lower leg)
+GTEX-1PBJI-1426-SM-EYYXG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PBJJ-1026-SM-E76OS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PDJ9-0326-SM-DTX95,Skin - Sun Exposed (Lower leg)
+GTEX-1PDJ9-1226-SM-EXUSX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PFEY-1526-SM-E76PP,Skin - Sun Exposed (Lower leg)
+GTEX-1PIGE-0126-SM-EVYBJ,Skin - Sun Exposed (Lower leg)
+GTEX-1PIGE-1826-SM-E8VOU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PIIG-0226-SM-EWRN6,Skin - Sun Exposed (Lower leg)
+GTEX-1PIIG-1826-SM-DTX7N,Lung
+GTEX-1PIIG-2326-SM-DTXFR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1POEN-0126-SM-EYYXJ,Skin - Sun Exposed (Lower leg)
+GTEX-1POEN-0626-SM-EVR4B,Heart - Left Ventricle
+GTEX-1POEN-0726-SM-DTXDU,Heart - Atrial Appendage
+GTEX-1POEN-2326-SM-E9J2L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PPGY-0926-SM-DTXFF,Heart - Atrial Appendage
+GTEX-1PPGY-1126-SM-E76OU,Heart - Left Ventricle
+GTEX-1PPGY-1626-SM-EVYBL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PPGY-1826-SM-EXOJ8,Lung
+GTEX-1PPH7-0226-SM-E76Q1,Lung
+GTEX-1PPH7-1126-SM-DTX9A,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PPH7-2026-SM-E9J3N,Heart - Left Ventricle
+GTEX-1PPH7-2326-SM-EVYB8,Skin - Sun Exposed (Lower leg)
+GTEX-1PPH8-0126-SM-EWRN8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1PPH8-0226-SM-E8VND,Skin - Sun Exposed (Lower leg)
+GTEX-1PWST-0226-SM-E76QJ,Skin - Sun Exposed (Lower leg)
+GTEX-1PWST-0826-SM-DTXF1,Lung
+GTEX-1PWST-1026-SM-DTXF2,Heart - Left Ventricle
+GTEX-1QAET-0326-SM-EVR3U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QAET-0426-SM-EXUSM,Lung
+GTEX-1QAET-0926-SM-E76QM,Skin - Sun Exposed (Lower leg)
+GTEX-1QCLY-0226-SM-EWRNH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QCLY-0326-SM-E8VOG,Skin - Sun Exposed (Lower leg)
+GTEX-1QCLY-1026-SM-EWRNI,Lung
+GTEX-1QCLZ-0926-SM-E6CQZ,Heart - Left Ventricle
+GTEX-1QCLZ-1126-SM-EWRNB,Heart - Atrial Appendage
+GTEX-1QCLZ-2426-SM-EVYBW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QEPI-0126-SM-EWRMQ,Skin - Sun Exposed (Lower leg)
+GTEX-1QEPI-0826-SM-DTX9B,Lung
+GTEX-1QEPI-1126-SM-E8VN7,Heart - Atrial Appendage
+GTEX-1QEPI-2626-SM-DTXF4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QMI2-0226-SM-EVYBX,Skin - Sun Exposed (Lower leg)
+GTEX-1QMI2-0926-SM-DTX7S,Lung
+GTEX-1QMI2-1026-SM-DTX7T,Heart - Atrial Appendage
+GTEX-1QMI2-2526-SM-E8VNZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP28-1126-SM-EVYC4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP29-0626-SM-EWRMX,Skin - Sun Exposed (Lower leg)
+GTEX-1QP29-1226-SM-E6CQ1,Lung
+GTEX-1QP29-1426-SM-DTX9Q,Heart - Atrial Appendage
+GTEX-1QP29-1526-SM-EXUSY,Heart - Left Ventricle
+GTEX-1QP29-1826-SM-DTX9S,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP2A-0126-SM-E9J43,Skin - Sun Exposed (Lower leg)
+GTEX-1QP2A-1126-SM-EVR3H,Heart - Left Ventricle
+GTEX-1QP2A-1226-SM-EVR3I,Lung
+GTEX-1QP2A-1726-SM-E76QC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP66-1226-SM-DTX7U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP66-1726-SM-E8VO1,Skin - Sun Exposed (Lower leg)
+GTEX-1QP67-1626-SM-EAZ3X,Skin - Sun Exposed (Lower leg)
+GTEX-1QP6S-0326-SM-DTXF7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP6S-1026-SM-DTXFW,Heart - Atrial Appendage
+GTEX-1QP9N-1226-SM-E76QN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QP9N-1426-SM-DTXFL,Skin - Sun Exposed (Lower leg)
+GTEX-1QPFJ-0226-SM-E76PB,Skin - Sun Exposed (Lower leg)
+GTEX-1QPFJ-0926-SM-EVR3K,Heart - Atrial Appendage
+GTEX-1QPFJ-1026-SM-E6CR6,Heart - Left Ventricle
+GTEX-1QPFJ-1926-SM-EVYBD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QW4Y-1126-SM-DTXE3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1QW4Y-1526-SM-EAZ3Z,Skin - Sun Exposed (Lower leg)
+GTEX-1R46S-0626-SM-E9J41,Skin - Sun Exposed (Lower leg)
+GTEX-1R46S-2426-SM-E76QA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R7EU-0226-SM-EVR4G,Skin - Sun Exposed (Lower leg)
+GTEX-1R7EU-1626-SM-DTXG3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R7EV-0326-SM-E76PA,Heart - Left Ventricle
+GTEX-1R7EV-0426-SM-DTX7Z,Heart - Atrial Appendage
+GTEX-1R7EV-2426-SM-EVYBG,Skin - Sun Exposed (Lower leg)
+GTEX-1R9JW-0426-SM-E76QL,Heart - Atrial Appendage
+GTEX-1R9JW-0526-SM-EWRNK,Heart - Left Ventricle
+GTEX-1R9K4-0126-SM-DTX9X,Skin - Sun Exposed (Lower leg)
+GTEX-1R9K4-1026-SM-EXUT1,Heart - Atrial Appendage
+GTEX-1R9K4-1326-SM-DTX8G,Heart - Left Ventricle
+GTEX-1R9K4-2826-SM-DTX8F,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R9K5-1326-SM-E6CPR,Heart - Left Ventricle
+GTEX-1R9PM-0426-SM-EVR3P,Lung
+GTEX-1R9PM-1926-SM-EVR3O,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R9PM-2026-SM-E76OY,Skin - Sun Exposed (Lower leg)
+GTEX-1R9PN-0426-SM-DTXDT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R9PO-0326-SM-DTXA1,Heart - Left Ventricle
+GTEX-1R9PO-2126-SM-E9J4O,Skin - Sun Exposed (Lower leg)
+GTEX-1RAZA-0126-SM-E6CI3,Skin - Sun Exposed (Lower leg)
+GTEX-1RAZA-2226-SM-E9U4X,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RAZQ-0726-SM-EAZ43,Skin - Sun Exposed (Lower leg)
+GTEX-1RAZQ-1026-SM-EAZ4R,Lung
+GTEX-1RAZQ-1326-SM-E9TK6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RAZR-0726-SM-EV7BA,Lung
+GTEX-1RAZR-2126-SM-E9U6T,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RAZS-0826-SM-E76QP,Heart - Left Ventricle
+GTEX-1RAZS-2226-SM-E8VMU,Lung
+GTEX-1RAZS-2526-SM-E6CHT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RB15-0326-SM-E6CQB,Heart - Left Ventricle
+GTEX-1RB15-0426-SM-E9U4Y,Heart - Atrial Appendage
+GTEX-1RB15-1326-SM-E76Q9,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RB15-2126-SM-E9TIM,Skin - Sun Exposed (Lower leg)
+GTEX-1RDX4-0008-SM-G8OXP,Cells - Cultured fibroblasts
+GTEX-1RDX4-0126-SM-E9J4P,Skin - Sun Exposed (Lower leg)
+GTEX-1RDX4-1626-SM-EVR53,Lung
+GTEX-1RDX4-2926-SM-E8VOF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RLM8-0226-SM-E6CJY,Heart - Atrial Appendage
+GTEX-1RLM8-0626-SM-DKTS6,Lung
+GTEX-1RLM8-0626-SM-DLT2O,Lung
+GTEX-1RLM8-0626-SM-E76OW,Lung
+GTEX-1RLM8-2326-SM-EWRN4,Skin - Sun Exposed (Lower leg)
+GTEX-1RLM8-2926-SM-E8VON,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RMOY-0626-SM-E9TIE,Heart - Left Ventricle
+GTEX-1RMOY-1326-SM-E9TIH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RNSC-1226-SM-E9U52,Lung
+GTEX-1RQEC-0426-SM-E6CHU,Skin - Sun Exposed (Lower leg)
+GTEX-1RQEC-0926-SM-EWROG,Heart - Left Ventricle
+GTEX-1RQED-0126-SM-E9U6M,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1RQED-1026-SM-EVYCT,Lung
+GTEX-1S3DN-0726-SM-E9TIO,Heart - Left Ventricle
+GTEX-1S3DN-2126-SM-E9TIN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1S3DN-2226-SM-EVYCD,Skin - Sun Exposed (Lower leg)
+GTEX-1S5VW-0926-SM-EWRNU,Lung
+GTEX-1S5VW-1326-SM-E9TKA,Heart - Left Ventricle
+GTEX-1S5ZA-0126-SM-EVYCV,Skin - Sun Exposed (Lower leg)
+GTEX-1S5ZU-2526-SM-E6CIF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1S82P-0826-SM-EVR4P,Lung
+GTEX-1S82P-2126-SM-E6CI5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1S82U-1026-SM-E6CJK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1S82Y-2026-SM-EVYCM,Skin - Sun Exposed (Lower leg)
+GTEX-1S82Z-0826-SM-E6CHY,Skin - Sun Exposed (Lower leg)
+GTEX-1S831-1826-SM-EWROF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-1S83E-0126-SM-EWRO4,Skin - Sun Exposed (Lower leg)
+GTEX-1S83E-1326-SM-E6CJM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-N7MS-0008-SM-4E3JI,Cells - Cultured fibroblasts
+GTEX-N7MS-0225-SM-4E3HO,Skin - Sun Exposed (Lower leg)
+GTEX-N7MS-0826-SM-2AXU2,Heart - Left Ventricle
+GTEX-N7MS-0826-SM-2HML4,Heart - Left Ventricle
+GTEX-N7MS-0926-SM-2AXU3,Lung
+GTEX-N7MS-0926-SM-2HMIZ,Lung
+GTEX-N7MT-0126-SM-26GMB,Lung
+GTEX-N7MT-0126-SM-26GMS,Lung
+GTEX-N7MT-0126-SM-2D43B,Lung
+GTEX-N7MT-0126-SM-2D7VT,Lung
+GTEX-N7MT-1326-SM-2AXUA,Heart - Left Ventricle
+GTEX-N7MT-1326-SM-2I3FV,Heart - Left Ventricle
+GTEX-NFK9-0008-SM-4E3JE,Cells - Cultured fibroblasts
+GTEX-NFK9-0226-SM-2AXU5,Skin - Sun Exposed (Lower leg)
+GTEX-NFK9-0226-SM-2HMKQ,Skin - Sun Exposed (Lower leg)
+GTEX-NFK9-0926-SM-2AXU8,Heart - Left Ventricle
+GTEX-NFK9-0926-SM-2HMJU,Heart - Left Ventricle
+GTEX-NFK9-1026-SM-2AXU9,Lung
+GTEX-NFK9-1026-SM-2HMK1,Lung
+GTEX-NL3G-0008-SM-4E3JX,Cells - Cultured fibroblasts
+GTEX-NL3G-0526-SM-4RTWW,Lung
+GTEX-NL3H-0008-SM-4E3HU,Cells - Cultured fibroblasts
+GTEX-NL4W-0008-SM-4E3I2,Cells - Cultured fibroblasts
+GTEX-NPJ7-0008-SM-4E3JS,Cells - Cultured fibroblasts
+GTEX-NPJ8-0126-SM-2QU56,Skin - Sun Exposed (Lower leg)
+GTEX-NPJ8-0126-SM-2YUNR,Skin - Sun Exposed (Lower leg)
+GTEX-NPJ8-0326-SM-26GMG,Lung
+GTEX-NPJ8-0326-SM-26GMX,Lung
+GTEX-NPJ8-0326-SM-2D43G,Lung
+GTEX-NPJ8-0326-SM-2D7VV,Lung
+GTEX-NPJ8-0426-SM-2AXU1,Heart - Left Ventricle
+GTEX-NPJ8-0426-SM-2HMK6,Heart - Left Ventricle
+GTEX-O5YT-0008-SM-4E3IQ,Cells - Cultured fibroblasts
+GTEX-O5YT-0126-SM-48TBW,Skin - Sun Exposed (Lower leg)
+GTEX-O5YT-0326-SM-32PKA,Heart - Left Ventricle
+GTEX-O5YT-0526-SM-32PK8,Lung
+GTEX-O5YU-0008-SM-4E3I7,Cells - Cultured fibroblasts
+GTEX-O5YV-0008-SM-4E3HP,Cells - Cultured fibroblasts
+GTEX-O5YV-0326-SM-2AXWH,Heart - Left Ventricle
+GTEX-O5YV-0326-SM-2I5H2,Heart - Left Ventricle
+GTEX-O5YV-0526-SM-26GMJ,Lung
+GTEX-O5YV-0526-SM-26GN1,Lung
+GTEX-O5YV-0526-SM-2D7VZ,Lung
+GTEX-O5YV-0526-SM-2I5GE,Lung
+GTEX-O5YV-0526-SM-2M49G,Lung
+GTEX-O5YW-0008-SM-4E3IE,Cells - Cultured fibroblasts
+GTEX-O5YW-0126-SM-2D45C,Skin - Sun Exposed (Lower leg)
+GTEX-O5YW-0126-SM-3LK6D,Skin - Sun Exposed (Lower leg)
+GTEX-O5YW-0326-SM-2D45D,Heart - Left Ventricle
+GTEX-O5YW-0326-SM-2I5EI,Heart - Left Ventricle
+GTEX-O5YW-0526-SM-2M47W,Lung
+GTEX-O5YW-0526-SM-2YUMX,Lung
+GTEX-OHPJ-0008-SM-4E3JG,Cells - Cultured fibroblasts
+GTEX-OHPJ-0226-SM-2D45E,Skin - Sun Exposed (Lower leg)
+GTEX-OHPJ-0926-SM-2D45G,Heart - Left Ventricle
+GTEX-OHPJ-0926-SM-2HMJ1,Heart - Left Ventricle
+GTEX-OHPJ-1026-SM-2D45F,Lung
+GTEX-OHPJ-1026-SM-2HMLE,Lung
+GTEX-OHPK-0008-SM-4E3JL,Cells - Cultured fibroblasts
+GTEX-OHPK-0326-SM-2D456,Heart - Left Ventricle
+GTEX-OHPK-0326-SM-2HMJO,Heart - Left Ventricle
+GTEX-OHPK-0526-SM-2D455,Lung
+GTEX-OHPK-0526-SM-2HMJB,Lung
+GTEX-OHPL-0008-SM-4E3I9,Cells - Cultured fibroblasts
+GTEX-OHPL-0126-SM-2AXUS,Skin - Sun Exposed (Lower leg)
+GTEX-OHPL-0126-SM-2HMJ7,Skin - Sun Exposed (Lower leg)
+GTEX-OHPL-0326-SM-2AXV1,Heart - Left Ventricle
+GTEX-OHPL-0326-SM-2HMKS,Heart - Left Ventricle
+GTEX-OHPL-0326-SM-33HC8,Heart - Left Ventricle
+GTEX-OHPL-0526-SM-2AXUW,Lung
+GTEX-OHPL-0526-SM-2HMIX,Lung
+GTEX-OHPL-0526-SM-3NM8U,Lung
+GTEX-OHPL-0526-SM-4M1XS,Lung
+GTEX-OHPM-0008-SM-4E3IP,Cells - Cultured fibroblasts
+GTEX-OHPM-0126-SM-2QU3F,Skin - Sun Exposed (Lower leg)
+GTEX-OHPM-0126-SM-2YUN9,Skin - Sun Exposed (Lower leg)
+GTEX-OHPM-0326-SM-2AXUU,Heart - Left Ventricle
+GTEX-OHPM-0326-SM-2HMKT,Heart - Left Ventricle
+GTEX-OHPM-0326-SM-33HCA,Heart - Left Ventricle
+GTEX-OHPM-0526-SM-2AXUY,Lung
+GTEX-OHPM-0526-SM-2YUMJ,Lung
+GTEX-OHPN-0008-SM-4E3HW,Cells - Cultured fibroblasts
+GTEX-OIZF-0126-SM-7SB8I,Skin - Sun Exposed (Lower leg)
+GTEX-OIZF-0326-SM-3MJGY,Heart - Left Ventricle
+GTEX-OIZF-0526-SM-7MXVM,Lung
+GTEX-OIZG-0008-SM-4E3J2,Cells - Cultured fibroblasts
+GTEX-OIZG-0526-SM-2AXUH,Lung
+GTEX-OIZG-0526-SM-2HMLF,Lung
+GTEX-OIZG-0726-SM-2AXUL,Skin - Sun Exposed (Lower leg)
+GTEX-OIZG-0726-SM-2I5GS,Skin - Sun Exposed (Lower leg)
+GTEX-OIZG-0726-SM-33HBL,Skin - Sun Exposed (Lower leg)
+GTEX-OIZG-1126-SM-2AXUQ,Heart - Left Ventricle
+GTEX-OIZG-1126-SM-2HMIU,Heart - Left Ventricle
+GTEX-OIZH-0126-SM-2D44Z,Skin - Sun Exposed (Lower leg)
+GTEX-OIZH-0126-SM-2HMIS,Skin - Sun Exposed (Lower leg)
+GTEX-OIZH-0326-SM-2AXUF,Heart - Left Ventricle
+GTEX-OIZH-0326-SM-2HMKC,Heart - Left Ventricle
+GTEX-OIZH-0526-SM-2AXUN,Lung
+GTEX-OIZH-0526-SM-2HMKV,Lung
+GTEX-OIZI-0008-SM-2XCFD,Cells - Cultured fibroblasts
+GTEX-OIZI-0008-SM-2XV77,Cells - Cultured fibroblasts
+GTEX-OIZI-0926-SM-E6CHF,Heart - Left Ventricle
+GTEX-OIZI-1026-SM-2VCU2,Lung
+GTEX-OIZI-1026-SM-2XK39,Lung
+GTEX-OIZI-1026-SM-3NB1K,Lung
+GTEX-OIZI-1026-SM-4SVQ7,Lung
+GTEX-OIZI-1026-SM-5JK2X,Lung
+GTEX-OIZI-1026-SM-CLTGE,Lung
+GTEX-OOBJ-0008-SM-3NB26,Cells - Cultured fibroblasts
+GTEX-OOBJ-0008-SM-DO3X5,Cells - Cultured fibroblasts
+GTEX-OOBJ-0126-SM-E6CJW,Skin - Sun Exposed (Lower leg)
+GTEX-OOBJ-0326-SM-2D452,Heart - Left Ventricle
+GTEX-OOBJ-0326-SM-2I3F8,Heart - Left Ventricle
+GTEX-OOBJ-0326-SM-33HBO,Heart - Left Ventricle
+GTEX-OOBJ-0326-SM-5SI84,Heart - Left Ventricle
+GTEX-OOBJ-0526-SM-48TDK,Lung
+GTEX-OOBK-0008-SM-3NB27,Cells - Cultured fibroblasts
+GTEX-OOBK-0126-SM-2QU3Y,Skin - Sun Exposed (Lower leg)
+GTEX-OOBK-0126-SM-2YUND,Skin - Sun Exposed (Lower leg)
+GTEX-OOBK-0526-SM-2D43Q,Lung
+GTEX-OOBK-0526-SM-2HMJJ,Lung
+GTEX-OOBK-3025-SM-48TBP,Heart - Left Ventricle
+GTEX-OXRK-0008-SM-3NB28,Cells - Cultured fibroblasts
+GTEX-OXRK-0226-SM-2M485,Skin - Sun Exposed (Lower leg)
+GTEX-OXRK-0226-SM-2YUN1,Skin - Sun Exposed (Lower leg)
+GTEX-OXRK-0226-SM-3NB2G,Skin - Sun Exposed (Lower leg)
+GTEX-OXRK-0826-SM-2D44K,Heart - Left Ventricle
+GTEX-OXRK-0826-SM-2HMK7,Heart - Left Ventricle
+GTEX-OXRK-0926-SM-2D44V,Lung
+GTEX-OXRK-0926-SM-2HMKP,Lung
+GTEX-OXRL-0008-SM-3NB29,Cells - Cultured fibroblasts
+GTEX-OXRL-0126-SM-2M47I,Skin - Sun Exposed (Lower leg)
+GTEX-OXRL-0126-SM-2YUMP,Skin - Sun Exposed (Lower leg)
+GTEX-OXRL-0326-SM-2D44H,Heart - Left Ventricle
+GTEX-OXRL-0326-SM-2I3F2,Heart - Left Ventricle
+GTEX-OXRL-0326-SM-447BG,Heart - Left Ventricle
+GTEX-OXRL-0326-SM-4MVNY,Heart - Left Ventricle
+GTEX-OXRL-0526-SM-2D44C,Lung
+GTEX-OXRL-0526-SM-2I3EZ,Lung
+GTEX-OXRN-0126-SM-48TDM,Skin - Sun Exposed (Lower leg)
+GTEX-OXRN-0526-SM-2D44N,Lung
+GTEX-OXRN-0526-SM-2I5EN,Lung
+GTEX-OXRO-0126-SM-2M48E,Skin - Sun Exposed (Lower leg)
+GTEX-OXRO-0126-SM-2YUN4,Skin - Sun Exposed (Lower leg)
+GTEX-OXRO-0326-SM-2D45W,Lung
+GTEX-OXRO-0326-SM-2I5EE,Lung
+GTEX-OXRO-0326-SM-33HBM,Lung
+GTEX-OXRO-2026-SM-2M484,Heart - Left Ventricle
+GTEX-OXRO-2026-SM-2YUMZ,Heart - Left Ventricle
+GTEX-OXRP-0126-SM-3NB32,Skin - Sun Exposed (Lower leg)
+GTEX-OXRP-0126-SM-48TDI,Skin - Sun Exposed (Lower leg)
+GTEX-OXRP-0526-SM-2D441,Lung
+GTEX-OXRP-0526-SM-2I3EW,Lung
+GTEX-P44G-0226-SM-2D44P,Skin - Sun Exposed (Lower leg)
+GTEX-P44G-0226-SM-2I3F3,Skin - Sun Exposed (Lower leg)
+GTEX-P44G-0826-SM-2D44D,Heart - Left Ventricle
+GTEX-P44G-0826-SM-2I5ES,Heart - Left Ventricle
+GTEX-P44G-0926-SM-325AM,Lung
+GTEX-P44G-0926-SM-325I2,Lung
+GTEX-P44H-0008-SM-48TDW,Cells - Cultured fibroblasts
+GTEX-P44H-0226-SM-2XCEU,Skin - Sun Exposed (Lower leg)
+GTEX-P44H-0226-SM-2XV67,Skin - Sun Exposed (Lower leg)
+GTEX-P44H-0726-SM-48TBT,Heart - Left Ventricle
+GTEX-P44H-1126-SM-2VCU3,Lung
+GTEX-P44H-1126-SM-2XK3A,Lung
+GTEX-P44H-1126-SM-48TBU,Lung
+GTEX-P44H-1126-SM-4SVQD,Lung
+GTEX-P44H-1126-SM-5JK39,Lung
+GTEX-P44H-1126-SM-CLTFW,Lung
+GTEX-P4PP-0008-SM-48TDV,Cells - Cultured fibroblasts
+GTEX-P4PP-0126-SM-2D442,Skin - Sun Exposed (Lower leg)
+GTEX-P4PP-0126-SM-3LK69,Skin - Sun Exposed (Lower leg)
+GTEX-P4PP-0326-SM-2D43Z,Heart - Left Ventricle
+GTEX-P4PP-0326-SM-2HML9,Heart - Left Ventricle
+GTEX-P4PP-0326-SM-33HC4,Heart - Left Ventricle
+GTEX-P4PP-0326-SM-5S2TQ,Heart - Left Ventricle
+GTEX-P4PP-0526-SM-2HMKE,Lung
+GTEX-P4PP-0526-SM-2M49R,Lung
+GTEX-P4PQ-0008-SM-48TDX,Cells - Cultured fibroblasts
+GTEX-P4PQ-0126-SM-2M47B,Skin - Sun Exposed (Lower leg)
+GTEX-P4PQ-0126-SM-2S1NM,Skin - Sun Exposed (Lower leg)
+GTEX-P4PQ-0326-SM-2D43Y,Heart - Left Ventricle
+GTEX-P4PQ-0326-SM-2HMJ8,Heart - Left Ventricle
+GTEX-P4PQ-0526-SM-2D449,Lung
+GTEX-P4PQ-0526-SM-2HMKR,Lung
+GTEX-P4QR-0008-SM-48TE2,Cells - Cultured fibroblasts
+GTEX-P4QR-0326-SM-2M47P,Skin - Sun Exposed (Lower leg)
+GTEX-P4QR-0326-SM-2S1NU,Skin - Sun Exposed (Lower leg)
+GTEX-P4QR-0326-SM-5SI8P,Skin - Sun Exposed (Lower leg)
+GTEX-P4QR-1026-SM-2I5GP,Lung
+GTEX-P4QR-1026-SM-2M49Q,Lung
+GTEX-P4QS-0008-SM-48TDY,Cells - Cultured fibroblasts
+GTEX-P4QS-0326-SM-2D43U,Heart - Left Ventricle
+GTEX-P4QS-0326-SM-2I3EU,Heart - Left Ventricle
+GTEX-P4QS-0526-SM-2D43T,Lung
+GTEX-P4QS-0526-SM-2I3ET,Lung
+GTEX-P4QT-0008-SM-48TDZ,Cells - Cultured fibroblasts
+GTEX-P4QT-0126-SM-2I3FL,Skin - Sun Exposed (Lower leg)
+GTEX-P4QT-0526-SM-2D443,Lung
+GTEX-P4QT-0526-SM-2I3EX,Lung
+GTEX-P78B-0008-SM-48TE1,Cells - Cultured fibroblasts
+GTEX-P78B-0426-SM-2I5F5,Heart - Left Ventricle
+GTEX-P78B-0426-SM-2M48K,Heart - Left Ventricle
+GTEX-P78B-0926-SM-2I5FA,Lung
+GTEX-P78B-0926-SM-2M48P,Lung
+GTEX-PLZ4-0008-SM-48TE6,Cells - Cultured fibroblasts
+GTEX-PLZ4-0126-SM-2QU4D,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ4-0126-SM-2S1OG,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ4-0126-SM-5SI8O,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ4-0726-SM-2QU59,Lung
+GTEX-PLZ4-0726-SM-2TC6Q,Lung
+GTEX-PLZ5-0626-SM-2I5F8,Heart - Left Ventricle
+GTEX-PLZ5-0626-SM-2M48N,Heart - Left Ventricle
+GTEX-PLZ5-0726-SM-2I5F9,Lung
+GTEX-PLZ5-0726-SM-2M48O,Lung
+GTEX-PLZ5-2026-SM-2M48B,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ5-2026-SM-2S1O4,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ6-0008-SM-48TD5,Cells - Cultured fibroblasts
+GTEX-PLZ6-0426-SM-2I5FG,Lung
+GTEX-PLZ6-0426-SM-2M48R,Lung
+GTEX-PLZ6-0426-SM-5IFK2,Lung
+GTEX-PLZ6-0426-SM-5IJDW,Lung
+GTEX-PLZ6-1426-SM-2QU4V,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ6-1426-SM-2S1OQ,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ6-1426-SM-5S2TR,Skin - Sun Exposed (Lower leg)
+GTEX-PLZ6-1426-SM-DKPOT,Skin - Sun Exposed (Lower leg)
+GTEX-POMQ-0008-SM-48TE7,Cells - Cultured fibroblasts
+GTEX-POMQ-0326-SM-2I5FO,Heart - Left Ventricle
+GTEX-POMQ-0326-SM-2M48U,Heart - Left Ventricle
+GTEX-POMQ-0526-SM-2QU4T,Lung
+GTEX-POMQ-0526-SM-3GADD,Lung
+GTEX-POMQ-2226-SM-2I5FK,Skin - Sun Exposed (Lower leg)
+GTEX-POMQ-2226-SM-2M48S,Skin - Sun Exposed (Lower leg)
+GTEX-POYW-0008-SM-48TE4,Cells - Cultured fibroblasts
+GTEX-POYW-1226-SM-2XCEP,Lung
+GTEX-POYW-1226-SM-2XK2C,Lung
+GTEX-POYW-1226-SM-2XV5C,Lung
+GTEX-POYW-1226-SM-325A1,Lung
+GTEX-POYW-1226-SM-325HG,Lung
+GTEX-POYW-1226-SM-4SVQN,Lung
+GTEX-POYW-1226-SM-5JK3K,Lung
+GTEX-POYW-1226-SM-5LU5O,Lung
+GTEX-POYW-1226-SM-5LZWQ,Lung
+GTEX-POYW-1226-SM-CLTGA,Lung
+GTEX-PSDG-0008-SM-48TE5,Cells - Cultured fibroblasts
+GTEX-PSDG-0226-SM-2I5FR,Skin - Sun Exposed (Lower leg)
+GTEX-PSDG-0226-SM-2M48X,Skin - Sun Exposed (Lower leg)
+GTEX-PSDG-0226-SM-33HC1,Skin - Sun Exposed (Lower leg)
+GTEX-PSDG-0226-SM-DKPOZ,Skin - Sun Exposed (Lower leg)
+GTEX-PSDG-0926-SM-2I5FP,Heart - Left Ventricle
+GTEX-PSDG-0926-SM-2M48V,Heart - Left Ventricle
+GTEX-PSDG-1126-SM-2QU4R,Lung
+GTEX-PSDG-1126-SM-2S1ON,Lung
+GTEX-PVOW-0008-SM-48TE8,Cells - Cultured fibroblasts
+GTEX-PVOW-0126-SM-2XCFA,Skin - Sun Exposed (Lower leg)
+GTEX-PVOW-0126-SM-2XV68,Skin - Sun Exposed (Lower leg)
+GTEX-PVOW-0426-SM-2XCF8,Heart - Left Ventricle
+GTEX-PVOW-0426-SM-2XV5E,Heart - Left Ventricle
+GTEX-PVOW-0426-SM-5MR5R,Heart - Left Ventricle
+GTEX-PVOW-0426-SM-5N9DW,Heart - Left Ventricle
+GTEX-PVOW-1026-SM-2XCF9,Lung
+GTEX-PVOW-1026-SM-2XV5D,Lung
+GTEX-PVOW-1026-SM-325A8,Lung
+GTEX-PVOW-1026-SM-325HO,Lung
+GTEX-PVOW-1026-SM-4SVQZ,Lung
+GTEX-PVOW-1026-SM-5JK3V,Lung
+GTEX-PVOW-1026-SM-5NQ7M,Lung
+GTEX-PVOW-1026-SM-5O9B9,Lung
+GTEX-PVOW-1026-SM-CLTG9,Lung
+GTEX-PW2O-0008-SM-48TEB,Cells - Cultured fibroblasts
+GTEX-PW2O-0526-SM-2I3DX,Lung
+GTEX-PW2O-0526-SM-2IZHN,Lung
+GTEX-PW2O-1526-SM-2I5FT,Skin - Sun Exposed (Lower leg)
+GTEX-PW2O-1526-SM-2IZJD,Skin - Sun Exposed (Lower leg)
+GTEX-PW2O-1526-SM-7RHHB,Skin - Sun Exposed (Lower leg)
+GTEX-PWCY-0008-SM-48TE9,Cells - Cultured fibroblasts
+GTEX-PWCY-0526-SM-2I3ER,Heart - Left Ventricle
+GTEX-PWCY-0526-SM-2IZIG,Heart - Left Ventricle
+GTEX-PWCY-0526-SM-5P9HG,Heart - Left Ventricle
+GTEX-PWCY-0526-SM-5PNU8,Heart - Left Ventricle
+GTEX-PWCY-1826-SM-2QU4P,Skin - Sun Exposed (Lower leg)
+GTEX-PWCY-1826-SM-2S1OK,Skin - Sun Exposed (Lower leg)
+GTEX-PWCY-1826-SM-5SI7U,Skin - Sun Exposed (Lower leg)
+GTEX-PWCY-1826-SM-DHXIZ,Skin - Sun Exposed (Lower leg)
+GTEX-PWN1-0008-SM-48TEA,Cells - Cultured fibroblasts
+GTEX-PWN1-0126-SM-2I3FK,Skin - Sun Exposed (Lower leg)
+GTEX-PWN1-0126-SM-2IZIM,Skin - Sun Exposed (Lower leg)
+GTEX-PWO3-1526-SM-48TCM,Skin - Sun Exposed (Lower leg)
+GTEX-PWOO-0008-SM-48TDU,Cells - Cultured fibroblasts
+GTEX-PWOO-0526-SM-2QU5E,Heart - Left Ventricle
+GTEX-PWOO-0526-SM-2S1Q3,Heart - Left Ventricle
+GTEX-PWOO-0726-SM-2I3EB,Lung
+GTEX-PWOO-0726-SM-2IZI1,Lung
+GTEX-PX3G-0008-SM-48U2L,Cells - Cultured fibroblasts
+GTEX-PX3G-0126-SM-2I3EN,Skin - Sun Exposed (Lower leg)
+GTEX-PX3G-0126-SM-2IZIC,Skin - Sun Exposed (Lower leg)
+GTEX-PX3G-0326-SM-2I3EO,Heart - Left Ventricle
+GTEX-PX3G-0326-SM-2IZID,Heart - Left Ventricle
+GTEX-PX3G-0526-SM-2I3EM,Lung
+GTEX-PX3G-0526-SM-2IZIB,Lung
+GTEX-Q2AG-0008-SM-48U2K,Cells - Cultured fibroblasts
+GTEX-Q2AG-0126-SM-2HMLB,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AG-0126-SM-2IZJX,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AG-0126-SM-33HBV,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AG-1026-SM-2HMJX,Lung
+GTEX-Q2AG-1026-SM-2IZK1,Lung
+GTEX-Q2AG-1026-SM-33HBW,Lung
+GTEX-Q2AH-0008-SM-48U2J,Cells - Cultured fibroblasts
+GTEX-Q2AH-0426-SM-2I3EP,Lung
+GTEX-Q2AH-0426-SM-2IZIE,Lung
+GTEX-Q2AH-0526-SM-2I3ED,Heart - Left Ventricle
+GTEX-Q2AH-0526-SM-2IZI3,Heart - Left Ventricle
+GTEX-Q2AH-1626-SM-2QU36,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AH-1626-SM-3GAF8,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AI-0008-SM-48U2H,Cells - Cultured fibroblasts
+GTEX-Q2AI-0526-SM-2I3EJ,Lung
+GTEX-Q2AI-0526-SM-2IZI8,Lung
+GTEX-Q2AI-1326-SM-2QU41,Skin - Sun Exposed (Lower leg)
+GTEX-Q2AI-1326-SM-2S1PL,Skin - Sun Exposed (Lower leg)
+GTEX-Q734-0008-SM-48U2I,Cells - Cultured fibroblasts
+GTEX-Q734-0626-SM-2I3EF,Lung
+GTEX-Q734-0626-SM-2IZI5,Lung
+GTEX-Q734-1926-SM-2I5EV,Skin - Sun Exposed (Lower leg)
+GTEX-Q734-1926-SM-2IZIV,Skin - Sun Exposed (Lower leg)
+GTEX-QCQG-0008-SM-48U2G,Cells - Cultured fibroblasts
+GTEX-QCQG-0326-SM-2I3ES,Lung
+GTEX-QCQG-0326-SM-2IZIH,Lung
+GTEX-QCQG-1726-SM-2QU57,Skin - Sun Exposed (Lower leg)
+GTEX-QCQG-1726-SM-3GIJ9,Skin - Sun Exposed (Lower leg)
+GTEX-QDT8-0008-SM-48U2F,Cells - Cultured fibroblasts
+GTEX-QDT8-0126-SM-48TZ1,Skin - Sun Exposed (Lower leg)
+GTEX-QDT8-0126-SM-CKJTD,Skin - Sun Exposed (Lower leg)
+GTEX-QDT8-0926-SM-2XV59,Lung
+GTEX-QDT8-0926-SM-325A6,Lung
+GTEX-QDT8-0926-SM-325HN,Lung
+GTEX-QDT8-0926-SM-32PL2,Lung
+GTEX-QDT8-0926-SM-4SVPN,Lung
+GTEX-QDT8-0926-SM-7DRQ9,Lung
+GTEX-QDT8-0926-SM-CLTFX,Lung
+GTEX-QDVJ-0008-SM-48U2E,Cells - Cultured fibroblasts
+GTEX-QDVJ-0426-SM-2I5FW,Heart - Left Ventricle
+GTEX-QDVJ-0426-SM-2M491,Heart - Left Ventricle
+GTEX-QDVJ-0926-SM-2I5FU,Lung
+GTEX-QDVJ-0926-SM-2M48Y,Lung
+GTEX-QDVJ-1726-SM-2I5FX,Skin - Sun Exposed (Lower leg)
+GTEX-QDVJ-1726-SM-2M492,Skin - Sun Exposed (Lower leg)
+GTEX-QDVN-0008-SM-48U2D,Cells - Cultured fibroblasts
+GTEX-QDVN-0326-SM-2I3FS,Heart - Left Ventricle
+GTEX-QDVN-0326-SM-2IZIS,Heart - Left Ventricle
+GTEX-QDVN-0726-SM-2I3FO,Lung
+GTEX-QDVN-0726-SM-2IZIP,Lung
+GTEX-QDVN-0726-SM-4B64L,Lung
+GTEX-QDVN-2026-SM-2QU4I,Skin - Sun Exposed (Lower leg)
+GTEX-QDVN-2026-SM-3GAEP,Skin - Sun Exposed (Lower leg)
+GTEX-QEG4-0008-SM-48TYZ,Cells - Cultured fibroblasts
+GTEX-QEG4-0226-SM-2QU52,Skin - Sun Exposed (Lower leg)
+GTEX-QEG4-0226-SM-2S1PY,Skin - Sun Exposed (Lower leg)
+GTEX-QEG4-0426-SM-2I5GK,Heart - Left Ventricle
+GTEX-QEG4-0426-SM-2M49M,Heart - Left Ventricle
+GTEX-QEG4-0426-SM-33HC3,Heart - Left Ventricle
+GTEX-QEG4-0426-SM-5S2VQ,Heart - Left Ventricle
+GTEX-QEG4-0526-SM-48TZD,Lung
+GTEX-QEG5-0008-SM-4R1KL,Cells - Cultured fibroblasts
+GTEX-QEG5-0008-SM-CE6QS,Cells - Cultured fibroblasts
+GTEX-QEG5-0226-SM-2I5GI,Skin - Sun Exposed (Lower leg)
+GTEX-QEG5-0226-SM-2M49K,Skin - Sun Exposed (Lower leg)
+GTEX-QEG5-0926-SM-2M49I,Heart - Left Ventricle
+GTEX-QEG5-0926-SM-2TC64,Heart - Left Ventricle
+GTEX-QEG5-1126-SM-2I5GH,Lung
+GTEX-QEG5-1126-SM-2M49J,Lung
+GTEX-QEG5-1126-SM-33HC2,Lung
+GTEX-QEG5-1126-SM-5SI88,Lung
+GTEX-QEL4-0008-SM-447AZ,Cells - Cultured fibroblasts
+GTEX-QEL4-0226-SM-2TWAW,Skin - Sun Exposed (Lower leg)
+GTEX-QEL4-0826-SM-2TWC4,Lung
+GTEX-QEL4-0826-SM-325AI,Lung
+GTEX-QEL4-0826-SM-325HZ,Lung
+GTEX-QEL4-0826-SM-3GAF2,Lung
+GTEX-QEL4-0826-SM-4X62N,Lung
+GTEX-QEL4-0826-SM-DMRPX,Lung
+GTEX-QEL4-0926-SM-2TWBY,Heart - Left Ventricle
+GTEX-QEL4-0926-SM-3GAD1,Heart - Left Ventricle
+GTEX-QESD-0008-SM-447B2,Cells - Cultured fibroblasts
+GTEX-QESD-0526-SM-2I5G5,Heart - Left Ventricle
+GTEX-QESD-0526-SM-2M498,Heart - Left Ventricle
+GTEX-QESD-0626-SM-2I5G4,Lung
+GTEX-QESD-0626-SM-2M497,Lung
+GTEX-QESD-1426-SM-2QU4L,Skin - Sun Exposed (Lower leg)
+GTEX-QESD-1426-SM-2S1R9,Skin - Sun Exposed (Lower leg)
+GTEX-QLQ7-0008-SM-447AW,Cells - Cultured fibroblasts
+GTEX-QLQ7-0526-SM-2I5G3,Heart - Left Ventricle
+GTEX-QLQ7-0526-SM-2M496,Heart - Left Ventricle
+GTEX-QLQ7-1626-SM-2QU45,Skin - Sun Exposed (Lower leg)
+GTEX-QLQ7-1626-SM-2S1R8,Skin - Sun Exposed (Lower leg)
+GTEX-QLQW-1126-SM-2S1Q8,Skin - Sun Exposed (Lower leg)
+GTEX-QLQW-1126-SM-2TO72,Skin - Sun Exposed (Lower leg)
+GTEX-QMR6-0008-SM-447AV,Cells - Cultured fibroblasts
+GTEX-QMR6-1926-SM-2XK2D,Lung
+GTEX-QMR6-1926-SM-32PL9,Lung
+GTEX-QMR6-1926-SM-3L285,Lung
+GTEX-QMR6-1926-SM-4SVPX,Lung
+GTEX-QMR6-1926-SM-7DRQ1,Lung
+GTEX-QMRM-0008-SM-447B1,Cells - Cultured fibroblasts
+GTEX-QMRM-0526-SM-2I5GA,Heart - Left Ventricle
+GTEX-QMRM-0526-SM-2M49C,Heart - Left Ventricle
+GTEX-QMRM-0826-SM-2I5G7,Lung
+GTEX-QMRM-0826-SM-2M49A,Lung
+GTEX-QMRM-0826-SM-3NB33,Lung
+GTEX-QV31-0008-SM-447AT,Cells - Cultured fibroblasts
+GTEX-QV44-0008-SM-447AX,Cells - Cultured fibroblasts
+GTEX-QV44-0526-SM-2S1RE,Heart - Left Ventricle
+GTEX-QV44-0526-SM-2TO51,Heart - Left Ventricle
+GTEX-QV44-0926-SM-2S1RH,Lung
+GTEX-QV44-0926-SM-2TO6O,Lung
+GTEX-QV44-1926-SM-2S1RF,Skin - Sun Exposed (Lower leg)
+GTEX-QV44-1926-SM-2TO4T,Skin - Sun Exposed (Lower leg)
+GTEX-QVJO-0008-SM-447AU,Cells - Cultured fibroblasts
+GTEX-QVJO-1626-SM-2S1QW,Skin - Sun Exposed (Lower leg)
+GTEX-QVJO-1626-SM-2TO5E,Skin - Sun Exposed (Lower leg)
+GTEX-QVJO-1926-SM-2S1QZ,Heart - Left Ventricle
+GTEX-QVJO-1926-SM-2TO5L,Heart - Left Ventricle
+GTEX-QVUS-0008-SM-447AY,Cells - Cultured fibroblasts
+GTEX-QVUS-2026-SM-CYKPC,Lung
+GTEX-QVUS-2026-SM-EYYW9,Lung
+GTEX-QXCU-0008-SM-48FCH,Cells - Cultured fibroblasts
+GTEX-QXCU-0626-SM-2TC69,Lung
+GTEX-QXCU-0626-SM-2TO5N,Lung
+GTEX-QXCU-0826-SM-2TC6F,Heart - Left Ventricle
+GTEX-QXCU-0826-SM-2TO5Q,Heart - Left Ventricle
+GTEX-R3RS-0008-SM-48FF1,Cells - Cultured fibroblasts
+GTEX-R3RS-0126-SM-2TO5G,Skin - Sun Exposed (Lower leg)
+GTEX-R3RS-0126-SM-3GIJL,Skin - Sun Exposed (Lower leg)
+GTEX-R3RS-1026-SM-2TO5T,Lung
+GTEX-R3RS-1026-SM-3GADF,Lung
+GTEX-R45C-0008-SM-48FF2,Cells - Cultured fibroblasts
+GTEX-R45C-0126-SM-EAZ2R,Skin - Sun Exposed (Lower leg)
+GTEX-R45C-0926-SM-2TWCY,Heart - Left Ventricle
+GTEX-R45C-0926-SM-3GAD4,Heart - Left Ventricle
+GTEX-R53T-0008-SM-48FEW,Cells - Cultured fibroblasts
+GTEX-R53T-0626-SM-2TO5Y,Lung
+GTEX-R53T-0926-SM-2TO5U,Heart - Left Ventricle
+GTEX-R53T-0926-SM-3GADH,Heart - Left Ventricle
+GTEX-R55C-0008-SM-48FCF,Cells - Cultured fibroblasts
+GTEX-R55C-0326-SM-2TO5H,Heart - Left Ventricle
+GTEX-R55C-0326-SM-3GAF1,Heart - Left Ventricle
+GTEX-R55C-0526-SM-2TO6D,Lung
+GTEX-R55C-0526-SM-3GIKA,Lung
+GTEX-R55D-0008-SM-48FEV,Cells - Cultured fibroblasts
+GTEX-R55D-0226-SM-2TWBG,Skin - Sun Exposed (Lower leg)
+GTEX-R55D-0926-SM-2TWDB,Lung
+GTEX-R55D-0926-SM-325AK,Lung
+GTEX-R55D-0926-SM-325I1,Lung
+GTEX-R55D-0926-SM-3GAEU,Lung
+GTEX-R55D-0926-SM-4X61C,Lung
+GTEX-R55D-0926-SM-7DRPI,Lung
+GTEX-R55D-0926-SM-CLTGD,Lung
+GTEX-R55E-0008-SM-48FCG,Cells - Cultured fibroblasts
+GTEX-R55E-0126-SM-2TC5Y,Skin - Sun Exposed (Lower leg)
+GTEX-R55E-0126-SM-2TO6U,Skin - Sun Exposed (Lower leg)
+GTEX-R55E-1026-SM-2TC5S,Heart - Left Ventricle
+GTEX-R55E-1026-SM-2TO6T,Heart - Left Ventricle
+GTEX-R55F-0008-SM-48FE6,Cells - Cultured fibroblasts
+GTEX-R55F-0126-SM-48FCK,Skin - Sun Exposed (Lower leg)
+GTEX-R55F-0326-SM-3G3SE,Lung
+GTEX-R55F-0326-SM-3G3TF,Lung
+GTEX-R55F-0326-SM-4X616,Lung
+GTEX-R55F-0326-SM-7DRPK,Lung
+GTEX-R55G-0008-SM-48FEX,Cells - Cultured fibroblasts
+GTEX-R55G-0526-SM-2TC5O,Heart - Left Ventricle
+GTEX-R55G-0526-SM-2TO6S,Heart - Left Ventricle
+GTEX-R55G-0826-SM-2TC5U,Lung
+GTEX-R55G-0826-SM-2TWCO,Lung
+GTEX-R55G-2526-SM-2TC6D,Skin - Sun Exposed (Lower leg)
+GTEX-REY6-0426-SM-2TF5G,Lung
+GTEX-REY6-0426-SM-2TO5S,Lung
+GTEX-REY6-1026-SM-2TF4Y,Heart - Left Ventricle
+GTEX-REY6-1026-SM-2TO6G,Heart - Left Ventricle
+GTEX-RM2N-0008-SM-48FF3,Cells - Cultured fibroblasts
+GTEX-RM2N-0426-SM-2TF4T,Lung
+GTEX-RM2N-0426-SM-2TO75,Lung
+GTEX-RM2N-1426-SM-2TF4H,Skin - Sun Exposed (Lower leg)
+GTEX-RM2N-1426-SM-2TO53,Skin - Sun Exposed (Lower leg)
+GTEX-RN64-0008-SM-48FEZ,Cells - Cultured fibroblasts
+GTEX-RN64-0126-SM-2TC68,Skin - Sun Exposed (Lower leg)
+GTEX-RN64-0126-SM-2TO55,Skin - Sun Exposed (Lower leg)
+GTEX-RN64-0826-SM-2TC62,Heart - Left Ventricle
+GTEX-RN64-0826-SM-2TO5W,Heart - Left Ventricle
+GTEX-RN64-1226-SM-2TC6E,Lung
+GTEX-RN64-1226-SM-2TO5D,Lung
+GTEX-RNOR-0008-SM-48FEY,Cells - Cultured fibroblasts
+GTEX-RNOR-0126-SM-2TF57,Skin - Sun Exposed (Lower leg)
+GTEX-RNOR-0126-SM-2TWAZ,Skin - Sun Exposed (Lower leg)
+GTEX-RNOR-0126-SM-E9J4R,Skin - Sun Exposed (Lower leg)
+GTEX-RNOR-0726-SM-2TF5I,Lung
+GTEX-RNOR-0726-SM-2TWBF,Lung
+GTEX-RNOR-0826-SM-2TF5C,Heart - Left Ventricle
+GTEX-RNOR-0826-SM-2TWBE,Heart - Left Ventricle
+GTEX-RTLS-0008-SM-48FET,Cells - Cultured fibroblasts
+GTEX-RTLS-0126-SM-447CA,Skin - Sun Exposed (Lower leg)
+GTEX-RTLS-0826-SM-2TF5Q,Heart - Left Ventricle
+GTEX-RTLS-0826-SM-2TWCX,Heart - Left Ventricle
+GTEX-RTLS-0926-SM-2TF5X,Lung
+GTEX-RTLS-0926-SM-2TWBR,Lung
+GTEX-RU1J-0008-SM-46MV9,Cells - Cultured fibroblasts
+GTEX-RU1J-0126-SM-2TF6Y,Lung
+GTEX-RU1J-0126-SM-2TWBN,Lung
+GTEX-RU72-0008-SM-46MV8,Cells - Cultured fibroblasts
+GTEX-RU72-0326-SM-2TF5T,Heart - Left Ventricle
+GTEX-RU72-0326-SM-2TWCE,Heart - Left Ventricle
+GTEX-RU72-0526-SM-2TF5Z,Lung
+GTEX-RU72-0526-SM-2TWBS,Lung
+GTEX-RU72-0926-SM-2TF6B,Skin - Sun Exposed (Lower leg)
+GTEX-RU72-0926-SM-2TWAP,Skin - Sun Exposed (Lower leg)
+GTEX-RUSQ-0526-SM-2TF72,Heart - Left Ventricle
+GTEX-RUSQ-0526-SM-2TWCI,Heart - Left Ventricle
+GTEX-RUSQ-0626-SM-2TF5V,Lung
+GTEX-RUSQ-0626-SM-2TWD6,Lung
+GTEX-RUSQ-1526-SM-2TF62,Skin - Sun Exposed (Lower leg)
+GTEX-RUSQ-1526-SM-2TWBQ,Skin - Sun Exposed (Lower leg)
+GTEX-RVPU-0008-SM-3NM8B,Cells - Cultured fibroblasts
+GTEX-RVPU-2226-SM-2XCAQ,Skin - Sun Exposed (Lower leg)
+GTEX-RVPU-2226-SM-2XU9A,Skin - Sun Exposed (Lower leg)
+GTEX-RVPV-0008-SM-47JYW,Cells - Cultured fibroblasts
+GTEX-RVPV-0126-SM-EAZAW,Skin - Sun Exposed (Lower leg)
+GTEX-RVPV-1726-SM-2NKAQ,Lung
+GTEX-RVPV-1726-SM-2TF5W,Lung
+GTEX-RVPV-1726-SM-2XU8R,Lung
+GTEX-RVPV-1726-SM-5SI8C,Lung
+GTEX-RWS6-0008-SM-47JYV,Cells - Cultured fibroblasts
+GTEX-RWS6-0226-SM-2XCA9,Lung
+GTEX-RWS6-0226-SM-2XUAO,Lung
+GTEX-RWS6-0326-SM-2XCAP,Heart - Left Ventricle
+GTEX-RWS6-0326-SM-2XUAF,Heart - Left Ventricle
+GTEX-RWS6-2026-SM-2XCB5,Skin - Sun Exposed (Lower leg)
+GTEX-RWS6-2026-SM-2XU8X,Skin - Sun Exposed (Lower leg)
+GTEX-RWSA-0008-SM-47JYX,Cells - Cultured fibroblasts
+GTEX-RWSA-0126-SM-2XCBB,Skin - Sun Exposed (Lower leg)
+GTEX-RWSA-0126-SM-2XU9X,Skin - Sun Exposed (Lower leg)
+GTEX-RWSA-0626-SM-2XCBD,Heart - Left Ventricle
+GTEX-RWSA-0626-SM-2XU9U,Heart - Left Ventricle
+GTEX-RWSA-1126-SM-2XCAZ,Lung
+GTEX-RWSA-1126-SM-2XU92,Lung
+GTEX-S32W-0326-SM-2XCBI,Lung
+GTEX-S32W-0326-SM-2XUAN,Lung
+GTEX-S32W-0326-SM-5S2T4,Lung
+GTEX-S32W-0626-SM-2XCBG,Heart - Left Ventricle
+GTEX-S32W-0626-SM-2XUA5,Heart - Left Ventricle
+GTEX-S32W-0626-SM-5S2TC,Heart - Left Ventricle
+GTEX-S32W-2126-SM-2XCB1,Skin - Sun Exposed (Lower leg)
+GTEX-S32W-2126-SM-2XU8S,Skin - Sun Exposed (Lower leg)
+GTEX-S33H-0008-SM-4AD6C,Cells - Cultured fibroblasts
+GTEX-S33H-0526-SM-2XCBK,Heart - Left Ventricle
+GTEX-S33H-0526-SM-2XUAH,Heart - Left Ventricle
+GTEX-S33H-0526-SM-5SI83,Heart - Left Ventricle
+GTEX-S33H-0526-SM-COH1W,Heart - Left Ventricle
+GTEX-S33H-0626-SM-2XCBJ,Lung
+GTEX-S33H-0626-SM-2XUAP,Lung
+GTEX-S33H-1026-SM-EZ6L6,Skin - Sun Exposed (Lower leg)
+GTEX-S341-0008-SM-4AD6D,Cells - Cultured fibroblasts
+GTEX-S341-0326-SM-2XCAU,Lung
+GTEX-S341-0326-SM-2XUAR,Lung
+GTEX-S341-1726-SM-2XU8C,Skin - Sun Exposed (Lower leg)
+GTEX-S341-1726-SM-3K2AK,Skin - Sun Exposed (Lower leg)
+GTEX-S3LF-1126-SM-EVR33,Lung
+GTEX-S3XE-0008-SM-3NM8O,Cells - Cultured fibroblasts
+GTEX-S3XE-0426-SM-2XUAK,Heart - Left Ventricle
+GTEX-S3XE-0426-SM-3K2AC,Heart - Left Ventricle
+GTEX-S3XE-1726-SM-2XU9F,Skin - Sun Exposed (Lower leg)
+GTEX-S3XE-1726-SM-3K2AM,Skin - Sun Exposed (Lower leg)
+GTEX-S4P3-0008-SM-3NM8R,Cells - Cultured fibroblasts
+GTEX-S4Q7-0008-SM-3NM8A,Cells - Cultured fibroblasts
+GTEX-S4Q7-0426-SM-2XUAZ,Lung
+GTEX-S4Q7-0426-SM-3K2BJ,Lung
+GTEX-S4UY-0008-SM-3NM8H,Cells - Cultured fibroblasts
+GTEX-S4UY-0126-SM-2XU9R,Skin - Sun Exposed (Lower leg)
+GTEX-S4UY-0126-SM-3K2BB,Skin - Sun Exposed (Lower leg)
+GTEX-S4Z8-0008-SM-33HAZ,Cells - Cultured fibroblasts
+GTEX-S4Z8-0426-SM-2XUA2,Lung
+GTEX-S4Z8-0426-SM-3K2AH,Lung
+GTEX-S4Z8-1026-SM-2XUAL,Heart - Left Ventricle
+GTEX-S4Z8-1026-SM-3K2AI,Heart - Left Ventricle
+GTEX-S4Z8-1026-SM-72D6N,Heart - Left Ventricle
+GTEX-S4Z8-1026-SM-CM2RE,Heart - Left Ventricle
+GTEX-S7PM-0008-SM-3NM9Q,Cells - Cultured fibroblasts
+GTEX-S7PM-0126-SM-4AD6S,Skin - Sun Exposed (Lower leg)
+GTEX-S7PM-0926-SM-3PYK3,Lung
+GTEX-S7PM-0926-SM-3PZ76,Lung
+GTEX-S7PM-0926-SM-4X617,Lung
+GTEX-S7PM-0926-SM-5JK36,Lung
+GTEX-S7PM-0926-SM-CLTGC,Lung
+GTEX-S7SE-0008-SM-33HB1,Cells - Cultured fibroblasts
+GTEX-S7SE-0126-SM-2XCD5,Skin - Sun Exposed (Lower leg)
+GTEX-S7SE-0126-SM-2XV4Z,Skin - Sun Exposed (Lower leg)
+GTEX-S7SE-0926-SM-2XCD6,Lung
+GTEX-S7SE-0926-SM-2XV63,Lung
+GTEX-S7SE-0926-SM-CYKVJ,Lung
+GTEX-S7SF-0008-SM-3NM8T,Cells - Cultured fibroblasts
+GTEX-S7SF-0426-SM-2XUAV,Lung
+GTEX-S7SF-0426-SM-3K2B7,Lung
+GTEX-S7SF-0526-SM-2XUAI,Heart - Left Ventricle
+GTEX-S7SF-0526-SM-3K2BC,Heart - Left Ventricle
+GTEX-S7SF-1626-SM-2XU9K,Skin - Sun Exposed (Lower leg)
+GTEX-S7SF-1626-SM-3K2AY,Skin - Sun Exposed (Lower leg)
+GTEX-S95S-0008-SM-4AT5M,Cells - Cultured fibroblasts
+GTEX-S95S-1226-SM-4GICG,Skin - Sun Exposed (Lower leg)
+GTEX-SE5C-0008-SM-4B64J,Cells - Cultured fibroblasts
+GTEX-SE5C-0526-SM-2XCE1,Lung
+GTEX-SE5C-0526-SM-2XV6Y,Lung
+GTEX-SE5C-0526-SM-CKJTH,Lung
+GTEX-SE5C-0626-SM-2XCDV,Heart - Left Ventricle
+GTEX-SE5C-0626-SM-3P5ZJ,Heart - Left Ventricle
+GTEX-SE5C-0626-SM-4IHLJ,Heart - Left Ventricle
+GTEX-SE5C-1626-SM-2XCE3,Skin - Sun Exposed (Lower leg)
+GTEX-SIU7-0426-SM-2XCDX,Heart - Left Ventricle
+GTEX-SIU7-0426-SM-2XV6U,Heart - Left Ventricle
+GTEX-SIU7-0526-SM-2XV5V,Lung
+GTEX-SIU7-0526-SM-3NM8I,Lung
+GTEX-SIU7-1726-SM-2XCDZ,Skin - Sun Exposed (Lower leg)
+GTEX-SIU7-1726-SM-2XV4K,Skin - Sun Exposed (Lower leg)
+GTEX-SIU8-0008-SM-4BRUC,Cells - Cultured fibroblasts
+GTEX-SIU8-0126-SM-2XCDT,Skin - Sun Exposed (Lower leg)
+GTEX-SIU8-0126-SM-2XV58,Skin - Sun Exposed (Lower leg)
+GTEX-SIU8-0826-SM-2XCDQ,Heart - Left Ventricle
+GTEX-SIU8-0826-SM-2XV65,Heart - Left Ventricle
+GTEX-SIU8-0926-SM-2XCDO,Lung
+GTEX-SIU8-0926-SM-2XV6Q,Lung
+GTEX-SIU8-0926-SM-5SI87,Lung
+GTEX-SIU8-0926-SM-COH1X,Lung
+GTEX-SJXC-0008-SM-4DM7G,Cells - Cultured fibroblasts
+GTEX-SJXC-0126-SM-2XCFF,Skin - Sun Exposed (Lower leg)
+GTEX-SJXC-0126-SM-2XV4I,Skin - Sun Exposed (Lower leg)
+GTEX-SJXC-1026-SM-EYYVA,Lung
+GTEX-SN8G-0008-SM-4DM4X,Cells - Cultured fibroblasts
+GTEX-SN8G-0126-SM-32PLI,Skin - Sun Exposed (Lower leg)
+GTEX-SN8G-0926-SM-4DM5I,Lung
+GTEX-SNMC-0008-SM-4DM5A,Cells - Cultured fibroblasts
+GTEX-SNMC-0126-SM-2XCFO,Heart - Left Ventricle
+GTEX-SNMC-0126-SM-2XV6G,Heart - Left Ventricle
+GTEX-SNMC-1226-SM-2XCFP,Skin - Sun Exposed (Lower leg)
+GTEX-SNMC-1226-SM-2XV54,Skin - Sun Exposed (Lower leg)
+GTEX-SNOS-0008-SM-4DM6I,Cells - Cultured fibroblasts
+GTEX-SNOS-0426-SM-32PMH,Lung
+GTEX-SSA3-0008-SM-47JWJ,Cells - Cultured fibroblasts
+GTEX-SSA3-0126-SM-32QPU,Skin - Sun Exposed (Lower leg)
+GTEX-SUCS-0008-SM-4DM53,Cells - Cultured fibroblasts
+GTEX-SUCS-0326-SM-32PLL,Heart - Left Ventricle
+GTEX-SUCS-0626-SM-32PM5,Lung
+GTEX-SUCS-1926-SM-32PM3,Skin - Sun Exposed (Lower leg)
+GTEX-T2IS-0008-SM-4DM75,Cells - Cultured fibroblasts
+GTEX-T2IS-0126-SM-4DM6O,Skin - Sun Exposed (Lower leg)
+GTEX-T2IS-0426-SM-32QPE,Heart - Left Ventricle
+GTEX-T2IS-0526-SM-32QP9,Lung
+GTEX-T2YK-0008-SM-4DM6M,Cells - Cultured fibroblasts
+GTEX-T2YK-0526-SM-32QPJ,Skin - Sun Exposed (Lower leg)
+GTEX-T5JC-0008-SM-4DM6A,Cells - Cultured fibroblasts
+GTEX-T5JC-0426-SM-32PLO,Skin - Sun Exposed (Lower leg)
+GTEX-T5JC-0426-SM-5S2SL,Skin - Sun Exposed (Lower leg)
+GTEX-T5JC-0826-SM-32PMC,Lung
+GTEX-T5JC-0826-SM-5S2SN,Lung
+GTEX-T5JW-0008-SM-4DM5X,Cells - Cultured fibroblasts
+GTEX-T5JW-1626-SM-3GADZ,Skin - Sun Exposed (Lower leg)
+GTEX-T6MN-0008-SM-4DM7H,Cells - Cultured fibroblasts
+GTEX-T6MN-0126-SM-32PLP,Skin - Sun Exposed (Lower leg)
+GTEX-T6MN-0126-SM-5S2TD,Skin - Sun Exposed (Lower leg)
+GTEX-T6MN-0826-SM-32PM4,Lung
+GTEX-T6MN-0826-SM-5S2SK,Lung
+GTEX-T6MN-0926-SM-32PLX,Heart - Left Ventricle
+GTEX-T6MN-0926-SM-5S2S3,Heart - Left Ventricle
+GTEX-T6MO-0008-SM-4DM6T,Cells - Cultured fibroblasts
+GTEX-T6MO-0426-SM-32QOI,Lung
+GTEX-T6MO-1626-SM-32QOM,Skin - Sun Exposed (Lower leg)
+GTEX-T8EM-0326-SM-3DB7F,Lung
+GTEX-T8EM-1026-SM-3DB7M,Skin - Sun Exposed (Lower leg)
+GTEX-TKQ1-0008-SM-4DXSO,Cells - Cultured fibroblasts
+GTEX-TKQ1-1026-SM-4GICL,Skin - Sun Exposed (Lower leg)
+GTEX-TKQ2-0008-SM-4DM5L,Cells - Cultured fibroblasts
+GTEX-TMKS-0126-SM-3DB7S,Skin - Sun Exposed (Lower leg)
+GTEX-TML8-0008-SM-4DXUI,Cells - Cultured fibroblasts
+GTEX-TML8-0326-SM-4GICN,Lung
+GTEX-TML8-1926-SM-32QOS,Skin - Sun Exposed (Lower leg)
+GTEX-TMMY-0008-SM-4DXU3,Cells - Cultured fibroblasts
+GTEX-TMMY-0226-SM-33HBA,Skin - Sun Exposed (Lower leg)
+GTEX-TMMY-0926-SM-33HBG,Lung
+GTEX-TMMY-0926-SM-4TT1Z,Lung
+GTEX-TMMY-0926-SM-4VBQZ,Lung
+GTEX-TMMY-0926-SM-4WKH4,Lung
+GTEX-TMZS-0008-SM-47JWM,Cells - Cultured fibroblasts
+GTEX-TMZS-0126-SM-3DB9Q,Skin - Sun Exposed (Lower leg)
+GTEX-TSE9-0008-SM-4DXT8,Cells - Cultured fibroblasts
+GTEX-TSE9-0126-SM-3DB83,Skin - Sun Exposed (Lower leg)
+GTEX-TSE9-0726-SM-3DB8C,Lung
+GTEX-U3ZG-0008-SM-47JWL,Cells - Cultured fibroblasts
+GTEX-U3ZH-0008-SM-4DXT2,Cells - Cultured fibroblasts
+GTEX-U3ZH-0326-SM-3DB7A,Heart - Left Ventricle
+GTEX-U3ZH-0326-SM-4WWDX,Heart - Left Ventricle
+GTEX-U3ZH-0326-SM-51MS7,Heart - Left Ventricle
+GTEX-U3ZH-0526-SM-3DB75,Lung
+GTEX-U3ZH-2026-SM-3DB78,Skin - Sun Exposed (Lower leg)
+GTEX-U3ZM-0008-SM-4DXTQ,Cells - Cultured fibroblasts
+GTEX-U3ZM-0426-SM-3DB73,Lung
+GTEX-U3ZM-0426-SM-57WG1,Lung
+GTEX-U3ZM-0426-SM-59HKR,Lung
+GTEX-U3ZM-1526-SM-3DB9D,Skin - Sun Exposed (Lower leg)
+GTEX-U3ZN-0008-SM-4DXTL,Cells - Cultured fibroblasts
+GTEX-U3ZN-0626-SM-3DB7U,Lung
+GTEX-U3ZN-1426-SM-3DB87,Heart - Left Ventricle
+GTEX-U3ZN-2326-SM-3DB7W,Skin - Sun Exposed (Lower leg)
+GTEX-U412-0008-SM-4DXTE,Cells - Cultured fibroblasts
+GTEX-U412-0426-SM-3DB9O,Skin - Sun Exposed (Lower leg)
+GTEX-U412-0826-SM-3DB9K,Lung
+GTEX-U4B1-0008-SM-4DXUW,Cells - Cultured fibroblasts
+GTEX-U4B1-0326-SM-3DB8K,Heart - Left Ventricle
+GTEX-U4B1-1826-SM-4DXSU,Skin - Sun Exposed (Lower leg)
+GTEX-U8T8-0008-SM-4DXSP,Cells - Cultured fibroblasts
+GTEX-U8T8-0126-SM-3DB94,Skin - Sun Exposed (Lower leg)
+GTEX-U8T8-2226-SM-3DB95,Lung
+GTEX-U8XE-0008-SM-4E3K4,Cells - Cultured fibroblasts
+GTEX-U8XE-0226-SM-4E3J3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-U8XE-0326-SM-3DB8P,Skin - Sun Exposed (Lower leg)
+GTEX-U8XE-0926-SM-3DB8V,Heart - Atrial Appendage
+GTEX-U8XE-1126-SM-3DB8W,Heart - Left Ventricle
+GTEX-U8XE-1426-SM-3DB8Q,Lung
+GTEX-UJHI-0008-SM-4IHL1,Cells - Cultured fibroblasts
+GTEX-UJHI-0426-SM-3DB8Y,Heart - Left Ventricle
+GTEX-UJHI-0726-SM-3DB92,Lung
+GTEX-UJHI-1526-SM-3DB99,Skin - Sun Exposed (Lower leg)
+GTEX-UJMC-0008-SM-4IHKK,Cells - Cultured fibroblasts
+GTEX-UJMC-0526-SM-3GAE3,Heart - Left Ventricle
+GTEX-UJMC-0726-SM-3GADX,Lung
+GTEX-UPIC-0826-SM-3GADQ,Lung
+GTEX-UPIC-1626-SM-4IHKT,Skin - Sun Exposed (Lower leg)
+GTEX-UPJH-0226-SM-3GADV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-UPJH-0326-SM-3GADU,Skin - Sun Exposed (Lower leg)
+GTEX-UPJH-0326-SM-CKJTF,Skin - Sun Exposed (Lower leg)
+GTEX-UPJH-0826-SM-4WKFD,Lung
+GTEX-UPK5-0008-SM-4IHJD,Cells - Cultured fibroblasts
+GTEX-UPK5-0226-SM-3GAEV,Heart - Atrial Appendage
+GTEX-UPK5-0326-SM-3GAF3,Heart - Left Ventricle
+GTEX-UPK5-0326-SM-5SI81,Heart - Left Ventricle
+GTEX-UPK5-0326-SM-CYPR4,Heart - Left Ventricle
+GTEX-UPK5-0426-SM-3GAEK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-UPK5-0726-SM-4IHL7,Skin - Sun Exposed (Lower leg)
+GTEX-UPK5-1126-SM-3GAEJ,Lung
+GTEX-UTHO-0008-SM-4JBID,Cells - Cultured fibroblasts
+GTEX-UTHO-1226-SM-3GAEE,Heart - Atrial Appendage
+GTEX-V1D1-0008-SM-4JBIJ,Cells - Cultured fibroblasts
+GTEX-V1D1-0526-SM-4JBGW,Heart - Left Ventricle
+GTEX-V1D1-0626-SM-4JBHN,Heart - Atrial Appendage
+GTEX-V1D1-0826-SM-3P5ZA,Lung
+GTEX-V1D1-2026-SM-3GAF4,Skin - Not Sun Exposed (Suprapubic)
+GTEX-V1D1-2226-SM-3NMAX,Skin - Sun Exposed (Lower leg)
+GTEX-V955-0726-SM-3GAFG,Heart - Left Ventricle
+GTEX-V955-0826-SM-3GAF9,Heart - Atrial Appendage
+GTEX-V955-0826-SM-5SI82,Heart - Atrial Appendage
+GTEX-V955-0826-SM-CYPR5,Heart - Atrial Appendage
+GTEX-VJWN-0126-SM-3GIK7,Skin - Sun Exposed (Lower leg)
+GTEX-VJWN-1026-SM-4M1ZN,Heart - Atrial Appendage
+GTEX-VJWN-1326-SM-EVR2Z,Lung
+GTEX-VJYA-0326-SM-3GAEX,Lung
+GTEX-VJYA-1126-SM-3GIJU,Skin - Sun Exposed (Lower leg)
+GTEX-VJYA-1526-SM-3GIJV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-VUSG-0008-SM-4KL24,Cells - Cultured fibroblasts
+GTEX-VUSG-0726-SM-3GIK1,Heart - Atrial Appendage
+GTEX-VUSG-0926-SM-3GIK6,Lung
+GTEX-VUSG-0926-SM-5S2SV,Lung
+GTEX-VUSG-2326-SM-4KL1U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-VUSG-2526-SM-4KL1V,Skin - Sun Exposed (Lower leg)
+GTEX-VUSG-2526-SM-5S2S9,Skin - Sun Exposed (Lower leg)
+GTEX-VUSH-0008-SM-47JWK,Cells - Cultured fibroblasts
+GTEX-W5WG-0008-SM-4KL25,Cells - Cultured fibroblasts
+GTEX-W5WG-1826-SM-4KL2Y,Skin - Sun Exposed (Lower leg)
+GTEX-W5X1-0008-SM-4LMKA,Cells - Cultured fibroblasts
+GTEX-W5X1-0526-SM-3GILH,Lung
+GTEX-W5X1-0826-SM-3GILN,Heart - Atrial Appendage
+GTEX-W5X1-2526-SM-3GILC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-W5X1-3026-SM-EAZAX,Skin - Sun Exposed (Lower leg)
+GTEX-WCDI-0008-SM-47JYE,Cells - Cultured fibroblasts
+GTEX-WEY5-0008-SM-4LMKC,Cells - Cultured fibroblasts
+GTEX-WEY5-0226-SM-3GIKN,Heart - Atrial Appendage
+GTEX-WEY5-0426-SM-3GIKT,Heart - Left Ventricle
+GTEX-WEY5-2326-SM-3GIKK,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WFG7-0008-SM-4LMKB,Cells - Cultured fibroblasts
+GTEX-WFG7-0526-SM-3GIKI,Lung
+GTEX-WFG7-0726-SM-3GIKO,Heart - Left Ventricle
+GTEX-WFG7-0826-SM-3GIKU,Heart - Atrial Appendage
+GTEX-WFG7-2026-SM-3GIL7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WFG7-2026-SM-5SI7P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WFG8-0008-SM-4LVN6,Cells - Cultured fibroblasts
+GTEX-WFG8-0626-SM-3GILJ,Heart - Left Ventricle
+GTEX-WFG8-0726-SM-3GILP,Heart - Atrial Appendage
+GTEX-WFG8-0926-SM-3GIKJ,Lung
+GTEX-WFG8-2126-SM-3GIKQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WFG8-2226-SM-3GIL9,Skin - Sun Exposed (Lower leg)
+GTEX-WFJO-0008-SM-4LVN7,Cells - Cultured fibroblasts
+GTEX-WFJO-0326-SM-3GIL3,Lung
+GTEX-WFON-0226-SM-3GIKR,Heart - Atrial Appendage
+GTEX-WFON-0326-SM-3GIKX,Heart - Left Ventricle
+GTEX-WFON-0326-SM-5S2TP,Heart - Left Ventricle
+GTEX-WFON-0426-SM-3GIL4,Lung
+GTEX-WFON-0426-SM-5S2T1,Lung
+GTEX-WFON-1926-SM-3LK7L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WFON-2126-SM-3LK7O,Skin - Sun Exposed (Lower leg)
+GTEX-WFON-2126-SM-5S2T9,Skin - Sun Exposed (Lower leg)
+GTEX-WH7G-0008-SM-4LVNM,Cells - Cultured fibroblasts
+GTEX-WH7G-0326-SM-3NMBH,Heart - Atrial Appendage
+GTEX-WH7G-0426-SM-3NMBJ,Heart - Left Ventricle
+GTEX-WH7G-0726-SM-3NMBM,Lung
+GTEX-WH7G-0726-SM-5EGIX,Lung
+GTEX-WH7G-0726-SM-5EQ6C,Lung
+GTEX-WH7G-2026-SM-3NMBL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WH7G-2326-SM-3NMBC,Skin - Sun Exposed (Lower leg)
+GTEX-WHPG-0008-SM-4M1ZQ,Cells - Cultured fibroblasts
+GTEX-WHPG-0826-SM-3NMBF,Heart - Left Ventricle
+GTEX-WHPG-1026-SM-3NMBA,Heart - Atrial Appendage
+GTEX-WHPG-1426-SM-3NMBB,Lung
+GTEX-WHPG-2626-SM-3NMBR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WHSB-0008-SM-4M1ZP,Cells - Cultured fibroblasts
+GTEX-WHSB-0326-SM-3LK6K,Lung
+GTEX-WHSB-0326-SM-5FQSD,Lung
+GTEX-WHSB-0326-SM-5GICB,Lung
+GTEX-WHSB-1326-SM-3LK6W,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WHSE-0008-SM-4M1ZO,Cells - Cultured fibroblasts
+GTEX-WHSE-0126-SM-3NMBT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WHSE-0826-SM-4SOJU,Heart - Atrial Appendage
+GTEX-WHSE-0926-SM-3NMBS,Heart - Left Ventricle
+GTEX-WHSE-0926-SM-CYKVI-ELUATE,Heart - Left Ventricle
+GTEX-WHSE-0926-SM-CYKVI-INPUT,Heart - Left Ventricle
+GTEX-WHSE-0926-SM-CYKVI-SUP,Heart - Left Ventricle
+GTEX-WHSE-1726-SM-3PYKB,Lung
+GTEX-WHSE-1726-SM-3PZ7X,Lung
+GTEX-WHSE-1726-SM-4X61H,Lung
+GTEX-WHSE-1726-SM-7DRPJ,Lung
+GTEX-WHSE-1726-SM-CLTG4,Lung
+GTEX-WHWD-0008-SM-4OOSU,Cells - Cultured fibroblasts
+GTEX-WHWD-0326-SM-3LK6L,Heart - Atrial Appendage
+GTEX-WHWD-0426-SM-3LK83,Heart - Left Ventricle
+GTEX-WHWD-1826-SM-3LK6I,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WI4N-0008-SM-4OOSV,Cells - Cultured fibroblasts
+GTEX-WI4N-0626-SM-3TW8Z,Heart - Left Ventricle
+GTEX-WI4N-0726-SM-3TW93,Heart - Atrial Appendage
+GTEX-WI4N-1026-SM-3LK7N,Skin - Sun Exposed (Lower leg)
+GTEX-WI4N-2726-SM-3LK7Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WK11-0008-SM-4OOSX,Cells - Cultured fibroblasts
+GTEX-WK11-0526-SM-3NB3O,Lung
+GTEX-WK11-0626-SM-3NMAV,Heart - Atrial Appendage
+GTEX-WK11-0826-SM-EZ6LH,Heart - Left Ventricle
+GTEX-WK11-2726-SM-3NMAQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WL46-0008-SM-4OOSW,Cells - Cultured fibroblasts
+GTEX-WL46-0726-SM-3LK5Z,Heart - Atrial Appendage
+GTEX-WL46-0926-SM-3LK7T,Heart - Left Ventricle
+GTEX-WL46-0926-SM-CYKVT,Heart - Left Ventricle
+GTEX-WL46-1026-SM-CYKVS,Lung
+GTEX-WOFL-0008-SM-4OOSZ,Cells - Cultured fibroblasts
+GTEX-WOFL-0126-SM-3MJG2,Skin - Sun Exposed (Lower leg)
+GTEX-WOFL-1226-SM-4OOST,Heart - Atrial Appendage
+GTEX-WOFM-0008-SM-4OOSY,Cells - Cultured fibroblasts
+GTEX-WOFM-0126-SM-3MJFE,Lung
+GTEX-WQUQ-0008-SM-4OOT1,Cells - Cultured fibroblasts
+GTEX-WQUQ-0426-SM-3MJFU,Skin - Sun Exposed (Lower leg)
+GTEX-WQUQ-1326-SM-3MJFF,Heart - Atrial Appendage
+GTEX-WQUQ-1426-SM-3MJFD,Heart - Left Ventricle
+GTEX-WRHK-0008-SM-4MVPA,Cells - Cultured fibroblasts
+GTEX-WRHK-1426-SM-3MJF9,Skin - Sun Exposed (Lower leg)
+GTEX-WRHU-0008-SM-4MVPB,Cells - Cultured fibroblasts
+GTEX-WRHU-0226-SM-3MJFV,Lung
+GTEX-WRHU-1026-SM-4E3ID,Heart - Atrial Appendage
+GTEX-WRHU-1226-SM-4E3IJ,Heart - Left Ventricle
+GTEX-WRHU-2826-SM-3MJG8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WVJS-0008-SM-4MVPC,Cells - Cultured fibroblasts
+GTEX-WVJS-0126-SM-4MVOT,Skin - Sun Exposed (Lower leg)
+GTEX-WVJS-0826-SM-4MVNR,Lung
+GTEX-WVLH-0008-SM-4MVPD,Cells - Cultured fibroblasts
+GTEX-WWTW-0008-SM-4MVPE,Cells - Cultured fibroblasts
+GTEX-WWYW-0008-SM-4MVPF,Cells - Cultured fibroblasts
+GTEX-WWYW-0926-SM-3NB2Z,Lung
+GTEX-WWYW-0926-SM-CYKVP,Lung
+GTEX-WWYW-1126-SM-3NB2Q,Heart - Atrial Appendage
+GTEX-WWYW-1326-SM-3NB2S,Heart - Left Ventricle
+GTEX-WWYW-1326-SM-CYKVO,Heart - Left Ventricle
+GTEX-WXYG-0008-SM-4ONDU,Cells - Cultured fibroblasts
+GTEX-WXYG-2026-SM-4E3IY,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WXYG-2326-SM-4E3I6,Skin - Sun Exposed (Lower leg)
+GTEX-WY7C-0008-SM-4ONDW,Cells - Cultured fibroblasts
+GTEX-WY7C-0426-SM-3NB3C,Lung
+GTEX-WY7C-0526-SM-3NB3D,Heart - Left Ventricle
+GTEX-WY7C-1126-SM-3NB3A,Heart - Atrial Appendage
+GTEX-WY7C-2126-SM-3NB2R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WY7C-2326-SM-3NB2U,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0008-SM-4ONDX,Cells - Cultured fibroblasts
+GTEX-WYBS-0126-SM-3PYKA,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0126-SM-3PZ7C,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0126-SM-4SVQC,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0126-SM-7DRP7,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0126-SM-CLTFZ,Skin - Sun Exposed (Lower leg)
+GTEX-WYBS-0626-SM-3NMAS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WYBS-1126-SM-3NMAM,Lung
+GTEX-WYBS-1226-SM-3NM9N,Heart - Atrial Appendage
+GTEX-WYJK-0008-SM-4ONDV,Cells - Cultured fibroblasts
+GTEX-WYJK-0126-SM-3NMAB,Skin - Sun Exposed (Lower leg)
+GTEX-WYJK-0526-SM-3NM8Z,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WYJK-0826-SM-3NM8Y,Lung
+GTEX-WYJK-1026-SM-3NM8W,Heart - Left Ventricle
+GTEX-WYJK-1126-SM-3NM9Z,Heart - Atrial Appendage
+GTEX-WYVS-0008-SM-4ONDY,Cells - Cultured fibroblasts
+GTEX-WYVS-0526-SM-3NM9W,Lung
+GTEX-WYVS-1626-SM-3NM9R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-WYVS-2126-SM-3NMA3,Skin - Sun Exposed (Lower leg)
+GTEX-WZTO-0008-SM-4PQZZ,Cells - Cultured fibroblasts
+GTEX-WZTO-0126-SM-3NM95,Skin - Sun Exposed (Lower leg)
+GTEX-WZTO-0426-SM-3NM99,Lung
+GTEX-WZTO-1226-SM-3NMAZ,Heart - Atrial Appendage
+GTEX-WZTO-1326-SM-3NM8X,Heart - Left Ventricle
+GTEX-WZTO-1326-SM-CYKUQ-ELUATE,Heart - Left Ventricle
+GTEX-WZTO-1326-SM-CYKUQ-INPUT,Heart - Left Ventricle
+GTEX-WZTO-1326-SM-CYKUQ-SUP,Heart - Left Ventricle
+GTEX-X15G-0008-SM-4PR2D,Cells - Cultured fibroblasts
+GTEX-X15G-0426-SM-4PQZ6,Heart - Left Ventricle
+GTEX-X15G-0626-SM-EVR32,Lung
+GTEX-X261-0008-SM-4PR11,Cells - Cultured fibroblasts
+GTEX-X261-0126-SM-3NMD6,Skin - Sun Exposed (Lower leg)
+GTEX-X261-0926-SM-3NMCY,Heart - Atrial Appendage
+GTEX-X261-1026-SM-3NMDL,Lung
+GTEX-X261-1426-SM-4PQZ1,Heart - Left Ventricle
+GTEX-X3Y1-0008-SM-4PR12,Cells - Cultured fibroblasts
+GTEX-X3Y1-0226-SM-3P5Z5,Heart - Atrial Appendage
+GTEX-X3Y1-0426-SM-3P5Z4,Heart - Left Ventricle
+GTEX-X3Y1-0626-SM-3P5YS,Lung
+GTEX-X3Y1-2026-SM-3P5YM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X4EO-0008-SM-4QASS,Cells - Cultured fibroblasts
+GTEX-X4EO-0326-SM-3P5YO,Skin - Sun Exposed (Lower leg)
+GTEX-X4EO-0926-SM-3P5Z2,Lung
+GTEX-X4EO-2926-SM-4E3JH,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X4EP-0008-SM-4PQYO,Cells - Cultured fibroblasts
+GTEX-X4EP-0126-SM-3P5YV,Skin - Sun Exposed (Lower leg)
+GTEX-X4EP-0326-SM-3P5Z6,Heart - Atrial Appendage
+GTEX-X4EP-0526-SM-3P5YW,Lung
+GTEX-X4EP-0626-SM-3P621,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X4LF-0008-SM-4QAST,Cells - Cultured fibroblasts
+GTEX-X4LF-0526-SM-3NMB6,Lung
+GTEX-X4XX-0008-SM-46MVK,Cells - Cultured fibroblasts
+GTEX-X4XX-0126-SM-3NMC2,Skin - Sun Exposed (Lower leg)
+GTEX-X4XX-1026-SM-4QARO,Lung
+GTEX-X4XX-1126-SM-3NMBY,Heart - Atrial Appendage
+GTEX-X4XY-0008-SM-46MVL,Cells - Cultured fibroblasts
+GTEX-X4XY-0226-SM-4E3IZ,Skin - Sun Exposed (Lower leg)
+GTEX-X4XY-1026-SM-46MVX,Lung
+GTEX-X585-0008-SM-46MU4,Cells - Cultured fibroblasts
+GTEX-X585-0226-SM-4QAS2,Skin - Sun Exposed (Lower leg)
+GTEX-X585-1026-SM-46MW6,Lung
+GTEX-X585-2426-SM-46MW2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X5EB-0008-SM-46MU3,Cells - Cultured fibroblasts
+GTEX-X5EB-0426-SM-46MVY,Lung
+GTEX-X5EB-0626-SM-46MVQ,Heart - Atrial Appendage
+GTEX-X5EB-0826-SM-46MVS,Heart - Left Ventricle
+GTEX-X5EB-1926-SM-4E3IW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X5EB-2226-SM-46MW4,Skin - Sun Exposed (Lower leg)
+GTEX-X62O-0008-SM-46MU5,Cells - Cultured fibroblasts
+GTEX-X62O-0126-SM-4E3JN,Skin - Sun Exposed (Lower leg)
+GTEX-X62O-0826-SM-46MW8,Heart - Atrial Appendage
+GTEX-X638-0008-SM-47JZ7,Cells - Cultured fibroblasts
+GTEX-X638-0126-SM-47JZ8,Skin - Sun Exposed (Lower leg)
+GTEX-X88G-0008-SM-47JWN,Cells - Cultured fibroblasts
+GTEX-X88G-0126-SM-47JZ3,Skin - Sun Exposed (Lower leg)
+GTEX-X8HC-0008-SM-46MU6,Cells - Cultured fibroblasts
+GTEX-X8HC-0126-SM-4E3JW,Skin - Sun Exposed (Lower leg)
+GTEX-X8HC-0626-SM-4E3HQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-X8HC-1026-SM-46MWH,Heart - Atrial Appendage
+GTEX-X8HC-1626-SM-46MWE,Heart - Left Ventricle
+GTEX-XAJ8-0008-SM-46MU7,Cells - Cultured fibroblasts
+GTEX-XAJ8-0826-SM-47JY6,Skin - Sun Exposed (Lower leg)
+GTEX-XAJ8-1426-SM-47JYM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XBEC-0008-SM-4AT3X,Cells - Cultured fibroblasts
+GTEX-XBEC-0726-SM-4QARZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XBEC-1026-SM-4QASM,Lung
+GTEX-XBEC-1226-SM-4AT65,Heart - Atrial Appendage
+GTEX-XBEC-1326-SM-4AT69,Heart - Left Ventricle
+GTEX-XBED-0008-SM-47JWO,Cells - Cultured fibroblasts
+GTEX-XBED-0526-SM-47JY3,Heart - Left Ventricle
+GTEX-XBED-0826-SM-47JYC,Lung
+GTEX-XBED-1926-SM-47JYP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XBED-2226-SM-47JYQ,Skin - Sun Exposed (Lower leg)
+GTEX-XBEW-0008-SM-4AT3Y,Cells - Cultured fibroblasts
+GTEX-XBEW-0226-SM-4AT6A,Lung
+GTEX-XBEW-0626-SM-4QASP,Skin - Sun Exposed (Lower leg)
+GTEX-XBEW-1126-SM-4QARW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XGQ4-0008-SM-4AT3Z,Cells - Cultured fibroblasts
+GTEX-XGQ4-0326-SM-4GIEE,Heart - Left Ventricle
+GTEX-XGQ4-0526-SM-4AT6C,Heart - Atrial Appendage
+GTEX-XGQ4-0826-SM-4AT4T,Lung
+GTEX-XK95-0008-SM-4AT5G,Cells - Cultured fibroblasts
+GTEX-XK95-0226-SM-4AT58,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XK95-0726-SM-DMRPT,Heart - Left Ventricle
+GTEX-XK95-0726-SM-DMZ3A,Heart - Left Ventricle
+GTEX-XLM4-0008-SM-4AT4W,Cells - Cultured fibroblasts
+GTEX-XLM4-1826-SM-5S2SC,Lung
+GTEX-XLM4-2026-SM-4AT4X,Heart - Atrial Appendage
+GTEX-XMD1-0008-SM-4AT41,Cells - Cultured fibroblasts
+GTEX-XMD2-0008-SM-4WWE7,Cells - Cultured fibroblasts
+GTEX-XMD2-0126-SM-4YCDU,Skin - Sun Exposed (Lower leg)
+GTEX-XMD2-1026-SM-4WWE8,Lung
+GTEX-XMD2-2126-SM-4YCF8,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XMD3-0008-SM-4AT4V,Cells - Cultured fibroblasts
+GTEX-XMK1-0008-SM-4GICF,Cells - Cultured fibroblasts
+GTEX-XOT4-0008-SM-4B664,Cells - Cultured fibroblasts
+GTEX-XOT4-0626-SM-4B66L,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XOT4-1126-SM-4B66E,Heart - Atrial Appendage
+GTEX-XOT4-1426-SM-4B65T,Lung
+GTEX-XOTO-0008-SM-4GICE,Cells - Cultured fibroblasts
+GTEX-XOTO-0126-SM-4B66N,Skin - Sun Exposed (Lower leg)
+GTEX-XOTO-0726-SM-4B659,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XPT6-0008-SM-4B64Q,Cells - Cultured fibroblasts
+GTEX-XPT6-0126-SM-4B65S,Heart - Left Ventricle
+GTEX-XPT6-0226-SM-4B65L,Heart - Atrial Appendage
+GTEX-XPVG-0008-SM-4GICH,Cells - Cultured fibroblasts
+GTEX-XPVG-0726-SM-4B658,Heart - Atrial Appendage
+GTEX-XPVG-0826-SM-4B654,Heart - Left Ventricle
+GTEX-XPVG-1026-SM-4B64Y,Lung
+GTEX-XPVG-2126-SM-4B667,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XPVG-2626-SM-4B669,Skin - Sun Exposed (Lower leg)
+GTEX-XQ3S-0008-SM-4GIDZ,Cells - Cultured fibroblasts
+GTEX-XQ3S-0526-SM-4BOQA,Heart - Atrial Appendage
+GTEX-XQ3S-0626-SM-4BOOB,Heart - Left Ventricle
+GTEX-XQ3S-0926-SM-4BOPI,Lung
+GTEX-XQ3S-1426-SM-4BOPR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XQ3S-1526-SM-4BOOC,Skin - Sun Exposed (Lower leg)
+GTEX-XQ8I-0008-SM-4WAWM,Cells - Cultured fibroblasts
+GTEX-XQ8I-0126-SM-4BOPL,Heart - Left Ventricle
+GTEX-XQ8I-0226-SM-4BOPM,Heart - Atrial Appendage
+GTEX-XQ8I-0426-SM-4BOPO,Skin - Sun Exposed (Lower leg)
+GTEX-XQ8I-0926-SM-4BOOF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XQ8I-1126-SM-4BOO2,Lung
+GTEX-XUJ4-0008-SM-4BOQI,Cells - Cultured fibroblasts
+GTEX-XUJ4-0526-SM-4BOON,Heart - Left Ventricle
+GTEX-XUJ4-0626-SM-4BOOO,Heart - Atrial Appendage
+GTEX-XUJ4-1426-SM-4BONT,Lung
+GTEX-XUJ4-1826-SM-4BOOU,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XUJ4-2426-SM-4BOO3,Skin - Sun Exposed (Lower leg)
+GTEX-XUW1-0008-SM-4BOQH,Cells - Cultured fibroblasts
+GTEX-XUW1-0426-SM-4BOOT,Skin - Sun Exposed (Lower leg)
+GTEX-XUW1-0926-SM-4BONX,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XUYS-0008-SM-47JYZ,Cells - Cultured fibroblasts
+GTEX-XUYS-0126-SM-47JWZ,Skin - Sun Exposed (Lower leg)
+GTEX-XUZC-0008-SM-4BOQG,Cells - Cultured fibroblasts
+GTEX-XUZC-1726-SM-4BRWS,Skin - Sun Exposed (Lower leg)
+GTEX-XV7Q-0008-SM-4BRWL,Cells - Cultured fibroblasts
+GTEX-XV7Q-0426-SM-4BRVN,Lung
+GTEX-XV7Q-0726-SM-4BRV6,Heart - Atrial Appendage
+GTEX-XV7Q-0826-SM-4BRV7,Heart - Left Ventricle
+GTEX-XV7Q-1826-SM-4BRUV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XV7Q-2526-SM-4BRV9,Skin - Sun Exposed (Lower leg)
+GTEX-XXEK-0008-SM-4BRW7,Cells - Cultured fibroblasts
+GTEX-XXEK-0626-SM-4BRWE,Lung
+GTEX-XXEK-0626-SM-5S2SZ,Lung
+GTEX-XXEK-0926-SM-4BRWH,Heart - Left Ventricle
+GTEX-XXEK-0926-SM-5S2T8,Heart - Left Ventricle
+GTEX-XXEK-1626-SM-4BRUZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XXEK-2026-SM-4BRVE,Heart - Atrial Appendage
+GTEX-XXEK-2226-SM-4BRUM,Skin - Sun Exposed (Lower leg)
+GTEX-XXEK-2226-SM-5S2SA,Skin - Sun Exposed (Lower leg)
+GTEX-XYKS-0008-SM-4BRW6,Cells - Cultured fibroblasts
+GTEX-XYKS-0226-SM-4BRW3,Heart - Atrial Appendage
+GTEX-XYKS-0526-SM-4BRW2,Lung
+GTEX-XYKS-1426-SM-4BRUO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-XYKS-2126-SM-4E3IB,Skin - Sun Exposed (Lower leg)
+GTEX-Y111-0008-SM-4SOJ3,Cells - Cultured fibroblasts
+GTEX-Y111-0126-SM-4SOIV,Skin - Sun Exposed (Lower leg)
+GTEX-Y111-0626-SM-4SOIT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y111-1026-SM-4TT22,Lung
+GTEX-Y114-0008-SM-4TT8X,Cells - Cultured fibroblasts
+GTEX-Y114-0126-SM-4TT8K,Heart - Atrial Appendage
+GTEX-Y114-0226-SM-4TT8W,Heart - Left Ventricle
+GTEX-Y114-2126-SM-4TT8B,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y114-2426-SM-4TT8A,Skin - Sun Exposed (Lower leg)
+GTEX-Y3I4-0008-SM-4TT21,Cells - Cultured fibroblasts
+GTEX-Y3I4-0426-SM-4TT29,Lung
+GTEX-Y3I4-0526-SM-4TT6X,Heart - Atrial Appendage
+GTEX-Y3I4-0626-SM-4TT7A,Heart - Left Ventricle
+GTEX-Y3I4-1726-SM-4TT89,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y3I4-1726-SM-CKJTB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y3I4-2126-SM-4TT7C,Skin - Sun Exposed (Lower leg)
+GTEX-Y3IK-0008-SM-4WWDZ,Cells - Cultured fibroblasts
+GTEX-Y3IK-0626-SM-4WWE4,Lung
+GTEX-Y3IK-0826-SM-51MT8,Heart - Left Ventricle
+GTEX-Y3IK-1026-SM-51MR7,Heart - Atrial Appendage
+GTEX-Y3IK-1626-SM-4YCF5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y3IK-2426-SM-4WWDU,Skin - Sun Exposed (Lower leg)
+GTEX-Y5LM-0726-SM-4VBRP,Lung
+GTEX-Y5LM-0926-SM-6LLJG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y5LM-1926-SM-5RQJH,Skin - Sun Exposed (Lower leg)
+GTEX-Y5V5-0126-SM-5S2NW,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y5V5-0626-SM-4VBPX,Heart - Left Ventricle
+GTEX-Y5V5-0726-SM-4VBPY,Heart - Atrial Appendage
+GTEX-Y5V5-0826-SM-4VBQD,Lung
+GTEX-Y5V5-2326-SM-4V6GA,Skin - Sun Exposed (Lower leg)
+GTEX-Y5V6-0008-SM-4V6FV,Cells - Cultured fibroblasts
+GTEX-Y5V6-0226-SM-4V6G7,Lung
+GTEX-Y5V6-0826-SM-4VBRU,Heart - Left Ventricle
+GTEX-Y5V6-2326-SM-4VDSA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y5V6-2426-SM-4VDSB,Skin - Sun Exposed (Lower leg)
+GTEX-Y8DK-0008-SM-4RGM2,Cells - Cultured fibroblasts
+GTEX-Y8DK-0126-SM-4TT3L,Skin - Sun Exposed (Lower leg)
+GTEX-Y8E4-0008-SM-4V6FW,Cells - Cultured fibroblasts
+GTEX-Y8E4-0326-SM-4VBRR,Heart - Left Ventricle
+GTEX-Y8E4-0426-SM-4V6GB,Heart - Atrial Appendage
+GTEX-Y8E4-0526-SM-4V6GC,Lung
+GTEX-Y8E4-0626-SM-4WWDL,Skin - Sun Exposed (Lower leg)
+GTEX-Y8E4-2026-SM-5IFJB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y8E5-0008-SM-57WBA,Cells - Cultured fibroblasts
+GTEX-Y8LW-0008-SM-4V6G5,Cells - Cultured fibroblasts
+GTEX-Y8LW-0326-SM-4VBQ9,Lung
+GTEX-Y8LW-1526-SM-5IFHL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Y8LW-1826-SM-5S2MV,Skin - Sun Exposed (Lower leg)
+GTEX-Y9LG-0008-SM-4VBRJ,Cells - Cultured fibroblasts
+GTEX-Y9LG-0526-SM-4VBRY,Lung
+GTEX-Y9LG-1126-SM-4VBQ7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YB5E-0008-SM-4VDT7,Cells - Cultured fibroblasts
+GTEX-YB5E-0726-SM-4VDSH,Lung
+GTEX-YB5E-2026-SM-5IFIS,Skin - Sun Exposed (Lower leg)
+GTEX-YB5K-0008-SM-4VDT8,Cells - Cultured fibroblasts
+GTEX-YB5K-0126-SM-5IFJ2,Heart - Left Ventricle
+GTEX-YB5K-0226-SM-5IFJE,Heart - Atrial Appendage
+GTEX-YB5K-2026-SM-4VDT3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YB5K-2126-SM-4WWDJ,Skin - Sun Exposed (Lower leg)
+GTEX-YBZK-0008-SM-59HL6,Cells - Cultured fibroblasts
+GTEX-YEC3-0008-SM-4W1YF,Cells - Cultured fibroblasts
+GTEX-YEC3-0226-SM-5IFJO,Lung
+GTEX-YEC3-0226-SM-DO11B,Lung
+GTEX-YEC3-0426-SM-4YCEP,Heart - Atrial Appendage
+GTEX-YEC3-0426-SM-5IFK1,Heart - Atrial Appendage
+GTEX-YEC3-0426-SM-CYPS8,Heart - Atrial Appendage
+GTEX-YEC3-0726-SM-4YCD1,Heart - Left Ventricle
+GTEX-YEC3-0726-SM-5IFIW,Heart - Left Ventricle
+GTEX-YEC3-0726-SM-CMKFH,Heart - Left Ventricle
+GTEX-YEC3-1326-SM-4WWEL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YEC3-1326-SM-5PNXV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YEC3-1326-SM-DO92X,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YEC3-1826-101807-SM-EYYVR,Skin - Sun Exposed (Lower leg)
+GTEX-YEC4-0008-SM-4W1YR,Cells - Cultured fibroblasts
+GTEX-YEC4-0226-SM-4W1YG,Heart - Atrial Appendage
+GTEX-YEC4-0326-SM-4W216,Heart - Left Ventricle
+GTEX-YEC4-0526-SM-4W21U,Lung
+GTEX-YEC4-0526-SM-CKJTE,Lung
+GTEX-YEC4-1826-SM-4W1YP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YEC4-2126-101817-SM-EYYVS,Skin - Sun Exposed (Lower leg)
+GTEX-YEC4-2126-SM-5IFJH,Skin - Sun Exposed (Lower leg)
+GTEX-YECK-0008-SM-4W1ZG,Cells - Cultured fibroblasts
+GTEX-YECK-0326-SM-4W1YS,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YECK-0926-SM-4W214,Lung
+GTEX-YECK-1226-SM-4W21G,Heart - Atrial Appendage
+GTEX-YF7O-0008-SM-4W1ZS,Cells - Cultured fibroblasts
+GTEX-YF7O-0426-SM-5P9FS,Heart - Left Ventricle
+GTEX-YF7O-0526-SM-5P9IO,Heart - Atrial Appendage
+GTEX-YF7O-0626-SM-4W21R,Lung
+GTEX-YF7O-1526-SM-5IFI6,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YF7O-2326-101833-SM-5CVN9,Skin - Sun Exposed (Lower leg)
+GTEX-YFC4-0008-SM-4RGM3,Cells - Cultured fibroblasts
+GTEX-YFC4-0126-101855-SM-5CVLZ,Skin - Sun Exposed (Lower leg)
+GTEX-YFC4-0126-SM-5CVLY,Skin - Sun Exposed (Lower leg)
+GTEX-YFC4-0426-SM-4TT3J,Heart - Atrial Appendage
+GTEX-YFC4-0526-SM-5ZZVI,Heart - Left Ventricle
+GTEX-YFC4-1126-SM-5RQJN,Lung
+GTEX-YFCO-0008-SM-4W1Z4,Cells - Cultured fibroblasts
+GTEX-YFCO-0426-SM-4W1Z7,Lung
+GTEX-YFCO-1226-SM-5LUAT,Skin - Not Sun Exposed (Suprapubic)
+GTEX-YJ89-0008-SM-4RGM4,Cells - Cultured fibroblasts
+GTEX-YJ89-0126-SM-4TT3X,Skin - Sun Exposed (Lower leg)
+GTEX-YJ8A-0426-SM-5IFID,Skin - Sun Exposed (Lower leg)
+GTEX-YJ8O-0826-SM-5CVM3,Heart - Atrial Appendage
+GTEX-YJ8O-0926-SM-EAZ2Z,Heart - Left Ventricle
+GTEX-YJ8O-1826-SM-5HL82,Lung
+GTEX-YJ8O-2526-SM-5HL85,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Z93S-0008-SM-4RGM5,Cells - Cultured fibroblasts
+GTEX-Z93S-0126-SM-5HL7M,Skin - Sun Exposed (Lower leg)
+GTEX-Z93S-0326-SM-5HL84,Heart - Atrial Appendage
+GTEX-Z93S-1626-SM-5CVMB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-Z93T-0126-SM-5HL5N,Skin - Sun Exposed (Lower leg)
+GTEX-Z9EW-1626-SM-5CVMN,Skin - Sun Exposed (Lower leg)
+GTEX-ZA64-0326-SM-5HL8T,Lung
+GTEX-ZA64-1026-SM-5HL8R,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZAB4-0008-SM-4RGM6,Cells - Cultured fibroblasts
+GTEX-ZAB4-0226-SM-5N9F5,Skin - Sun Exposed (Lower leg)
+GTEX-ZAB4-0626-SM-5CVN3,Lung
+GTEX-ZAB4-0926-SM-5CVN4,Heart - Atrial Appendage
+GTEX-ZAB4-1026-SM-5HL7T,Heart - Left Ventricle
+GTEX-ZAB4-2126-SM-5HL8U,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZAB5-0126-SM-5CVMT,Heart - Atrial Appendage
+GTEX-ZAB5-0226-SM-5CVMH,Heart - Left Ventricle
+GTEX-ZAB5-0626-SM-5PNVB,Lung
+GTEX-ZAB5-1826-SM-5HL7C,Skin - Sun Exposed (Lower leg)
+GTEX-ZAB5-2626-SM-5KM3Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZAJG-0126-SM-5HL94,Skin - Sun Exposed (Lower leg)
+GTEX-ZAJG-0826-SM-5PNVA,Heart - Left Ventricle
+GTEX-ZAJG-0926-SM-5Q5AB,Heart - Atrial Appendage
+GTEX-ZAJG-1526-SM-5CVML,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZAK1-0126-SM-5IJD3,Skin - Sun Exposed (Lower leg)
+GTEX-ZAK1-0626-SM-5HL8E,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZAK1-1126-SM-5PNXU,Heart - Atrial Appendage
+GTEX-ZC5H-0008-SM-4WAX8,Cells - Cultured fibroblasts
+GTEX-ZC5H-0226-SM-4WAY9,Skin - Sun Exposed (Lower leg)
+GTEX-ZC5H-0926-SM-5CVMZ,Lung
+GTEX-ZC5H-1526-SM-5HL9Y,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZDTS-0008-SM-4E3I8,Cells - Cultured fibroblasts
+GTEX-ZDTS-0126-SM-4WAY5,Skin - Sun Exposed (Lower leg)
+GTEX-ZDTS-0826-SM-4WKHL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZDTS-1026-SM-4WAXS,Lung
+GTEX-ZDTS-1226-SM-4WKGL,Heart - Atrial Appendage
+GTEX-ZDTS-1326-SM-4WKGX,Heart - Left Ventricle
+GTEX-ZDTS-1326-SM-6LLHE,Heart - Left Ventricle
+GTEX-ZDTS-1326-SM-6M462,Heart - Left Ventricle
+GTEX-ZDTT-0008-SM-4E3K5,Cells - Cultured fibroblasts
+GTEX-ZDTT-0326-SM-4WKF9,Heart - Atrial Appendage
+GTEX-ZDTT-0426-SM-4WKFL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZDTT-0726-SM-4WKFK,Heart - Left Ventricle
+GTEX-ZDTT-0926-SM-5J2MS,Lung
+GTEX-ZDTT-2726-SM-4WKF8,Skin - Sun Exposed (Lower leg)
+GTEX-ZDXO-0008-SM-4E3HR,Cells - Cultured fibroblasts
+GTEX-ZDXO-0426-SM-4WKF6,Heart - Atrial Appendage
+GTEX-ZDXO-0726-SM-57WBT,Heart - Left Ventricle
+GTEX-ZDXO-1326-SM-57WBS,Lung
+GTEX-ZDXO-1326-SM-CYKQX,Lung
+GTEX-ZDXO-3026-SM-5J1N5,Skin - Sun Exposed (Lower leg)
+GTEX-ZDXO-3126-SM-5IJDF,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZDYS-0008-SM-4E3IX,Cells - Cultured fibroblasts
+GTEX-ZDYS-0226-SM-5HL4K,Heart - Left Ventricle
+GTEX-ZDYS-0326-SM-5HL4W,Heart - Atrial Appendage
+GTEX-ZDYS-0426-SM-5IJEQ,Lung
+GTEX-ZDYS-2026-SM-5HL5L,Skin - Sun Exposed (Lower leg)
+GTEX-ZDYS-2426-SM-4WKGI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZE7O-0008-SM-4E3JQ,Cells - Cultured fibroblasts
+GTEX-ZE7O-0126-SM-57WC1,Skin - Sun Exposed (Lower leg)
+GTEX-ZE7O-0626-SM-57WCD,Heart - Atrial Appendage
+GTEX-ZE7O-0826-SM-57WCP,Lung
+GTEX-ZE7O-2726-SM-51MT5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZE9C-0008-SM-4E3K6,Cells - Cultured fibroblasts
+GTEX-ZE9C-2526-SM-5IJDR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZE9C-2726-SM-57WB5,Skin - Sun Exposed (Lower leg)
+GTEX-ZEX8-0008-SM-4E3JU,Cells - Cultured fibroblasts
+GTEX-ZEX8-0326-SM-4WKGS,Heart - Atrial Appendage
+GTEX-ZEX8-0326-SM-DO92C,Heart - Atrial Appendage
+GTEX-ZEX8-0426-SM-4WWEN,Heart - Left Ventricle
+GTEX-ZEX8-0426-SM-DO92Y,Heart - Left Ventricle
+GTEX-ZEX8-0526-SM-4WKH5,Lung
+GTEX-ZEX8-0526-SM-DO115,Lung
+GTEX-ZEX8-2426-SM-4WKG4,Skin - Sun Exposed (Lower leg)
+GTEX-ZF28-0008-SM-4E3K3,Cells - Cultured fibroblasts
+GTEX-ZF28-0126-SM-4WKGK,Skin - Sun Exposed (Lower leg)
+GTEX-ZF28-0726-SM-4WKFU,Lung
+GTEX-ZF28-0726-SM-CYKR3,Lung
+GTEX-ZF29-0226-SM-4WKHO,Heart - Left Ventricle
+GTEX-ZF29-0426-SM-4WKFN,Heart - Atrial Appendage
+GTEX-ZF29-0926-SM-4WKFZ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZF29-1026-SM-4WKGC,Lung
+GTEX-ZF29-2326-SM-DO92K,Skin - Sun Exposed (Lower leg)
+GTEX-ZF2S-0008-SM-4E3IK,Cells - Cultured fibroblasts
+GTEX-ZF2S-0626-SM-4WKH2,Lung
+GTEX-ZF2S-0826-SM-4WWBI,Heart - Atrial Appendage
+GTEX-ZF2S-1026-SM-4WWB1,Heart - Left Ventricle
+GTEX-ZF2S-1026-SM-7KFSP,Heart - Left Ventricle
+GTEX-ZF2S-1026-SM-9QEGK,Heart - Left Ventricle
+GTEX-ZF2S-1626-SM-57WES,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZF2S-2326-SM-4WWCE,Skin - Sun Exposed (Lower leg)
+GTEX-ZF3C-0008-SM-4E3IL,Cells - Cultured fibroblasts
+GTEX-ZF3C-0126-SM-DO92D,Skin - Sun Exposed (Lower leg)
+GTEX-ZF3C-0626-SM-DO92O,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZF3C-0926-SM-DO92P,Lung
+GTEX-ZF3C-1126-SM-57WEG,Heart - Atrial Appendage
+GTEX-ZF3C-1226-SM-4WWCB,Heart - Left Ventricle
+GTEX-ZG7Y-0926-SM-5EQ6O,Heart - Left Ventricle
+GTEX-ZG7Y-1026-SM-4WWDG,Lung
+GTEX-ZG7Y-1426-SM-4WWBM,Heart - Atrial Appendage
+GTEX-ZGAY-0226-SM-4WWAL,Heart - Atrial Appendage
+GTEX-ZGAY-0326-SM-57WF5,Heart - Left Ventricle
+GTEX-ZGAY-0526-SM-4WWBB,Skin - Sun Exposed (Lower leg)
+GTEX-ZGAY-1826-SM-DO91Q,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZLFU-0226-SM-4WWFH,Heart - Left Ventricle
+GTEX-ZLFU-0326-SM-4WWBK,Heart - Atrial Appendage
+GTEX-ZLFU-1826-SM-4WWBV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZLV1-0426-SM-4WWC2,Lung
+GTEX-ZLV1-1526-SM-4WWBC,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZLV1-1526-SM-DO91J,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZLWG-0008-SM-4E3J4,Cells - Cultured fibroblasts
+GTEX-ZLWG-0626-SM-4WWFR,Lung
+GTEX-ZLWG-0826-SM-59888,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZP4G-0008-SM-4E3I4,Cells - Cultured fibroblasts
+GTEX-ZP4G-1426-SM-4WWCL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZP4G-2426-SM-57WEY,Skin - Sun Exposed (Lower leg)
+GTEX-ZPCL-0008-SM-4WWAU,Cells - Cultured fibroblasts
+GTEX-ZPCL-0426-SM-DNZZ4,Heart - Left Ventricle
+GTEX-ZPCL-0526-SM-DO91R,Heart - Atrial Appendage
+GTEX-ZPCL-0926-SM-DNZZ8,Lung
+GTEX-ZPCL-1126-SM-4WWFE,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZPIC-0008-SM-4E3JF,Cells - Cultured fibroblasts
+GTEX-ZPIC-0426-SM-DO91V,Heart - Atrial Appendage
+GTEX-ZPIC-0526-SM-DO91W,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZPIC-0626-SM-57WDY,Lung
+GTEX-ZPIC-0826-SM-4WWFJ,Heart - Left Ventricle
+GTEX-ZPIC-1726-SM-57WF2,Skin - Sun Exposed (Lower leg)
+GTEX-ZPIC-1726-SM-CKJTG,Skin - Sun Exposed (Lower leg)
+GTEX-ZPIC-1726-SM-DHXIU,Skin - Sun Exposed (Lower leg)
+GTEX-ZPU1-0008-SM-4E3IR,Cells - Cultured fibroblasts
+GTEX-ZPU1-0626-SM-4YCDM,Heart - Left Ventricle
+GTEX-ZPU1-0726-SM-5HL6O,Heart - Atrial Appendage
+GTEX-ZPU1-0926-SM-57WDO,Lung
+GTEX-ZPU1-1126-SM-4YCF3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZQG8-0008-SM-4E3J9,Cells - Cultured fibroblasts
+GTEX-ZQG8-0008-SM-4YCE7,Cells - Cultured fibroblasts
+GTEX-ZQG8-0008-SM-C1YPW,Cells - Cultured fibroblasts
+GTEX-ZQG8-0326-SM-51MSE,Lung
+GTEX-ZQG8-1626-SM-5HL6H,Skin - Sun Exposed (Lower leg)
+GTEX-ZQG8-1626-SM-CKJTC,Skin - Sun Exposed (Lower leg)
+GTEX-ZQG8-1626-SM-DHXIT,Skin - Sun Exposed (Lower leg)
+GTEX-ZQG8-1926-SM-4YCEO,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZQUD-0008-SM-4YCCU,Cells - Cultured fibroblasts
+GTEX-ZQUD-1426-SM-57WER,Skin - Sun Exposed (Lower leg)
+GTEX-ZQUD-1526-SM-51MRE,Heart - Left Ventricle
+GTEX-ZQUD-1526-SM-7EWD9,Heart - Left Ventricle
+GTEX-ZQUD-1526-SM-7IGO2,Heart - Left Ventricle
+GTEX-ZT9W-0008-SM-4YCDJ,Cells - Cultured fibroblasts
+GTEX-ZT9W-0526-SM-57WFG,Heart - Atrial Appendage
+GTEX-ZT9W-0726-SM-4YCDC,Lung
+GTEX-ZT9W-0726-SM-9JGG2,Lung
+GTEX-ZT9W-1126-SM-57WDR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZT9W-2426-SM-57WFJ,Skin - Sun Exposed (Lower leg)
+GTEX-ZT9X-0008-SM-4YCD7,Cells - Cultured fibroblasts
+GTEX-ZT9X-0326-SM-51MTE,Lung
+GTEX-ZT9X-1526-SM-5DUXD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZTPG-0008-SM-4YCEK,Cells - Cultured fibroblasts
+GTEX-ZTPG-0326-SM-5O9AX,Skin - Sun Exposed (Lower leg)
+GTEX-ZTPG-0926-SM-5O99H,Lung
+GTEX-ZTPG-1226-SM-4YCDO,Heart - Left Ventricle
+GTEX-ZTPG-1326-SM-51MSQ,Heart - Atrial Appendage
+GTEX-ZTSS-0008-SM-4YCE8,Cells - Cultured fibroblasts
+GTEX-ZTSS-1426-SM-5985P,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZTSS-1926-SM-57WEW,Skin - Sun Exposed (Lower leg)
+GTEX-ZTTD-0008-SM-51MQV,Cells - Cultured fibroblasts
+GTEX-ZTTD-0526-SM-57WDV,Heart - Left Ventricle
+GTEX-ZTTD-0626-SM-4YCCY,Heart - Atrial Appendage
+GTEX-ZTTD-1126-SM-51MRP,Lung
+GTEX-ZTTD-2826-SM-4YCFA,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZTX8-0008-SM-4YCDV,Cells - Cultured fibroblasts
+GTEX-ZTX8-1326-SM-4YCEL,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZTX8-1426-SM-5DUVO,Skin - Sun Exposed (Lower leg)
+GTEX-ZU9S-0226-SM-5E441,Skin - Sun Exposed (Lower leg)
+GTEX-ZU9S-1826-SM-5NQ9E,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZUA1-0008-SM-4YCEW,Cells - Cultured fibroblasts
+GTEX-ZUA1-0126-SM-5GU76,Skin - Sun Exposed (Lower leg)
+GTEX-ZUA1-0726-SM-4YCD9,Heart - Atrial Appendage
+GTEX-ZUA1-0826-SM-4YCDL,Heart - Left Ventricle
+GTEX-ZUA1-1026-SM-4YCEA,Lung
+GTEX-ZUA1-2626-SM-5NQ92,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZV68-0008-SM-4YCCV,Cells - Cultured fibroblasts
+GTEX-ZV68-0126-SM-59HKS,Skin - Sun Exposed (Lower leg)
+GTEX-ZV68-0626-SM-CYKQW,Lung
+GTEX-ZV6S-0008-SM-4YCF9,Cells - Cultured fibroblasts
+GTEX-ZV6S-2326-SM-4YCEY,Skin - Sun Exposed (Lower leg)
+GTEX-ZV7C-0008-SM-57WCL,Cells - Cultured fibroblasts
+GTEX-ZV7C-0326-SM-57WB1,Heart - Left Ventricle
+GTEX-ZV7C-0526-SM-51MRB,Heart - Atrial Appendage
+GTEX-ZV7C-0526-SM-9WPNK,Heart - Atrial Appendage
+GTEX-ZV7C-0926-SM-59HL1,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVE1-0008-SM-51MS9,Cells - Cultured fibroblasts
+GTEX-ZVE1-0726-SM-51MRN,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVE2-0008-SM-51MRU,Cells - Cultured fibroblasts
+GTEX-ZVE2-0226-SM-59HJB,Skin - Sun Exposed (Lower leg)
+GTEX-ZVE2-2826-SM-5GU51,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVP2-0008-SM-51MSL,Cells - Cultured fibroblasts
+GTEX-ZVP2-0326-SM-57WBP,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVT2-0008-SM-57WC9,Cells - Cultured fibroblasts
+GTEX-ZVT2-0126-SM-5GIDQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVT2-0926-SM-5GICE,Heart - Atrial Appendage
+GTEX-ZVT2-1026-SM-5GU55,Heart - Left Ventricle
+GTEX-ZVT2-2526-SM-51MT1,Skin - Sun Exposed (Lower leg)
+GTEX-ZVT3-0008-SM-51MRI,Cells - Cultured fibroblasts
+GTEX-ZVT3-0126-SM-5GU6I,Skin - Sun Exposed (Lower leg)
+GTEX-ZVT3-0826-SM-5GIC8,Heart - Atrial Appendage
+GTEX-ZVT3-0926-SM-5GICK,Lung
+GTEX-ZVT4-0008-SM-57WCA,Cells - Cultured fibroblasts
+GTEX-ZVT4-0126-SM-51MS1,Skin - Sun Exposed (Lower leg)
+GTEX-ZVT4-0126-SM-DTXFN,Skin - Sun Exposed (Lower leg)
+GTEX-ZVT4-1326-SM-5NQ8E,Heart - Atrial Appendage
+GTEX-ZVT4-2426-SM-5GIEI,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVTK-0008-SM-57WDA,Cells - Cultured fibroblasts
+GTEX-ZVTK-0226-SM-51MRG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVTK-0426-SM-51MRS,Skin - Sun Exposed (Lower leg)
+GTEX-ZVZO-0126-SM-5A5L9,Skin - Sun Exposed (Lower leg)
+GTEX-ZVZP-0008-SM-51MSX,Cells - Cultured fibroblasts
+GTEX-ZVZP-0226-SM-5NQ73,Heart - Left Ventricle
+GTEX-ZVZP-1226-SM-5GID7,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVZP-2426-SM-59HKJ,Skin - Sun Exposed (Lower leg)
+GTEX-ZVZQ-0008-SM-51MSK,Cells - Cultured fibroblasts
+GTEX-ZVZQ-0326-SM-59HLL,Skin - Sun Exposed (Lower leg)
+GTEX-ZVZQ-0726-SM-51MR3,Heart - Atrial Appendage
+GTEX-ZVZQ-1526-SM-5N9G6,Lung
+GTEX-ZWKS-0126-SM-5SIAA,Skin - Sun Exposed (Lower leg)
+GTEX-ZWKS-0626-SM-5GIDV,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZXES-0008-SM-57WCX,Cells - Cultured fibroblasts
+GTEX-ZXES-1826-SM-5E43S,Skin - Sun Exposed (Lower leg)
+GTEX-ZXG5-0008-SM-57WDB,Cells - Cultured fibroblasts
+GTEX-ZXG5-0126-SM-5GIEU,Skin - Sun Exposed (Lower leg)
+GTEX-ZXG5-0626-SM-5NQ85,Heart - Atrial Appendage
+GTEX-ZXG5-0826-SM-5GID6,Lung
+GTEX-ZXG5-2126-SM-59HKD,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZY6K-0326-SM-5SIBB,Lung
+GTEX-ZY6K-1426-SM-5GZX2,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZY6K-1826-SM-5GZXK,Skin - Sun Exposed (Lower leg)
+GTEX-ZYFC-0226-SM-5NQ75,Skin - Sun Exposed (Lower leg)
+GTEX-ZYFC-0426-SM-5GICQ,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYFC-1026-SM-5GZX9,Heart - Atrial Appendage
+GTEX-ZYFC-1126-SM-5E44W,Heart - Left Ventricle
+GTEX-ZYFD-0126-SM-5GIDL,Skin - Sun Exposed (Lower leg)
+GTEX-ZYFD-0626-SM-5E44E,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYFD-2026-SM-5E459,Heart - Atrial Appendage
+GTEX-ZYFG-0226-SM-5GIDT,Lung
+GTEX-ZYFG-0426-SM-5E43M,Heart - Left Ventricle
+GTEX-ZYFG-0526-SM-5GZXX,Heart - Atrial Appendage
+GTEX-ZYFG-1526-SM-5GZYM,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYFG-2326-SM-5E44B,Skin - Sun Exposed (Lower leg)
+GTEX-ZYT6-0226-SM-5NQ6T,Skin - Sun Exposed (Lower leg)
+GTEX-ZYT6-0526-SM-5GIEA,Lung
+GTEX-ZYT6-0926-SM-5GIEM,Heart - Atrial Appendage
+GTEX-ZYT6-1726-SM-5E44P,Heart - Left Ventricle
+GTEX-ZYT6-2326-SM-5GZY3,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYVF-0926-SM-5E44J,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYVF-1726-SM-5E443,Lung
+GTEX-ZYVF-1826-SM-5E44F,Heart - Atrial Appendage
+GTEX-ZYW4-0126-SM-5E44A,Skin - Sun Exposed (Lower leg)
+GTEX-ZYW4-0626-SM-59HJR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYW4-0926-SM-59HJS,Heart - Left Ventricle
+GTEX-ZYW4-1026-SM-5SI8W,Heart - Atrial Appendage
+GTEX-ZYW4-1526-SM-5SIBA,Lung
+GTEX-ZYWO-0526-SM-5E45I,Heart - Atrial Appendage
+GTEX-ZYWO-0626-SM-5E45K,Heart - Left Ventricle
+GTEX-ZYWO-0826-SM-5E45W,Lung
+GTEX-ZYWO-2226-SM-5GZXR,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZYY3-0126-SM-5GZY5,Skin - Sun Exposed (Lower leg)
+GTEX-ZYY3-0926-SM-5E454,Lung
+GTEX-ZYY3-2926-SM-5GIEB,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZZ64-1026-SM-5GZXG,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZZ64-1726-SM-5GZYB,Skin - Sun Exposed (Lower leg)
+GTEX-ZZPT-0226-SM-5E43X,Skin - Sun Exposed (Lower leg)
+GTEX-ZZPT-0926-SM-5GICZ,Heart - Atrial Appendage
+GTEX-ZZPT-1326-SM-5E43H,Lung
+GTEX-ZZPU-0526-SM-5E44U,Lung
+GTEX-ZZPU-0826-SM-5GZX5,Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZZPU-0926-SM-5GZYT,Heart - Left Ventricle
+GTEX-ZZPU-1126-SM-5N9CW,Heart - Atrial Appendage

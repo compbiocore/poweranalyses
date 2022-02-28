@@ -1,10 +1,10 @@
 ---
 title: "Lung vs Heart Power Analysis"
 output:
+  pdf_document: default
+  html_notebook: default
   html_document:
     df_print: paged
-  html_notebook: default
-  pdf_document: default
 bibliography: heart_lung_skin.bib
 ---
 
@@ -49,6 +49,10 @@ tissue_map <- read.delim("GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt")
 # x Columns `GTEX-111FC-0826-SM-CYKRT`, `GTEX-11ZTT-5001-SM-AN3YD`, `GTEX-1211K-5001-SM-AN3X5`, `GTEX-12BJ1-5001-SM-AN3X8`, `GTEX-12WSG-5001-SM-AN3X9`, etc. don't exist.
 # Run `rlang::last_error()` to see where the error occurred.
 # filter(tissue_map, SAMPID=="GTEX-111FC-0826-SM-CYKRT") shows that it's RIPseq under the column SMGEBTCHT. Looking at the sample attributes data dictionary (see GTEx portal) it indicates type of genotype or expression batch/tech used to analyze DNA/RNA. Also looking further several samples from tissue map for heat/lung/skin are not present in data matrix, they are all ones with different sequencing tech
+
+# comprehensive pathway
+# ECM difficult protein to analyze in proteomics, because of insolubility
+# only in past few years have been able to make soluble and analyze
 ```
 
 ## Pathway parsing
@@ -59,20 +63,25 @@ pathway_genes <- pathway_csv$Submitted.entities.found %>% as.character %>% strsp
 all(pathway_genes %in% proteome_xlsx$Gene) # not all of the genes in the pathway entities are in the proteome gene list
 ```
 
+NOTES:
+
+ * Combine because significant overlap between the 2
+
 ## Genelist questions
 
  * Many of the genes in the proteome excel sheet don't have ensembl ids associated with them. Why is that? Where did this data come from? `r head(proteome_xlsx) %>% select(Gene:uniprotIDs)`
  * There are 599 pathways, which only translates into `r pathway_genes %>% length` genes, not all of which are found in the proteome gene list.
+
  
 ## Lung vs heart
 
-RNAseqsamplesize [@Zhao2018] was used to do the analysis. With expected fold change between groups = 2, FDR set = 0.01 and number of samples = 5, power was computed to be 0.029 for the selected genes of interest which is poor. Some gene IDs pulled from Biomart are not in the dataset because they are alleles on alternative sequences (i.e. rapsn and Fbxo32) Dispersion was also computed as 0.3663078.
+RNAseqsamplesize [@Zhao2018] was used to do the analysis. With expected fold change between groups = 2, FDR set = 0.01 and number of samples = 5, power was computed to be 0.029 for the selected genes of interest which is poor. Some gene IDs pulled from Biomart are not in the dataset. Dispersion was also computed as 0.3663078.
 
 ```{r, power_lung_heart, tidy=TRUE, warning=FALSE}
 heart_left_vent <- filter(tissue_map, SMTSD=="Heart - Left Ventricle")$SAMPID %>% as.character
 lung <- filter(tissue_map, SMTSD=="Lung")$SAMPID %>% as.character
 lung_heart <- select(data, Name, Description, any_of(c(heart_left_vent, lung)))
-lh_datamat <- data.matrix(lung_heart[,3:length(colnames(lung_heart))])
+lh_datamat <- type_convert(lung_heart[,3:length(colnames(lung_heart))]) %>% data.matrix
 rownames(lh_datamat) <- lung_heart$Name
 
 # estimate gene read count and dispersion distribution
