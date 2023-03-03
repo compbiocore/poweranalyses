@@ -1,0 +1,181 @@
+---
+title: "Power analyses for genomic counts data"
+author: August Guang
+format: revealjs
+code-fold: true
+code-summary: "Show the code"
+editor: visual
+execute-dir: file
+---
+
+## Some preamble
+
+-   Slides and all examples in more detail as their own Rmd notebooks available at: https://github.com/compbiocore/poweranalyses
+
+-   Navigating to http://ccv.jupyter.brown.edu will provide an environment with all packages needed for these power analyses already installed
+
+-   You can also follow along on your own desktop if you have R and these packages
+
+-   Microbiome example is also available at https://github.com/compbiocore/metagenomics-power-analyses-tutorial
+
+## What are power analyses?
+
+-   Power: The probability of detecting an effect if it is really there
+
+-   Simple example:
+
+    -   Hypothesis: High expression of gene A is associated with condition
+
+    -   Study: 2 groups, 1 group with condition and 1 group without
+
+    -   If we have a power of 80%, then 80% of the time we would see gene A be statistically differentially expressed between the 2 groups, and 20% time we would *not* see gene A be differentially expressed even though it is there in reality, i.e. false negatives
+
+## Why should you do them?
+
+-   Questions you can answer with a power analysis:
+
+    -   How many samples do I need to detect this effect with high probability?
+
+    -   If I have this many samples (and know the effect size), how much power will I have to detect the effect?
+
+-   Grant proposals often require them
+
+-   You probably do not want to get a false negative in your study so you want to have sufficient power
+
+-   Low power is also tied to non-reproducibility of studies
+
+    -   The lower the power of a study, the lower the probability that an observed effect that is considered to be statistically significant actually reflects a true effect
+
+    -   Example: Suppose we expect one in five genes to be differentially expressed, with p \< 0.05. If our study has 20% power, then PPV = 0.20 x 0.25 /(0.20 x 0.25 + 0.05) = 0.05 / 0.10 = 0.50; i.e. half of our claims for discoveries will be correct. If 80% power then 80% of claims for discoveries will be correct.
+
+    -   Winner's curse: Even when underpowered study discovers true effect, likely that estimate of magnitude of effect provided by study will be exaggerated
+
+        -   Likely to occur whenever claims of discovery are based on thresholds of statistical significance or other selection factors like Bayes factor
+
+        -   Effect inflation is worst for small, low-powered studies, which can only detect effects that happen to be large
+
+            -   If for example true effect is medium-sized, only those small studies that by chance overestimate the magnitude of the effect will pass threshold for discovery
+
+            -   Example: association truly exists with an effect size equivalent to odds ratio of 1.20, trying to discover with underpowered study. Odds ratio of 1.00 or 1.20 will not reach statistical significance because of small sample size. Only claim association as nominally significant in third case, random error creates odds ratio of 1.60. So 'lucky' scientist who makes discovery in small study is cursed by finding inflated effect
+
+            -   Winner's curse also affects design and conclusions of replication studies. By performing more replication studies, arrive at more accurate odds ratio of 1.20, but may take time or never happen if only perform small studies
+
+## Why should you do them?
+
+Slide with lower power issues
+
+## Counts data
+
+Matrix where:
+
+-   Rows are features, i.e. genes, taxa, etc.
+
+-   Columns are samples
+
+-   Values are counts of number of times feature appears in sample
+
+|          | Sample1                      | Sample2                      |
+|----------|------------------------------|------------------------------|
+| Feature1 | Count of feature1 in sample1 | Count of feature1 in sample2 |
+| Feature2 | Count of feature2 in sample1 | Count of feature2 in sample2 |
+| Feature3 | Count of feature3 in sample1 | Count of feature3 in sample2 |
+
+: Organization of counts data
+
+## Counts data
+
+Concrete example (this will be our matrix for our RNAseq analysis later)
+
+```{r, rnaseq_setup, echo=FALSE}
+library(RnaSeqSampleSize)
+library(dplyr)
+library(purrr)
+library(ggplot2)
+library(tidyverse)
+set.seed(538734517)
+```
+
+```{r, rnaseq_data, echo=FALSE}
+file_names <- c("../RNAseq/mouse_muscle_2019/SRS643406_SRX612440.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643403_SRX612437.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643407_SRX612441.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643404_SRX612438.dup.srtd.bam_htseq_counts")
+types <- c("Innervated_WT_1", "Innervated_WT_2", "Denervated_WT_1", "Denervated_WT_2")
+counts <- lapply(1:4, function(i) read.delim(file.path(file_names[i]),header=FALSE,col.names=c("gene_id","gene_name",types[i]))) %>% reduce(full_join)
+dataMat <- counts[,3:6]
+rownames(dataMat) <- counts$gene_id
+head(dataMat)
+genelist <- read.csv("../RNAseq/mouse_muscle_2019/gene_list.txt")
+#head(genelist)
+```
+
+## Intuition behind power analyses for counts data
+
+-   Provide counts matrices
+
+-   Provide or estimate parameters that are part of analysis, i.e. expected fold-change, sequencing depth, subsampling rate
+
+## Finding and formatting data
+
+-   The best data comes from a pilot study
+
+-   Otherwise, a study that is "close enough"
+
+    -   Factors to consider: system, conditions, accessibility of counts matrix data (you can always run a pipeline to go from the raw reads to the counts matrix, but that's definitely extra work)
+
+-   Control data can usually be found from a database like HMP
+
+## An example with RNAseq
+
+Follow along at: https://ccv.jupyter.brown.edu
+
+For RNAseq, we will be using the package `RnaSeqSampleSize`, many others exist as well. Notice that the main data you need to provide is a formatted counts matrix. Data used is \[GSE58669\](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58669) which is from \[\@Macpherson2015\]. This contains two WT Innervated Soleus muscle samples and two WT Deenervated Soleus muscle samples. (Also some KO samples which we did not use for the analysis) FASTQ files were run through \[Bioflows\](https://github.com/compbiocore/bioflows) and counts made with HTseq. Specific genes of interest for the analysis came from email exchange, and Ensembl gene IDs were pulled with Biomart.
+
+```{r, rnaseq_data2, echo=FALSE}
+file_names <- c("../RNAseq/mouse_muscle_2019/SRS643406_SRX612440.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643403_SRX612437.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643407_SRX612441.dup.srtd.bam_htseq_counts", "../RNAseq/mouse_muscle_2019/SRS643404_SRX612438.dup.srtd.bam_htseq_counts")
+types <- c("Innervated_WT_1", "Innervated_WT_2", "Denervated_WT_1", "Denervated_WT_2")
+counts <- lapply(1:4, function(i) read.delim(file.path(file_names[i]),header=FALSE,col.names=c("gene_id","gene_name",types[i]))) %>% reduce(full_join)
+dataMat <- counts[,3:6]
+rownames(dataMat) <- counts$gene_id
+head(dataMat)
+genelist <- read.csv("../RNAseq/mouse_muscle_2019/gene_list.txt")
+#head(genelist)
+```
+
+## RNAseq power analysis
+
+RNAseqsamplesize \[\@Zhao2018\] was used to do the analysis. With expected fold change between groups = 2, FDR set = 0.01 and number of samples = 5, power was computed to be 0.086 for the selected genes of interest which is very low. Some gene IDs pulled from Biomart are not in the dataset because they are alleles on alternative sequences (i.e. rapsn and Fbxo32) Dispersion was also computed as 0.04754.
+
+```{r}
+# estimate gene read count and dispersion distribution
+distribution <- est_count_dispersion(dataMat,group=c(0,0,1,1))
+
+# power estimation
+# some gene IDs are not in dataset because they are alleles on alternative sequences (rapsn and Fbxo32)
+power <- est_power_distribution(n=5,f=0.01,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power$power) # 0.08607387
+
+power2 <- est_power_distribution(n=6,f=0.01,rho=2,distributionObject=distribution,selectedGenes=genelist$Gene.stable.ID,storeProcess = TRUE)
+mean(power2$power)
+```
+
+## Plots
+
+```{r power_curve, tidy=TRUE, echo=TRUE, fig.cap="Red line is FDR=0.01, coverage=5. Blue line is FDR=0.05, coverage=5. Purple line is FDR=0.01, coverage=10. Green line is FDR=0.05, coverage=10. Yellow line is FDR=0.05, coverage=20."}
+# power vs sample size plot for different coverage / FDR
+coverage5_fdr1 <- est_power_curve(n=40,f=0.01,rho=2,lambda0=5,phi0=0.04754, m = 52000, m1=71)
+coverage10_fdr1 <- est_power_curve(n=40,f=0.01,rho=2,lambda0=10,phi0=0.04754)
+coverage5_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=5,phi=0.04754)
+coverage10_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=292,phi=0.04754, m = 52000, m1=71)
+coverage20_fdr5 <- est_power_curve(n=40,f=0.05,rho=2,lambda0=20,phi=0.04754)
+plot_power_curve(list(coverage5_fdr1,coverage5_fdr5,coverage10_fdr1,coverage10_fdr5,coverage20_fdr5))
+```
+
+## And one with 16s microbiome data
+
+## Fundamentals are about the same for others
+
+## Some limitations
+
+-   Power analyses do not generalize well - if method, data, etc changes you will need to update accordingly
+
+-   Gives a "best case scenario" estimate
+
+## Thanks!

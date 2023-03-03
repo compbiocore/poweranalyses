@@ -14,8 +14,11 @@ Top level folders are separated out by sequencing technology.
 
  * **RNAseq**
  	* **mouse_muscle_2019:** A power analysis done using `RNASeqSampleSize` for an RNAseq experiment involving mouse muscle tissue.
- * **metagenomics**
+	* **skin_2021:** A power analysis done using `RNASeqSampleSize` for an RNAseq experiment involving skin, lung tissue and looking into Reactome pathways. The data here is not in the repo due to files from GTeX that are ~2G in size, but can be provided if needed.
+ * **microbiome**
+	* **tutorial:** A tutorial on running `micropower` on data from HMP
+ * **dscov**: Slides for a DSCoV workshop on power analyses given 3/3/2023.
 
 # Other relevant information
 
-The metagenomics power analysis was eventually published as a blog post
+The metagenomics power analysis was eventually published as a blog post.
