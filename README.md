@@ -21,4 +21,4 @@ Top level folders are separated out by sequencing technology.
 
 # Other relevant information
 
-The metagenomics power analysis was eventually published as a blog post.
+The metagenomics power analysis was eventually published as [a blog post](https://medium.com/brown-compbiocore/power-analyses-for-microbiome-studies-with-micropower-8ff28b36dfe3).
