@@ -18,7 +18,11 @@ execute-dir: file
 
 -   You can also follow along on your own desktop if you have R and these packages
 
-## What are power analyses?
+## Power {style="fig-align: center"}
+
+![](images/paste-D8BB697B.png)
+
+## What are power analyses? {.smaller}
 
 -   Power: The probability of detecting an effect if it is really there
 
@@ -42,31 +46,43 @@ execute-dir: file
 
 -   Grant proposals often require them
 
+## Why should you do them? {.smaller}
+
 -   You probably do not want to get a false negative in your study so you want to have sufficient power
 
 -   Low power is also tied to non-reproducibility of studies
 
     -   The lower the power of a study, the lower the probability that an observed effect that is considered to be statistically significant actually reflects a true effect
 
-    -   Example: Suppose we expect one in five genes to be differentially expressed, with p \< 0.05. If our study has 20% power, then PPV = 0.20 x 0.25 /(0.20 x 0.25 + 0.05) = 0.05 / 0.10 = 0.50; i.e. half of our claims for discoveries will be correct. If 80% power then 80% of claims for discoveries will be correct.
+-   Winner's curse: Even when underpowered study discovers true effect, likely that estimate of magnitude of effect provided by study will be exaggerated
 
-    -   Winner's curse: Even when underpowered study discovers true effect, likely that estimate of magnitude of effect provided by study will be exaggerated
+    -   Likely to occur whenever claims of discovery are based on thresholds of statistical significance or other selection factors like Bayes factor
 
-        -   Likely to occur whenever claims of discovery are based on thresholds of statistical significance or other selection factors like Bayes factor
+    -   Effect inflation is worst for small, low-powered studies, which can only detect effects that happen to be large
 
-        -   Effect inflation is worst for small, low-powered studies, which can only detect effects that happen to be large
+## Power in practice {fig-align="center" smaller="true"}
 
-            -   If for example true effect is medium-sized, only those small studies that by chance overestimate the magnitude of the effect will pass threshold for discovery
+![](images/paste-7B0DD601.png)
 
-            -   Example: association truly exists with an effect size equivalent to odds ratio of 1.20, trying to discover with underpowered study. Odds ratio of 1.00 or 1.20 will not reach statistical significance because of small sample size. Only claim association as nominally significant in third case, random error creates odds ratio of 1.60. So 'lucky' scientist who makes discovery in small study is cursed by finding inflated effect
+Dumas-Mallet et al. (2017)
 
-            -   Winner's curse also affects design and conclusions of replication studies. By performing more replication studies, arrive at more accurate odds ratio of 1.20, but may take time or never happen if only perform small studies
+## Power in practice {.smaller style="fig-align: center"}
 
-## Why should you do them?
+::: columns
+::: {.column width="50%"}
+![](images/paste-2B6DBFB4.png)
 
-Slide with lower power issues
+Fraley & Vazire (2014)
+:::
 
-## Counts data
+::: {.column width="50%"}
+Button et al. (2013)
+
+![](images/paste-8B382FD2.png)
+:::
+:::
+
+## Counts data {.smaller}
 
 Matrix where:
 
@@ -114,6 +130,8 @@ genelist <- read.csv("../RNAseq/mouse_muscle_2019/gene_list.txt")
 
 -   Provide or estimate parameters that are part of analysis, i.e. expected fold-change, sequencing depth, subsampling rate
 
+-   Package will either simulate additional datasets based on distribution with these parameters or fit model (i.e. negative binomial for RNAseq) to data and estimate power vs sample size
+
 ## Finding and formatting data
 
 -   The best data comes from a pilot study
@@ -123,6 +141,12 @@ genelist <- read.csv("../RNAseq/mouse_muscle_2019/gene_list.txt")
     -   Factors to consider: system, conditions, accessibility of counts matrix data (you can always run a pipeline to go from the raw reads to the counts matrix, but that's definitely extra work)
 
 -   Control data can usually be found from a database like HMP
+
+## Examples {style="fig-align: center"}
+
+http://ccv.jupyter.brown.edu
+
+![](images/paste-83A01B70.png)
 
 ## Some limitations
 

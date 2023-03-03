@@ -23,70 +23,6 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
-    pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-    pre > code.sourceCode > span:empty { height: 1.2em; }
-    .sourceCode { overflow: visible; }
-    code.sourceCode > span { color: inherit; text-decoration: inherit; }
-    div.sourceCode { margin: 1em 0; }
-    pre.sourceCode { margin: 0; }
-    @media screen {
-    div.sourceCode { overflow: auto; }
-    }
-    @media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-    }
-    pre.numberSource code
-      { counter-reset: source-line 0; }
-    pre.numberSource code > span
-      { position: relative; left: -4em; counter-increment: source-line; }
-    pre.numberSource code > span > a:first-child::before
-      { content: counter(source-line);
-        position: relative; left: -1em; text-align: right; vertical-align: baseline;
-        border: none; display: inline-block;
-        -webkit-touch-callout: none; -webkit-user-select: none;
-        -khtml-user-select: none; -moz-user-select: none;
-        -ms-user-select: none; user-select: none;
-        padding: 0 4px; width: 4em;
-        color: #aaaaaa;
-      }
-    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-    div.sourceCode
-      { color: #003b4f; background-color: #f1f3f5; }
-    @media screen {
-    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-    }
-    code span { color: #003b4f; } /* Normal */
-    code span.al { color: #ad0000; } /* Alert */
-    code span.an { color: #5e5e5e; } /* Annotation */
-    code span.at { color: #657422; } /* Attribute */
-    code span.bn { color: #ad0000; } /* BaseN */
-    code span.bu { } /* BuiltIn */
-    code span.cf { color: #003b4f; } /* ControlFlow */
-    code span.ch { color: #20794d; } /* Char */
-    code span.cn { color: #8f5902; } /* Constant */
-    code span.co { color: #5e5e5e; } /* Comment */
-    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
-    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
-    code span.dt { color: #ad0000; } /* DataType */
-    code span.dv { color: #ad0000; } /* DecVal */
-    code span.er { color: #ad0000; } /* Error */
-    code span.ex { } /* Extension */
-    code span.fl { color: #ad0000; } /* Float */
-    code span.fu { color: #4758ab; } /* Function */
-    code span.im { color: #00769e; } /* Import */
-    code span.in { color: #5e5e5e; } /* Information */
-    code span.kw { color: #003b4f; } /* Keyword */
-    code span.op { color: #5e5e5e; } /* Operator */
-    code span.ot { color: #003b4f; } /* Other */
-    code span.pp { color: #ad0000; } /* Preprocessor */
-    code span.sc { color: #5e5e5e; } /* SpecialChar */
-    code span.ss { color: #20794d; } /* SpecialString */
-    code span.st { color: #20794d; } /* String */
-    code span.va { color: #111111; } /* Variable */
-    code span.vs { color: #20794d; } /* VerbatimString */
-    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="dscov_files/libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="dscov_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -391,12 +327,18 @@
 <h2>Some preamble</h2>
 <ul>
 <li><p>Slides and all examples in more detail as their own Rmd notebooks available at: https://github.com/compbiocore/poweranalyses</p></li>
-<li><p>Navigating to http://ccv.jupyter.brown.edu will provide an environment with all packages needed for these power analyses already installed</p></li>
+<li><p>Navigating to http://ccv.jupyter.brown.edu will provide an environment with all packages needed for these power analyses already installed</p>
+<ul>
+<li>From the terminal: https://github.com/compbiocore/poweranalyses.git</li>
+</ul></li>
 <li><p>You can also follow along on your own desktop if you have R and these packages</p></li>
-<li><p>Microbiome example is also available at https://github.com/compbiocore/metagenomics-power-analyses-tutorial</p></li>
 </ul>
 </section>
-<section id="what-are-power-analyses" class="slide level2">
+<section id="power" class="slide level2" style="fig-align: center">
+<h2>Power</h2>
+
+<img data-src="images/paste-D8BB697B.png" class="r-stretch"></section>
+<section id="what-are-power-analyses" class="slide level2 smaller">
 <h2>What are power analyses?</h2>
 <ul>
 <li><p>Power: The probability of detecting an effect if it is really there</p></li>
@@ -410,6 +352,9 @@
 </section>
 <section id="why-should-you-do-them" class="slide level2">
 <h2>Why should you do them?</h2>
+</section>
+<section id="why-should-you-do-them-1" class="slide level2">
+<h2>Why should you do them?</h2>
 <ul>
 <li><p>Questions you can answer with a power analysis:</p>
 <ul>
@@ -417,29 +362,41 @@
 <li><p>If I have this many samples (and know the effect size), how much power will I have to detect the effect?</p></li>
 </ul></li>
 <li><p>Grant proposals often require them</p></li>
+</ul>
+</section>
+<section id="why-should-you-do-them-2" class="slide level2 smaller">
+<h2>Why should you do them?</h2>
+<ul>
 <li><p>You probably do not want to get a false negative in your study so you want to have sufficient power</p></li>
 <li><p>Low power is also tied to non-reproducibility of studies</p>
 <ul>
-<li><p>The lower the power of a study, the lower the probability that an observed effect that is considered to be statistically significant actually reflects a true effect</p></li>
-<li><p>Example: Suppose we expect one in five genes to be differentially expressed, with p &lt; 0.05. If our study has 20% power, then PPV = 0.20 x 0.25 /(0.20 x 0.25 + 0.05) = 0.05 / 0.10 = 0.50; i.e.&nbsp;half of our claims for discoveries will be correct. If 80% power then 80% of claims for discoveries will be correct.</p></li>
+<li>The lower the power of a study, the lower the probability that an observed effect that is considered to be statistically significant actually reflects a true effect</li>
+</ul></li>
 <li><p>Winner’s curse: Even when underpowered study discovers true effect, likely that estimate of magnitude of effect provided by study will be exaggerated</p>
 <ul>
 <li><p>Likely to occur whenever claims of discovery are based on thresholds of statistical significance or other selection factors like Bayes factor</p></li>
-<li><p>Effect inflation is worst for small, low-powered studies, which can only detect effects that happen to be large</p>
-<ul>
-<li><p>If for example true effect is medium-sized, only those small studies that by chance overestimate the magnitude of the effect will pass threshold for discovery</p></li>
-<li><p>Example: association truly exists with an effect size equivalent to odds ratio of 1.20, trying to discover with underpowered study. Odds ratio of 1.00 or 1.20 will not reach statistical significance because of small sample size. Only claim association as nominally significant in third case, random error creates odds ratio of 1.60. So ‘lucky’ scientist who makes discovery in small study is cursed by finding inflated effect</p></li>
-<li><p>Winner’s curse also affects design and conclusions of replication studies. By performing more replication studies, arrive at more accurate odds ratio of 1.20, but may take time or never happen if only perform small studies</p></li>
-</ul></li>
-</ul></li>
+<li><p>Effect inflation is worst for small, low-powered studies, which can only detect effects that happen to be large</p></li>
 </ul></li>
 </ul>
 </section>
-<section id="why-should-you-do-them-1" class="slide level2">
-<h2>Why should you do them?</h2>
-<p>Slide with lower power issues</p>
+<section id="power-in-practice" class="slide level2" data-fig-align="center" data-smaller="true">
+<h2>Power in practice</h2>
+
+<img data-src="images/paste-7B0DD601.png" class="r-stretch"><p>Dumas-Mallet et al.&nbsp;(2017)</p>
 </section>
-<section id="counts-data" class="slide level2">
+<section id="power-in-practice-1" class="slide level2 smaller" style="fig-align: center">
+<h2>Power in practice</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img data-src="images/paste-2B6DBFB4.png"></p>
+<p>Fraley &amp; Vazire (2014)</p>
+</div><div class="column" style="width:50%;">
+<p><img data-src="images/paste-8B382FD2.png"></p>
+<p>Button et al.&nbsp;(2013)</p>
+</div>
+</div>
+</section>
+<section id="counts-data" class="slide level2 smaller">
 <h2>Counts data</h2>
 <p>Matrix where:</p>
 <ul>
@@ -510,6 +467,7 @@ ENSMUSG00000000049              15</code></pre>
 <ul>
 <li><p>Provide counts matrices</p></li>
 <li><p>Provide or estimate parameters that are part of analysis, i.e.&nbsp;expected fold-change, sequencing depth, subsampling rate</p></li>
+<li><p>Package will either simulate additional datasets based on distribution with these parameters or fit model (i.e.&nbsp;negative binomial for RNAseq) to data and estimate power vs sample size</p></li>
 </ul>
 </section>
 <section id="finding-and-formatting-data" class="slide level2">
@@ -523,66 +481,11 @@ ENSMUSG00000000049              15</code></pre>
 <li><p>Control data can usually be found from a database like HMP</p></li>
 </ul>
 </section>
-<section id="an-example-with-rnaseq" class="slide level2">
-<h2>An example with RNAseq</h2>
-<p>Follow along at: https://ccv.jupyter.brown.edu</p>
-<p>For RNAseq, we will be using the package <code>RnaSeqSampleSize</code>, many others exist as well. Notice that the main data you need to provide is a formatted counts matrix. Data used is [GSE58669](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58669) which is from [@Macpherson2015]. This contains two WT Innervated Soleus muscle samples and two WT Deenervated Soleus muscle samples. (Also some KO samples which we did not use for the analysis) FASTQ files were run through [Bioflows](https://github.com/compbiocore/bioflows) and counts made with HTseq. Specific genes of interest for the analysis came from email exchange, and Ensembl gene IDs were pulled with Biomart.</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>                   Innervated_WT_1 Innervated_WT_2 Denervated_WT_1
-ENSMUSG00000000001             370             481             799
-ENSMUSG00000000003               0               0               0
-ENSMUSG00000000028              35              49             100
-ENSMUSG00000000031           26525           56058           27610
-ENSMUSG00000000037               2              12               1
-ENSMUSG00000000049              11              11               6
-                   Denervated_WT_2
-ENSMUSG00000000001             917
-ENSMUSG00000000003               0
-ENSMUSG00000000028             109
-ENSMUSG00000000031           74990
-ENSMUSG00000000037              38
-ENSMUSG00000000049              15</code></pre>
-</div>
-</div>
-</section>
-<section id="rnaseq-power-analysis" class="slide level2">
-<h2>RNAseq power analysis</h2>
-<p>RNAseqsamplesize [@Zhao2018] was used to do the analysis. With expected fold change between groups = 2, FDR set = 0.01 and number of samples = 5, power was computed to be 0.086 for the selected genes of interest which is very low. Some gene IDs pulled from Biomart are not in the dataset because they are alleles on alternative sequences (i.e.&nbsp;rapsn and Fbxo32) Dispersion was also computed as 0.04754.</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>Disp = 0.04754 , BCV = 0.218 </code></pre>
-</div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.08607387</code></pre>
-</div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.1515883</code></pre>
-</div>
-</div>
-</section>
-<section id="plots" class="slide level2">
-<h2>Plots</h2>
-<div class="cell">
-<details>
-<summary>Show the code</summary>
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="co"># power vs sample size plot for different coverage / FDR</span></span>
-<span id="cb6-2"><a href="#cb6-2"></a>coverage5_fdr1 <span class="ot">&lt;-</span> <span class="fu">est_power_curve</span>(<span class="at">n=</span><span class="dv">40</span>,<span class="at">f=</span><span class="fl">0.01</span>,<span class="at">rho=</span><span class="dv">2</span>,<span class="at">lambda0=</span><span class="dv">5</span>,<span class="at">phi0=</span><span class="fl">0.04754</span>, <span class="at">m =</span> <span class="dv">52000</span>, <span class="at">m1=</span><span class="dv">71</span>)</span>
-<span id="cb6-3"><a href="#cb6-3"></a>coverage10_fdr1 <span class="ot">&lt;-</span> <span class="fu">est_power_curve</span>(<span class="at">n=</span><span class="dv">40</span>,<span class="at">f=</span><span class="fl">0.01</span>,<span class="at">rho=</span><span class="dv">2</span>,<span class="at">lambda0=</span><span class="dv">10</span>,<span class="at">phi0=</span><span class="fl">0.04754</span>)</span>
-<span id="cb6-4"><a href="#cb6-4"></a>coverage5_fdr5 <span class="ot">&lt;-</span> <span class="fu">est_power_curve</span>(<span class="at">n=</span><span class="dv">40</span>,<span class="at">f=</span><span class="fl">0.05</span>,<span class="at">rho=</span><span class="dv">2</span>,<span class="at">lambda0=</span><span class="dv">5</span>,<span class="at">phi=</span><span class="fl">0.04754</span>)</span>
-<span id="cb6-5"><a href="#cb6-5"></a>coverage10_fdr5 <span class="ot">&lt;-</span> <span class="fu">est_power_curve</span>(<span class="at">n=</span><span class="dv">40</span>,<span class="at">f=</span><span class="fl">0.05</span>,<span class="at">rho=</span><span class="dv">2</span>,<span class="at">lambda0=</span><span class="dv">292</span>,<span class="at">phi=</span><span class="fl">0.04754</span>, <span class="at">m =</span> <span class="dv">52000</span>, <span class="at">m1=</span><span class="dv">71</span>)</span>
-<span id="cb6-6"><a href="#cb6-6"></a>coverage20_fdr5 <span class="ot">&lt;-</span> <span class="fu">est_power_curve</span>(<span class="at">n=</span><span class="dv">40</span>,<span class="at">f=</span><span class="fl">0.05</span>,<span class="at">rho=</span><span class="dv">2</span>,<span class="at">lambda0=</span><span class="dv">20</span>,<span class="at">phi=</span><span class="fl">0.04754</span>)</span>
-<span id="cb6-7"><a href="#cb6-7"></a><span class="fu">plot_power_curve</span>(<span class="fu">list</span>(coverage5_fdr1,coverage5_fdr5,coverage10_fdr1,coverage10_fdr5,coverage20_fdr5))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
+<section id="examples" class="slide level2" style="fig-align: center">
+<h2>Examples</h2>
+<p>http://ccv.jupyter.brown.edu</p>
 
-</div>
-<img data-src="dscov_files/figure-revealjs/power_curve-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">Red line is FDR=0.01, coverage=5. Blue line is FDR=0.05, coverage=5. Purple line is FDR=0.01, coverage=10. Green line is FDR=0.05, coverage=10. Yellow line is FDR=0.05, coverage=20.</p></section>
-<section id="and-one-with-16s-microbiome-data" class="slide level2">
-<h2>And one with 16s microbiome data</h2>
-</section>
-<section id="fundamentals-are-about-the-same-for-others" class="slide level2">
-<h2>Fundamentals are about the same for others</h2>
-</section>
+<img data-src="images/paste-83A01B70.png" class="r-stretch"></section>
 <section id="some-limitations" class="slide level2">
 <h2>Some limitations</h2>
 <ul>
